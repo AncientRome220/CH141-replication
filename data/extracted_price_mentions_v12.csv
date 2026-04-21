@@ -1,0 +1,1868 @@
+﻿DDB_ID,Mention_ID,Grain_Index,Candidate_Rank,Is_Primary,Block_Tag,Title,Place,Date_Text,Date_When,Date_NotBefore,Date_NotAfter,Grain_Form,Qty_Value,Qty_Unit,Price_Value,Price_Cur,Score,Dist_GP,Dist_GQ,Span_Toks,Lines_Crossed,Priceword_Near,Pos_Signal_Near,Ambiguous,AltScore,Alt_Qty,Alt_Price,Context_Window,Context_Type,Signal_Type,Signal_Strength,Neg_Signals,Rejection_Reason
+basp;50;89,1,3,1,yes,ab,Schedule of Contracts from the Writing Office of Polydeukeia and Sethrenpai,Theadelphia (Arsinoites),spätes I - II,,0076,0200,πυρου,5,αρταβασ,60,δραχμασ,31.15,3,5,8,0,no,no,no,,,,ἔχιν παρ’ αὐτῆ ς χρῆσιν ἀργυ ρίου δραχμὰς 60 καὶ πυροῦ καθαρο ῦ ἀδόλ ου ἀρτάβας 5 μέτρω ι δρό μωι ἑξαχοινίκωι τῆς Μαρωνίδ,OTHER,,0.0,,
+bgu;13;2330,1,1,1,yes,ab,Sale with Advance Payment (?),Soknopaiu Nesos (Arsinoites),27. Apr. 89,0089-04-27,,,πυρου,,,60,δραχμασ,37.74,7,-1,7,0,yes,yes,no,,,,"Σεβαστ οῦ νομίσ
+ματ ος κε φαλαίου δραχμὰς 60 καὶ τιμήν καί τιμὴν
+πυροῦ νέου καθαροῦ ἀδόλου ἀρταβ ἀρτάβ ας ἕξ ἀρταβ",PRICE,priceword_ext,0.6,,
+bgu;20;2840,1,8,1,yes,ab,Amtliche Korrespondenz über Kornlieferung für Soldaten,Herakleopolites,29. Juli 200 v.Chr. (Jahr unsicher),-0200-07-29,,,πυρου,889,αρταβαι,19,ταλαντα,29.46,4,1,5,0,no,no,no,,,,"517 τῆς ἀρτάβης 100 τάλαντα 8 3700 γίνονται τάλαντα 19 1661 1/2 πυροῦ ἀρτάβαι 889
+7-8 τούτοις τ οῖ ς ἀν",OTHER,,0.0,,
+bgu;20;2840,1,10,1,yes,ab,Amtliche Korrespondenz über Kornlieferung für Soldaten,Herakleopolites,29. Juli 200 v.Chr. (Jahr unsicher),-0200-07-29,,,πυρου,705.5,αρταβαι,5,ταλαντα,31.23,3,1,4,0,no,no,no,,,,"Παχων ἀγή ματος Μακεδονικοῦ γίνονται ἄνδ ρες 193 τάλαντα 5 1240 πυροῦ ἀρτάβαι 705 1/2
+τῶν παρ’ Ἑρμοκλέους τοῦ στρατη",OTHER,,0.0,,
+bgu;20;2840,1,12,1,yes,ab,Amtliche Korrespondenz über Kornlieferung für Soldaten,Herakleopolites,29. Juli 200 v.Chr. (Jahr unsicher),-0200-07-29,,,πυρου,703.5,αρταβασ,5,ταλαντα,29.86,2,5,7,0,no,no,no,,,,"πυροῦ ἀρτάβας 10 ἄ λλ οις ὧν 192 τάλαντα 5 πυροῦ ἀρτάβας χ
+πυροῦ ἀρτάβας 703 1/2 κ αὶ εἰς Π αυν ι",OTHER,,0.0,,
+bgu;20;2840,1,14,1,yes,ab,Amtliche Korrespondenz über Kornlieferung für Soldaten,Herakleopolites,29. Juli 200 v.Chr. (Jahr unsicher),-0200-07-29,,,πυρου,703.5,αρταβασ,5,ταλαντα,27.94,3,1,4,0,no,no,no,,,,703 1/2 κ αὶ εἰς Π αυν ι τάλαντα 5 Β πυροῦ ἀρτάβας 703 1/2 γίνονται τάλαντα 10 4013 3 πυροῦ,OTHER,,0.0,,
+bgu;20;2840,1,15,1,yes,ab,Amtliche Korrespondenz über Kornlieferung für Soldaten,Herakleopolites,29. Juli 200 v.Chr. (Jahr unsicher),-0200-07-29,,,πυρου,1406,αρταβαι,10,ταλαντα,29.46,4,1,5,0,no,no,no,,,,"τάλαντα 5 Β πυροῦ ἀρτάβας 703 1/2 γίνονται τάλαντα 10 4013 3 πυροῦ ἀρτάβαι 1406
+α ἐν τ ῇ ι 2",OTHER,,0.0,,
+bgu;20;2840,1,16,1,yes,ab,Amtliche Korrespondenz über Kornlieferung für Soldaten,Herakleopolites,29. Juli 200 v.Chr. (Jahr unsicher),-0200-07-29,,,πυρου,1406,αρταβαι,29,ταλαντα,28.12,2,26,26,0,no,no,no,,,,"703 1/2 γίνονται τάλαντα 10 4013 3 πυροῦ ἀρτάβαι 1406
+α ἐν τ ῇ ι 2 ἐν τ ῶ ι βα σιλικῶι μη νὸς Ἀ πελλα ίου ουν οὖν φ του τάλαντα 29 πυροῦ ἀρτάβας",OTHER,,0.0,,
+bgu;20;2840,3,1,1,yes,ab,Amtliche Korrespondenz über Kornlieferung für Soldaten,Herakleopolites,29. Juli 200 v.Chr. (Jahr unsicher),-0200-07-29,,,πυρου,889,αρταβασ,29,ταλαντα,31.01,4,1,4,0,no,no,no,,,,"ἔτους 5 Παυνι 21 Σπάρτακος
+
+
+πυροῦ ἀρτάβας 889
+τάλαντα 29",OTHER,,0.0,,
+bgu;2;362,6,1,1,yes,ab,keiner,Arsinoites,215 - 216,,0215,0216,πυρου,8,αρταβ,8,δραχμαι,29.29,5,1,5,0,no,no,no,,,,"μ ισθ α κ οδ ωχ
+συμβολ πυροῦ ἀρτάβ 8 ἑκ άστης δραχμαὶ 8
+
+λε ίων Καρποκράτ ο υ",OTHER,,0.0,,
+bgu;6;1228,1,5,1,yes,ab,Saatquittung eines Klerospächters,Pela (Oxyrhynchites),27. Okt. - 25. Nov. 258 v.Chr.,,-0258-10-27,-0258-11-25,σιτον,,,4,δραχμασ,29.6,15,-1,15,0,yes,yes,no,,,,"ἄδολον, ἀπομετρησάτω δὲ Νί
+κων τοῦτον τὸν σῖτον ἅμα τοῖς ἐκφορίοις, ἐὰν
+δὲ μὴ ἀπομετρήσηι, ἀποτεισάτω τιμὴν τῆς
+ἀρτάβης ἑκάστης δραχμὰς 4 καὶ ἡ πρᾶξις πρὸς βασιλικά.",PRICE,priceword_ext,0.6,TAX,
+bgu;6;1292,1,3,1,yes,ab,Privatrechnung,Eunikon (?),8. Apr. 79 v.Chr.,-0079-04-08,,,πυρου,659.833333,αρταβαι,8,δραχμασ,28.25,25,1,25,0,no,yes,no,,,,"πυροῦ ἀρτάβας 223 1/2 1/3
+γίνονται το πυροῦ ἀρτάβαι 659 1/2 1/3
+καὶ χαλκοῦ λόγου Νίκων
+ὥστε Διογένει Διογενης ὑπὲρ Ὀνησίμου
+ἔτους 35 Φα ῶφ ι 10 Διογένο υς δραχμὰς 8 1800
+11 Διογένης ἀργ υρίου δραχμὰς",PRICE,sale_verb,0.5,,
+cpr;7;31,1,1,1,yes,ab,Lieferungsvertrag mit Vorausbezahlung,Hermopolis,29. Aug. 196 - 24. Juni 197,,0196-08-29,0197-06-24,πυρου,,,248,δραχμασ,26.67,20,-1,20,0,no,yes,no,,,,"χρῆσιν ἔντ ο κον
+εἰ ς τιμὴν πυροῦ γενήμ ατος τοῦ ἐνεστ ῶτος 5 ἔτους κεφα λ αίου καὶ
+τό κο υ ἀ ρ γ υρίου δραχμὰς 248 γίνεται κεφαλ αίου καὶ τόκ ου δραχμὰς",PRICE,priceword_ext,0.6,,
+o.ashm;;91,1,1,1,yes,ab,keiner,unbekannt,I - IV,,0001,0400,πυρου,2,αρταβαι,18,δραχμαι,29.29,5,1,5,0,no,no,no,,,,τι μ ὴ πυροῦ ἀρτάβαι 2 κέρμ ατος δραχμαὶ 18 χ,OTHER,,0.0,,
+o.bodl;1;135,1,1,1,yes,ab,keiner,Theben (?),16. Nov. 154 v.Chr. (Jahr unsicher),-0154-11-16,,,πυρου,,,8,χαλκου,39.2,6,-1,6,0,yes,yes,no,,,,"χαί ρειν . ἔχομεν
+παρὰ σοῦ τιμὴν πυροῦ
+ἀρτ αβῶν ὀκτὼ ὀκτὼι 8 χαλκοῦ
+κο σίας
+ἔτους 28 Φαῶφι",PRICE,priceword_ext,0.6,,
+o.bodl;2;2266,1,1,1,yes,ab,keiner,Theben,II - III,,0101,0300,πυρου,38,αρταβ,10,δραχμων,27.83,5,1,5,0,no,no,no,,,,"5 π γίν
+τιμ ῆς πυροῦ ἀρταβ 38 ἐ κ δραχμῶν 10
+γίνονται δραχμαὶ 380 ὁμ οίως καὶ",OTHER,,0.0,,
+o.bodl;2;979,1,2,1,yes,ab,keiner,Theben,22. Okt. 175 (Jahr unsicher),0175-10-22,,,πυρου,1,αρταβησ,12,δραχμαι,28.89,15,1,15,0,no,yes,no,,,,"ὀνό ματος Μέλανος Μελας Τηιονχώνσιο ς
+ἀπὸ πυροῦ ἀρτάβης 1/2 1/12 ἐ π ὶ λ ό γου δραχ μὰς
+δώδεκα γίνονται δραχμαὶ 12 . Πα σ εσ η μείωμαι .",PRICE,priceword_ext,0.6,,
+o.edfou;1;26,1,1,1,yes,ab,keiner,Apollonopolis,15. Sept. 68,0068-09-15,,,πυρου,1.5,αρταβησ,9,δραχμασ,47.29,5,1,5,0,yes,yes,no,,,,"Διο φάνης Νίκω
+νος τιμῆς πυροῦ ἀρτάβης 1 1/2
+δραχμὰς 9 2 ἔτους 2 Γάλβα
+τοῦ κυρίου",PRICE,priceword_ext,0.6,,
+o.petr.mus;;282,1,4,1,yes,ab,Ricevuta di τιμὴ πυροῦ ἀρταβῶν διοικήσεως,Koptos,25. Jan. 4 v.Chr.,-0004-01-25,,,πυρου,7.166667,αρταβων,0.166667,δραχμασ,29.59,3,1,3,0,no,no,no,,,,"φις Ὥ ρο υ
+πυροῦ ἀρταβῶν γίνονται πυροῦ ἀρταβῶν 7 1/6 δραχμάς 25 ἡμιωβέλιον 1/2 καὶ κρ ιθῆς κρ",OTHER,,0.0,,
+o.petr.mus;;285,1,3,1,yes,ab,Ricevuta di τιμὴ πυροῦ ἀρταβῶν διοικήσεως,Koptos,25. Jan. 4 v.Chr.,-0004-01-25,,,πυρου,1,αρταβησ,3,δραχμασ,26.97,5,3,5,0,no,no,no,,,,"αρχίας Ἁρ υώθ ης
+Π εταρπαή σιος πυροῦ ἀρτάβης ρο ἀρτάβης 1 δραχμὰς 3 3
+ὑ π οκ ειμένων κρ",OTHER,,0.0,,
+o.wilb;;76,1,1,1,yes,ab,Administration de biens confisqués par l’État,Oberägypten,117 - 161 (?),,0117,0161,πυρου,11,αρταβαι,5,δραχμων,43.23,11,1,11,0,no,yes,no,,,,"περιγενόμεναι
+ἐξ ἐπιτηρ ήσεως ἡμῶν φοινίκ ων πυροῦ ἀρτάβαι 11
+αἱ καὶ πραθ εῖσαι πυροῦ ἀρτάβαι ἐκ δραχμῶν 5 γίνονται δραχμαὶ 55
+καὶ ὁμ οίως",PRICE,rate_construction,0.8,,
+o.wilb;;76,1,2,1,yes,ab,Administration de biens confisqués par l’État,Oberägypten,117 - 161 (?),,0117,0161,πυρου,11,αρταβαι,5,δραχμων,51.69,3,7,10,0,no,yes,no,,,,"ἐξ ἐπιτηρ ήσεως ἡμῶν φοινίκ ων πυροῦ ἀρτάβαι 11
+αἱ καὶ πραθ εῖσαι πυροῦ ἀρτάβαι ἐκ δραχμῶν 5 γίνονται δραχμαὶ 55
+καὶ ὁμ οίως",PRICE,rate_construction,0.8,,
+p.abinn;;68v,1,1,1,yes,ab,keiner,Andromachis und Hermopolis (Arsinoites),ca. 348 - 351,0348,,,σιτου,3,αρταβασ,150,ταλαντα,26.97,5,3,5,0,no,no,no,,,,"15
+ὧν ἔλαβε ἐλαβι ὁ σακκᾶς·
+σίτου ἀρτάβας τρεῖς ἀρτάβας 3 τάλαντα 150
+ἄλλην τά λα ντα 50 .",OTHER,,0.0,,
+p.abinn;;68v,1,2,1,yes,ab,keiner,Andromachis und Hermopolis (Arsinoites),ca. 348 - 351,0348,,,σιτου,1,αρταβην,50,ταλαντα,29.29,5,1,6,0,no,no,no,,,,"16 160000
+ὁ αὐτὸς Ἀνοῦτις ἀρτάβην 1 τάλαντα 50
+ὁ αὐτὸς σίτου ἀρτάβην 1
+ὁ αὐτὸς ἄλλην ἀρτάβην 1",OTHER,,0.0,,
+p.bad;2;25,1,1,1,yes,ab,Kauf von Gerste und Gemüsesamen mit Vorausbezahlung des Kaufpreises (Pränumerationskaufvertrag),Ptolemais Euergetis (Arsinoites),III,,0201,0300,κριθησ,,,160,δραχμαι,33.0,11,-1,11,0,no,yes,no,,,,"ἑ κα
+τ ὸ ν ἑξήκοντα γίνονται δραχμαὶ 160 δίκαι αι .
+λο ι πὰς τιμῆς τειμῆς κριθῆς ἀ ρ τά β ας ἀτά β ας",PRICE,priceword_ext,0.6,,
+p.berl.frisk;;1,1,1,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,κριθησ,10.625,αρταβασ,46,δραχμασ,33.18,20,1,20,0,no,yes,no,,,,"νι γενο μένης γενή ματος 13 ἔτους
+κριθῆς ἀρτάβας 10 1/2 1/8 , τιμῆς ὡς τῆς ἀρτάβης ἑκάστης 4 2 , τὰς συναγο μένας
+ἀργ υρίου δραχμὰς 46 . ἐσμὲν δέ· κας Σαμβᾶ ἀρτάβης 1/2",PRICE,priceword_ext,0.6,TRANSPORT,
+p.berl.frisk;;1,6,3,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,2.083333,αρταβασ,25,δραχμασ,27.63,66,1,66,0,no,yes,no,,,,"εἰς τοὺς
+ὅρμους γενή ματος 17 ἔτους πυροῦ ἀρτάβας 2 1/12 , κριθ ῆς
+, τιμῆς τοῦ μὲν πυροῦ ὡς τῆς ἀρτάβης
+ἑκά στης 8 , τὰς συν αγομ ένας ἀργυ ρίου δραχμ ὰς
+16 4 , τῆς δὲ κριθῆς ὡς τῶν
+100 ἀρταβῶν δραχμῶν , τὰς σ υ ναγομ ένας ἀ ρ γυρ ί ου
+δραχμ ὰς 8 2 , τὰς ἐπὶ τὸ α ὐτὸ ἀργ υρίου δραχμὰς 25 .
+ἔτους 18 Αὐτοκράτορος Καίσαρος Τίτου",PRICE,priceword_ext,0.6,,
+p.berl.frisk;;1,6,4,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,κριθ,2.083333,αρταβασ,25,δραχμασ,26.37,61,4,65,0,no,yes,no,,,,"τοὺς
+ὅρμους γενή ματος 17 ἔτους πυροῦ ἀρτάβας 2 1/12 , κριθ ῆς
+, τιμῆς τοῦ μὲν πυροῦ ὡς τῆς ἀρτάβης
+ἑκά στης 8 , τὰς συν αγομ ένας ἀργυ ρίου δραχμ ὰς
+16 4 , τῆς δὲ κριθῆς ὡς τῶν
+100 ἀρταβῶν δραχμῶν , τὰς σ υ ναγομ ένας ἀ ρ γυρ ί ου
+δραχμ ὰς 8 2 , τὰς ἐπὶ τὸ α ὐτὸ ἀργ υρίου δραχμὰς 25 .
+ἔτους 18 Αὐτοκράτορος Καίσαρος Τίτου",PRICE,priceword_ext,0.6,,
+p.berl.frisk;;1,9,3,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,4,αρταβασ,32,δραχμασ,31.01,4,1,4,0,no,no,no,,,,"52 , οὐλ ὴ
+ἀριστ ερ , πυροῦ ἀρτάβας 4 , δραχμὰς 32 .
+Ταλλη ·
+Ψε ν",OTHER,,0.0,,
+p.berl.frisk;;1,9,4,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,1,αρταβην,8,δραχμασ,29.46,4,1,4,0,no,no,no,,,,"ἐτῶν 35 , οὐ λὴ πήχει πήχι δεξιῷ, πυροῦ ἀρτάβην 1 , δραχμὰς 8 .
+γίνονται αἱ π ροκείμεναι πυροῦ",OTHER,,0.0,,
+p.berl.frisk;;1,9,5,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,5,αρταβαι,40,δραχμαι,29.46,4,1,4,0,no,no,no,,,,"δραχμὰς 8 .
+γίνονται αἱ π ροκείμεναι πυροῦ ἀρτάβαι 5 , δραχμαὶ 40 .
+ἔτους 18 Αὐτοκράτορος Καίσαρος",OTHER,,0.0,,
+p.berl.frisk;;1,11,12,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,10.5,αρταβασ,0.5,δραχμασ,31.23,3,1,3,0,no,no,no,,,,"60 , οὐ λὴ χειρὶ χ ιρὶ δεξιᾷ, πυροῦ ἀρτάβας 10 1/2 , δραχμὰς 8 .
+Πάτρ ων Δ",OTHER,,0.0,,
+p.berl.frisk;;1,11,13,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,7.083333,αρταβασ,0.083333,δραχμασ,31.23,3,1,3,0,no,no,no,,,,"χειρὸ χ ι ρὸ ς ἀριστ ερᾶς , πυροῦ ἀρτάβας 7 1/12 , δραχμὰς 56 4 .
+Πασίων Ἰσ",OTHER,,0.0,,
+p.berl.frisk;;1,14,3,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,2.75,αρταβασ,2,οβολουσ,27.71,6,1,7,0,no,no,no,,,,"σερ άκ οντα μί αν 341 δύο 2 ὀβολούς. εἰσὶ ἐστὶ δέ·
+πυροῦ ἀρτάβας 2 1/2 1/4 . Ἀρτεμᾶς Διοσκόρου
+πυροῦ",OTHER,,0.0,,
+p.berl.frisk;;1,16,1,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,3.416667,αρταβασ,27,δραχμασ,32.73,21,1,21,0,no,yes,no,,,,"17 ἔτους
+Ἀντωνίνου Καίσαρος τοῦ
+κυρίου πυροῦ ἀρτάβας 3 1/3 1/12 , τιμῆς τειμῆς
+ὡς τῆς ἀρτάβης ἑκά στης 8 , τὰς συνα
+γομ ένας δραχμὰς 27 2 πλήρης,
+ἀ κολ ούθως τῷ",PRICE,priceword_ext,0.6,,
+p.berl.frisk;;1,20,2,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,κριθ,25.708333,αρταβασ,98,δραχμασ,28.56,3,8,11,0,no,no,no,,,,"τὰς συν
+αγ ομ ένας ἀργ υρίου δραχμὰς 98 , κριθ ῆς ὁμοίως
+γενήμ ατος 17 ἔτους ἀρτάβας 25 2/3 1/24 , ὡς τῶν
+100",OTHER,,0.0,,
+p.berl.frisk;;1,22,14,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,κριθ,3,αρταβασ,122,δραχμασ,28.77,3,3,6,0,no,no,no,,,,"τὰς σ υνα γο μ ένας ἀργ υρίου δραχμὰς 122 , κριθ ῆς
+ἀρτάβας 3 , ὡς τῶν 100 ἀρταβῶν δραχμῶν 180",OTHER,,0.0,,
+p.berl.frisk;;1,24,2,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,475.291667,αρταβασ,8,δραχμασ,31.93,23,1,23,0,no,yes,no,,,,"ἔτους ἀπεργ ασίας γενομ ένης ἐπὶ σ οῦ πυροῦ ἀρτάβας 475 1/4 1/24 , κρ ιθ ῆς ἀρτάβας 119 3/4 , τιμῆς τοῦ μὲν πυροῦ
+ὡς τῆς ἀρτάβης ἑκά στης 8 , δραχμὰς 3802 2 , τῆς δὲ κριθ",PRICE,priceword_ext,0.6,,
+p.berl.frisk;;1,24,3,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,119.75,αρταβασ,8,δραχμασ,39.7,7,7,14,0,no,yes,no,,,,"ἀρτάβας 475 1/4 1/24 , κρ ιθ ῆς ἀρτάβας 119 3/4 , τιμῆς τοῦ μὲν πυροῦ
+ὡς τῆς ἀρτάβης ἑκά στης 8 , δραχμὰς 3802 2 , τῆς δὲ κριθ",PRICE,priceword_ext,0.6,,
+p.berl.frisk;;1,24,4,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,κριθ,100,αρταβων,3802,δραχμασ,32.99,6,5,11,0,no,yes,no,,,,"ὡς τῆς ἀρτάβης ἑκά στης 8 , δραχμὰς 3802 2 , τῆς δὲ κριθ ῆς ὡ ς τῶν ἀρταβῶν 100 , δραχμῶν 4 80 , ἀργ υρίου",PRICE,priceword_ext,0.6,,
+p.berl.frisk;;1,25,2,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,52.354167,αρταβαι,8,δραχμων,39.11,15,1,15,0,no,yes,no,,,,"κελεύσαντος ἐκ τιμῆς τειμῆς ἀποδο θῆ ναι
+πυροῦ ἀρτάβαι 52 1/4 1/12 1/48 , πυροῦ ἀρταβῶν 209 3/4 , ὡς τῆς ἀρτάβης δραχμῶν 8 , ἀπὸ τῶν συναγομ ένων δραχμῶν 1678",PRICE,"receipt_price,priceword_ext",0.7,,
+p.berl.frisk;;1,25,3,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,209.75,αρταβων,8,δραχμων,43.62,8,1,8,0,no,yes,no,,,,"πυροῦ ἀρτάβαι 52 1/4 1/12 1/48 , πυροῦ ἀρταβῶν 209 3/4 , ὡς τῆς ἀρτάβης δραχμῶν 8 , ἀπὸ τῶν συναγομ ένων δραχμῶν 1678",PRICE,"receipt_price,priceword_ext",0.7,,
+p.berl.frisk;;1,26,3,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,4.5,αρταβασ,54,δραχμαι,33.11,15,1,16,0,no,yes,no,,,,"ἀργυρίου δραχμὰς
+πεντήκοντα τέσσαρες 4 , γίνονται δραχμαὶ 54 4 .
+ἐσ μὲν δέ · Ὀνήσιμος Ἀφροδισίου εἰδ ὼς γρά μματα πυροῦ ἀρτάβας 4 1/2 .
+Ἀμμώνιος Σαραπίωνος εἰδ ὼς",PRICE,sale_verb,0.5,,
+p.berl.frisk;;1,26,4,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,2.333333,αρταβασ,54,δραχμαι,27.67,27,1,28,0,no,yes,no,,,,"ἀργυρίου δραχμὰς
+πεντήκοντα τέσσαρες 4 , γίνονται δραχμαὶ 54 4 .
+ἐσ μὲν δέ · Ὀνήσιμος Ἀφροδισίου εἰδ ὼς γρά μματα πυροῦ ἀρτάβας 4 1/2 .
+Ἀμμώνιος Σαραπίωνος εἰδ ὼς γρά μματα πυροῦ ἀρτάβας 2 1/3 .
+ἐγρ άφη δι ὰ",PRICE,sale_verb,0.5,,
+p.berl.frisk;;1,31,2,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,7,αρταβασ,56,δραχμαι,25.26,24,1,24,0,no,yes,no,,,,"ρῶν
+Πολ έμωνος γενή ματος 17 ἔτους πυροῦ ἀρτάβας 7 , τιμῆς τειμῆς
+ὡς τῆς ἀρτάβης ἑκά στης 8 , τὰς συναγομ ένας
+ἀργυρίου δραχμὰς
+πεντήκοντα ἕξ, γίνονται δραχμαὶ 56 .
+ἐγρ άφη δι ὰ Μαρί",PRICE,priceword_ext,0.6,,
+p.berl.frisk;;1,33,2,1,yes,ab,Bankakten aus dem Faijûm,Ptolemais Euergetis (Arsinoites),7. Febr. 155,0155-02-07,,,πυρου,2,αρταβασ,16,δραχμαι,25.26,24,1,24,0,no,yes,no,,,,"Ἁρπο κ ρατίωνι γενή ματος 17 ἔτους
+πυροῦ ἀρτάβας 2 , τιμῆς τειμῆς ὡς τῆς ἀρτάβης ἑκά στης 8 ,
+τὰς συναγομ ένας ἀ ργ υρίου δραχμὰς
+δεκαέξ, γίνονται δραχμαὶ 16 . ἐγρ άφη
+δι ὰ Μαρί",PRICE,priceword_ext,0.6,,
+p.cair.goodsp;;30,1,1,1,yes,ab,Accounts,"Karanis (Arsinoites, Ägypten)","nach
+                25. Mai 192",,0192-05-25,,πυρου,9,αρταβαι,100,δραχμαι,26.36,5,1,6,0,no,no,no,,,,"100
+ἀναλωθεῖσαι υἱῷ Σεμπρω νίου ὁ μοίως δραχμαὶ 100
+π ἐμοῦ πυροῦ ἀρτάβαι 9
+ἀναλωθεῖσαι Γεμέλλ ῳ υἱῷ Σεμπ ρω",OTHER,,0.0,,
+p.cair.goodsp;;30,2,1,1,yes,ab,Accounts,"Karanis (Arsinoites, Ägypten)","nach
+                25. Mai 192",,0192-05-25,,πυρου,1.333333,αρταβησ,0.333333,δραχμαι,27.94,3,1,3,0,no,no,no,,,,"π Θαι σαρίου
+π Ἀρχῆ πυροῦ ἀρτάβης 1 1/3 δραχμαὶ 24
+ἀναλωθεῖσαι ἄλ λα ς πυροῦ",OTHER,,0.0,,
+p.cair.goodsp;;30,2,2,1,yes,ab,Accounts,"Karanis (Arsinoites, Ägypten)","nach
+                25. Mai 192",,0192-05-25,,πυρου,2,αρταβησ,3,δραχμαι,26.18,2,1,2,0,no,no,no,,,,"1/3 δραχμαὶ 24
+ἀναλωθεῖσαι ἄλ λα ς πυροῦ ἀρτάβης 2/3 δραχμαὶ 12
+ὁ μοίως ἀδελφῷ ἀδ ε",OTHER,,0.0,,
+p.cair.goodsp;;30,3,1,1,yes,ab,Accounts,"Karanis (Arsinoites, Ägypten)","nach
+                25. Mai 192",,0192-05-25,,πυρου,1,αρταβησ,20,δραχμαι,26.3,3,1,3,0,no,no,no,,,,"διὰ τοῦ υἱοῦ με δραχμαὶ 100
+π πυροῦ ἀρτάβης 1 δραχμαὶ 20 τῷ αὐτῷ διὰ τ οῦ Π αί",OTHER,,0.0,,
+p.cair.goodsp;;30,12,1,1,yes,ab,Accounts,"Karanis (Arsinoites, Ägypten)","nach
+                25. Mai 192",,0192-05-25,,κριθ,3,αρταβων,30,δραχμαι,38.84,4,2,4,0,yes,yes,no,,,,"δραχμαὶ 100 χ αλκοῦς
+Πρωτάρχ ῳ τιμῆς κριθ ῆς ἀρταβῶν 3 δραχμαὶ 30 2 χα λκοῦς
+π Ἁτ ρῆ",PRICE,priceword_ext,0.6,,
+p.cair.goodsp;;30,13,2,1,yes,ab,Accounts,"Karanis (Arsinoites, Ägypten)","nach
+                25. Mai 192",,0192-05-25,,πυρου,,,8,δραχμαι,25.56,2,-1,2,0,no,no,no,,,,"ο λόγ ῳ ὑ πὲρ Π ερκ εήσεως πυροῦ ἀρταβῶν δραχμαὶ 8
+Χαι ρ ή μονι σιτολό γ",OTHER,,0.0,,
+p.cair.isid;;72,1,1,1,yes,ab,Memoranda for a Petition,Karanis (Arsinoites),15. Jan. - 29. Aug. 314 (?),,0314-01-15,0314-08-29,σιτ,7,αρταβαι,2000,δραχμαι,25.96,4,2,6,0,no,no,no,,,,"δραχμαὶ 4000
+
+τάλαντα 23 δραχμαὶ 2000
+
+σίτ ου ἀρτάβαι 7
+ἐρε βίν θ ου ἀρτάβαι 3",OTHER,,0.0,,
+p.cair.isid;;72,2,1,1,yes,ab,Memoranda for a Petition,Karanis (Arsinoites),15. Jan. - 29. Aug. 314 (?),,0314-01-15,0314-08-29,κριθ,,,4,ταλαντα,33.59,2,-1,2,0,no,yes,no,,,,"επ α ο
+ἀπ ὸ τι μῆς κριθ ῆς τάλαντα 4
+ἀπ ὸ δια φ ο ρ",PRICE,"receipt_price,priceword_ext",0.7,,
+p.cair.zen;2;59176,1,2,1,yes,ab,Daily account of receipts and expenses,Philadelphia (Arsinoites),29. Juni - 22. Juli 255 v.Chr.,,-0255-06-29,-0255-07-22,ολυρασ,,,8,δραχμαι,33.97,7,-1,7,0,no,yes,no,,,,"παρὰ Πάσιτος εἰς τὴν τιμὴν
+τῆς ὀλύρας ἧς ἐμετρήσατο
+ἐν Κερκῆι ἀργυρίου δραχμαὶ 8
+παρὰ τῶν μεταβόλων ἀπὸ σικύου δραχμαὶ",PRICE,priceword_ext,0.6,,
+p.cair.zen;2;59269,1,1,1,yes,ab,Account with Herakleides the vine - dresser,Philadelphia? (Arsinoites),nach 1. Juni 252 v.Chr.,,-0252-06-01,,πυρων,150,αρταβων,20,δραχμαι,29.46,4,1,5,0,no,no,no,,,,"τῶν ἐν τῆι
+ὑφάμμωι τοῦ αὐτοῦ ἔτους δραχμαὶ 20
+καὶ πυρῶν ἀρταβῶν 150 ἃς ἐμετρήσατο
+ἐκ θησ α υρ",OTHER,,0.0,,
+p.cair.zen;3;59325,2,1,1,yes,ab,Agricultural account,Philadelphia? (Arsinoites),ca. 249 v.Chr.,-0249,,,κριθων,,,4,δραχμων,27.16,19,-1,19,0,no,yes,no,,,,"Μένωνι πυ ρῶν 26 1/2 1/4 1/8
+κριθῶν ἀρ τάβας 2
+τούτου τιμὴν
+αἰτεῖ πυ ρῶν ἀρ ταβῶν 2 1 ὡς τῶ ν
+4 δραχμῶν ἀρ ταβῶν 7 γίνονται δραχμαὶ 12",PRICE,priceword_ext,0.6,,
+p.cair.zen;3;59325,2,2,1,yes,ab,Agricultural account,Philadelphia? (Arsinoites),ca. 249 v.Chr.,-0249,,,κριθων,,,12,δραχμαι,25.05,3,-1,3,0,no,no,no,,,,"ν
+4 δραχμῶν ἀρ ταβῶν 7 γίνονται δραχμαὶ 12
+κριθῶν ἀρ ταβῶν 2 2 1/2
+καὶ τὸ",OTHER,,0.0,,
+p.cair.zen;3;59325,3,1,1,yes,ab,Agricultural account,Philadelphia? (Arsinoites),ca. 249 v.Chr.,-0249,,,πυρων,,,2,δραχμην,31.35,11,-1,11,0,yes,yes,no,,,,"Σωσίππωι πυ ρῶν 17 1/2
+Φανοθέμει
+πυρῶν ἀρ τάβαι 23 1/2
+τούτου
+τιμὴν πυ ρῶν 2 δραχμὴν 1 1
+καὶ τὸ λοιπὸν πυ",PRICE,priceword_ext,0.6,,
+p.cair.zen;3;59325,4,3,1,yes,ab,Agricultural account,Philadelphia? (Arsinoites),ca. 249 v.Chr.,-0249,,,πυρ,,,5.083333,δραχμην,26.48,13,-1,13,0,yes,yes,no,,,,"Ἀπολλωνίωι
+κρ ιθῶν 7 1/3 1/8
+πυρ ῶν 1 1/2
+τούτου τιμὴν τιμης
+κρ ιθῶν ἀρ ταβῶν 5 1/12 δραχμὴν 1 ὀβολοῦ τέταρτον 1/4 λοι πὸν",PRICE,priceword_ext,0.6,,
+p.cair.zen;3;59326,2,4,1,yes,ab,Account,Philadelphia? (Arsinoites),nach 13. Febr. 249 v.Chr.,,-0249-02-13,,σιτου,,,12,οβολοσ,40.37,4,-1,4,0,yes,yes,no,,,,"Πύρρου Σώσωι ὥστε Πτολεμαίωι κλ ηρούχωι εἰς
+σίτου τιμὴν χα λκοῦ 12 ὀβολὸς 1 1/2
+διὰ Πύρρου Ἱππίαι πρόχρησιν",PRICE,priceword_ext,0.6,,
+p.cair.zen;3;59326,3,2,1,yes,ab,Account,Philadelphia? (Arsinoites),nach 13. Febr. 249 v.Chr.,,-0249-02-13,,κριθησ,,,32,δραχμαι,37.74,7,-1,7,0,yes,yes,no,,,,"φ ρῆι Ὀα φ ιῆι ὑοφορβῶι εἰς τιμὴν κριθῆς
+εἰς 20 ἀρ τάβας ἀργυρίου δραχμαὶ 32
+Νικομάχωι εἰς μήκωνα ἀργυ ρίου 20",PRICE,priceword_ext,0.6,,
+p.cair.zen;3;59355,1,3,1,yes,ab,Draft of a statement concerning a loan,Alexandria (?),nach 6. Juli 244 v.Chr.,,-0244-07-06,,πυρων,,,10,χαλκου,44.36,3,-1,3,0,yes,yes,no,,,,"ο ἀργυρ ίου 20
+πιτύρων τ ιμὴν χαλκοῦ 10
+πυρῶν ἀρτ αβῶν 10 τιμὴ ν κ άτεργον χα",PRICE,priceword_ext,0.6,,
+p.cair.zen;3;59355,3,1,1,yes,ab,Draft of a statement concerning a loan,Alexandria (?),nach 6. Juli 244 v.Chr.,,-0244-07-06,,σιτου,,,32,δραχμασ,27.09,4,-1,4,0,yes,yes,no,,,,33 ἔτει καὶ 34 ἔτει καὶ 35 ἔτει σίτου τιμὴν χαλ κοῦ δραχμὰς 32 γίνονται ἀργυ ρίου δραχμαὶ 232 ὀβολὸς 1,PRICE,priceword_ext,0.6,,
+p.cair.zen;4;59647,2,1,1,yes,ab,Memorandum,Philadelphia? (Arsinoites),vor 248 - 247 v.Chr.,,-0248,-0247,πυρων,,,5,δραχμασ,46.07,4,-1,4,0,no,yes,no,,,,"αι ἡμῖν, τρισίν 3 , ἑνὶ 1 μὲν δραχμὰς 5
+καὶ πυρῶν ἀρ τάβην 1 1/2 , τοῖς δὲ",PRICE,rate_construction,0.8,,
+p.cair.zen;4;59647,2,2,1,yes,ab,Memorandum,Philadelphia? (Arsinoites),vor 248 - 247 v.Chr.,,-0248,-0247,πυρων,,,3,δραχμασ,45.33,3,-1,3,0,no,yes,no,,,,"1/2 , τοῖς δὲ
+δυσὶ 2 ἀνὰ δραχμὰς 3 καὶ πυρῶν ἀρ τάβην 1 1/2 ,
+ὃ γίνεται",PRICE,rate_construction,0.8,,
+p.cair.zen;4;59647,2,3,1,yes,ab,Memorandum,Philadelphia? (Arsinoites),vor 248 - 247 v.Chr.,,-0248,-0247,πυρων,,,122,δραχμαι,46.07,4,-1,4,0,no,yes,no,,,,"1/2 ,
+ὃ γίνεται εἰς τὸν ἐνιαυτὸν δραχμαὶ 122
+καὶ πυρῶν ἀρ τάβαι 54 ,
+καὶ ἡμῖν δὲ",PRICE,rate_construction,0.8,,
+p.cair.zen;4;59723,1,3,1,yes,ab,Account concerning hay - land,Philadelphia (Arsinoites),ca. 259 - 258 v.Chr.,,-0259,-0258,κριθην,,,1.5,οβολου,33.97,7,-1,7,0,yes,yes,no,,,,"τοῦ χόρτου τιμὴ δραχμαὶ μ υριὰς 1 490 ὀβολοῦ 1 1/2 .
+εἰ ς κριθὴν λογιοῦνται εἰς ἀρ τάβας 25
+τῶν 20",PRICE,priceword_ext,0.6,,
+p.cair.zen;4;59787,1,2,1,yes,ab,Account of money,Philadelphia? (Arsinoites),Mitte III v.Chr.,,-0275,-0226,κριθησ,,,100,δραχμασ,33.41,9,-1,9,0,yes,yes,no,,,,"εἰς τιλμὸν σησάμου εἰς Φαρβαῖθον ἀρ γυρίου δραχμὰς 100
+καὶ ὥστε Ὀννώφρει εἰς τιμὴν
+κριθῆς 52
+Ἀπολλωνίωι τῶι παρὰ Διονυσοδώρου ἀρ γυρίου",PRICE,priceword_ext,0.6,,
+p.cair.zen;4;59787,1,3,1,yes,ab,Account of money,Philadelphia? (Arsinoites),Mitte III v.Chr.,,-0275,-0226,κριθησ,,,4,δραχμων,29.9,9,-1,9,0,no,yes,no,,,,"Εὐτυχίδηι ὥστε Διοφάντωι παρα
+κομίσαι εἰς τιμὴν κριθῆς ἀρ ταβῶν 500 εἰς 15 ἀρ τάβας τῶν 4 δραχμῶν ἀρ γυρίου δραχμὰς 150
+ὧν μετρεῖ",PRICE,priceword_ext,0.6,,
+p.cair.zen;4;59787,2,1,1,yes,ab,Account of money,Philadelphia? (Arsinoites),Mitte III v.Chr.,,-0275,-0226,κριθησ,,,200,δραχμασ,39.93,3,-1,3,0,yes,yes,no,,,,"παρα
+κομίσαι εἰς Ἀρσινόην εἰς
+τιμὴν κριθῆς ἀργ υρίου δραχμὰς 200
+ἐπὶ τὴν Ἀρτεμιδώρου τράπεζαν
+κατεβλήθησαν",PRICE,priceword_ext,0.6,,
+p.cair.zen;4;59787,2,2,1,yes,ab,Account of money,Philadelphia? (Arsinoites),Mitte III v.Chr.,,-0275,-0226,σιτου,,,140,δραχμαι,37.24,6,-1,6,0,yes,yes,no,,,,"ἐπὶ τὴν Ἀρτεμιδώρου τράπεζαν
+κατεβλήθησαν ἀργ υρίου δραχμαὶ 140 ὧν
+Δαμάσται τιμὴν σίτου τοῦ γινο
+μένου εἰς τὸ ἐκφόριον πυ",PRICE,priceword_ext,0.6,"TAX,LOAN",
+p.cair.zen;4;59791,1,1,1,yes,ab,Account of money,Philadelphia? (Arsinoites),Mitte III v.Chr.,,-0275,-0226,σιτου,,,20,δραχμαι,27.54,1,-1,1,0,no,no,no,,,,"ι ρας δραχμαὶ 5
+ἀ π ὸ σίτου δραχμαὶ 20
+ἀπὸ τοῦ
+γίνονται",OTHER,,0.0,,
+p.col;2;1r_4col11,1,2,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),26. Febr. 155,0155-02-26,,,πυρου,28.375,αρταβων,8,δραχμων,33.3,18,3,18,0,no,yes,no,,,,"ὅρμους οι γενήμ ατος 17 ἔτους , πυροῦ ἀρταβῶν πυροῦ ἀρταβῶν 28 1/3 1/24 ,
+τιμῆς τειμῆς τ ῆς ἀ ρτ άβης ἑκ άστης δραχμῶν 8 , τὰς συναγομ ένας διακοσίας εἴκοσι",PRICE,priceword_ext,0.6,,
+p.col;2;1r_4col11,1,3,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),26. Febr. 155,0155-02-26,,,πυρου,28.375,αρταβων,8,δραχμων,35.42,16,1,16,0,no,yes,no,,,,"οι γενήμ ατος 17 ἔτους , πυροῦ ἀρταβῶν πυροῦ ἀρταβῶν 28 1/3 1/24 ,
+τιμῆς τειμῆς τ ῆς ἀ ρτ άβης ἑκ άστης δραχμῶν 8 , τὰς συναγομ ένας διακοσίας εἴκοσι",PRICE,priceword_ext,0.6,,
+p.col;2;1r_4col19,1,4,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),1. März 155,0155-03-01,,,πυρου,26,αρταβαι,8,δραχμων,33.18,20,1,20,0,no,yes,no,,,,"ῆς ἀρτάβης ἥμισυ τέταρ τ ον
+γίνονται πυροῦ ἀρτάβαι 26 κρι θῆς ἀρτάβης 1/2 1/4 τιμῆς ὡς τῆς ἀρτάβης τοῦ μὲν πυ ρ οῦ
+ἑκ άστης δραχμῶν 8 , τῆ ς δ ὲ κριθῆς ὡς",PRICE,priceword_ext,0.6,,
+p.col;2;1r_4col19,1,5,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),1. März 155,0155-03-01,,,κριθησ,100,αρταβων,8,δραχμων,40.04,7,6,13,0,no,yes,no,,,,"τοῦ μὲν πυ ρ οῦ
+ἑκ άστης δραχμῶν 8 , τῆ ς δ ὲ κριθῆς ὡς τ ῶ ν ἑκατὸν 100 ἀρταβῶν
+δραχμῶν 480 , τ ὰς ἐ",PRICE,priceword_ext,0.6,,
+p.col;2;1r_4col3,1,2,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),23. Febr. 155,0155-02-23,,,πυρου,25.166667,αρταβων,8,δραχμων,32.73,21,1,21,0,no,yes,no,,,,"ἐπὶ σοὶ γενήμ ατος 17 ἔτους , πυροῦ ἀρταβῶν 25 1/6
+τιμῆς τ ε ιμῆς ὡς τῆς ἀρτάβης κατὰ τὰ κελε υσ θ έντα
+ἑκ άστης δραχμῶν 8 , τὰς συναγομένας ἀργυ ρίου δραχμὰς",PRICE,priceword_ext,0.6,,
+p.col;2;1r_4col8,1,2,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),26. Febr. 155,0155-02-26,,,πυρου,11.458333,αρταβων,8,δραχμων,38.55,12,1,12,0,yes,yes,no,,,,"ς εἰς τοὺς ὅρμους γενήμ ατος 17 ἔτους πυροῦ ἀρταβῶν 11 1/3 1/8
+τιμῆς τειμῆς τῆς ἀρτάβης ἑκ άστης δραχμῶν 8 , τὰς συναγομένα ς
+ἀργ υρίου",PRICE,priceword_ext,0.6,,
+p.col;2;1r_4col9,1,1,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),26. Febr. 155,0155-02-26,,,πυρου,25.083333,αρταβων,8,δραχμων,31.25,25,1,25,0,no,yes,no,,,,"τοῦ γενομ ένης γενή ματος 17 ἔτους
+πυροῦ ἀρταβῶν 25 1/12 κρ ιθ ῆς ἀρ τ άβης 1 2/3 , τιμῆς τειμῆς ὡς
+τῆς ἀρτάβης τοῦ μὲ ν πυροῦ ἑκ άστης δραχμῶν 8 , δραχμὰς 200 4 ,
+τῆς",PRICE,priceword_ext,0.6,,
+p.col;2;1r_4col9,1,2,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),26. Febr. 155,0155-02-26,,,πυρου,100,αρταβων,8,δραχμων,38.62,3,18,18,0,no,yes,no,,,,"τειμῆς ὡς
+τῆς ἀρτάβης τοῦ μὲ ν πυροῦ ἑκ άστης δραχμῶν 8 , δραχμὰς 200 4 ,
+τῆς δὲ κριθ ῆς ὡ ς τῶν 100 ἀρταβῶν δραχμῶν 480 , δραχμὰς 8 ,",PRICE,priceword_ext,0.6,,
+p.col;4;63,2,3,1,yes,ab,Daily Record of Receipts and Expenditures,Philadelphia? (Arsinoites),nach 23. Febr. 257 v.Chr.,,-0257-02-23,,πυρωνι,,,20,δραχμασ,39.93,3,-1,3,0,no,yes,no,,,,"ασ ον τος γυναικὶ
+πρόχρησιν ἀρ γυρίου δραχμὰς 20
+Πύρωνι ἃς Ἕρμωνι ἀρ γυρίου δραχμὰς 20
+Λιβάνωι",PRICE,priceword_ext,0.6,,
+p.col;7;182,1,2,1,yes,ab,Loan of Wheat and Money,Karanis (Arsinoites),4. Febr. 372 (Jahr unsicher),0372-02-04,,,κριθησ,6,αρταβων,3000,ταλαντα,42.15,7,6,13,0,yes,yes,no,,,,"νομίσμα
+τος τάλαντα ταλάντον τρισχίλια τρισχιλίων , τάλαντα 3000
+ὄντα ὤντων εἰς τιμὴν κριθῆς ἀρτα
+β ῶν ἕξ, ἀρταβῶν 6 , ἅσπερ σοὶ σὺ ἀποδώ
+σω",PRICE,priceword_ext,0.6,,
+p.flor;3;321,1,1,1,yes,ab,Conti di Heroninos,Theadelphia (Arsinoites),ca. 254 - 260,,0254,0260,πυρου,13,αρταβων,16,δραχμαι,36.2,6,1,7,0,yes,yes,no,,,,"δραχμαὶ 2914 2
+καὶ ἀπὸ τραπέ ζης δραχμαὶ 16
+καὶ ἀπὸ τιμῆς πυροῦ ἀρταβῶν 13 ὡς τῆς ἀρτάβης ἐκ δραχμῶν 12 δραχμαὶ",PRICE,"receipt_price,rate_construction,priceword_ext",0.8,,
+p.frankf;;1,1,3,1,yes,ab,Antichretischer Pachtvertrag aus dem 9. Jahr des Philopator 214/3 a. Chr.,Tholthis (Oxyrhynchites),14. Jan. - 12. Febr. 213 v.Chr.,,-0213-01-14,-0213-02-12,σιτον,,,60,δραχμων,37.74,7,-1,7,0,no,yes,no,,,,"νεπευθύνωι ὄ ν τ ι ὑπο
+λογεῖν σῖτον τῶν ἑξ ή κον τ α 60 δραχμῶν ἀ π ὸ τῶ ν ἐκ φο",PRICE,priceword_ext,0.6,,
+p.graux;3;30col1,1,1,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),12. Febr. 155 (Tag unsicher),0155-02-12,,,πυρου,8.958333,αρταβασ,8,δραχμων,26.4,26,14,26,0,yes,yes,no,,,,"ίστου μερίδο ς ὑπὲρ φορέτρων φο
+λέτρων πυροῦ
+ἀπεργασία ς γ ενομένης ἐπὶ τῷ βασιλικῷ γενή ματος
+17 ἔτους ἀρτάβας 8 1/2 1/3 1/8 , τιμῆς τειμῆς ὡς τῆς ἀρτάβης ἐκ δραχμῶν 8 , τὰς
+συναγομέ νας ἀ ργ",PRICE,priceword_ext,0.6,"ADMIN,TRANSPORT",
+p.graux;3;30col13,1,2,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),19. Febr. 155,0155-02-19,,,πυρο,18.5,αρταβασ,8,δραχμων,40.96,16,2,16,0,no,yes,no,,,,"ματος 17 ἔτους Ἀντωνίνου Καίσαρος τοῦ κυρίου
+πυρο ῦ ἀρτάβας 18 1/2 , τιμῆς τειμῆς ὡς τῆς ἀρτάβης κατὰ
+τὰ κελευσθέντα ἐκ δραχμῶν 8 , τὰς συναγο μένας
+ἀργυ ρίου",PRICE,"rate_construction,priceword_ext",0.8,,
+p.graux;3;30col14,1,2,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),21. Febr. 155,0155-02-21,,,πυρου,58.291667,αρταβασ,8,δραχμων,43.67,13,1,13,0,yes,yes,no,,,,"εἰς ὅρμον
+Καινῆς γενή ματος 17 ἔτους πυροῦ ἀρτάβας 58 1/6 1/8 , τιμῆς τειμῆς
+ὡς τῆς ἀρτάβης ἐκ δραχμῶν 8 , τὰς συναγο μένας ἀργυρίου
+δραχμὰς",PRICE,"rate_construction,priceword_ext",0.8,,
+p.graux;3;30col2,1,2,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,πυρου,91.958333,αρταβασ,8,δραχμων,30.19,29,1,29,0,no,yes,no,,,,"μ αίῳ γενομ ένης γενήμ ατος 17 ἔτους πυροῦ ἀρτάβας 91 1/2 1/3 1/8 , κριθῆς ἀρτάβας 58 1/24 , τιμῆς τειμῆς ὡς τῆς ἀρ τά βης
+τοῦ μὲ ν πυροῦ κατὰ τὰ κελευσθ έντα ἐκ δραχμῶν 8 , τὰς συναγομ ένας ἀργ υρίου δραχμὰς",PRICE,priceword_ext,0.6,,
+p.graux;3;30col2,1,3,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,κριθησ,58.041667,αρταβασ,8,δραχμων,38.31,22,1,22,0,no,yes,no,,,,"ἔτους πυροῦ ἀρτάβας 91 1/2 1/3 1/8 , κριθῆς ἀρτάβας 58 1/24 , τιμῆς τειμῆς ὡς τῆς ἀρ τά βης
+τοῦ μὲ ν πυροῦ κατὰ τὰ κελευσθ έντα ἐκ δραχμῶν 8 , τὰς συναγομ ένας ἀργ υρίου δραχμὰς",PRICE,"rate_construction,priceword_ext",0.8,,
+p.graux;3;30col2,1,4,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,πυρου,58.041667,αρταβασ,8,δραχμων,44.57,6,15,21,0,no,yes,no,,,,"πυροῦ ἀρτάβας 91 1/2 1/3 1/8 , κριθῆς ἀρτάβας 58 1/24 , τιμῆς τειμῆς ὡς τῆς ἀρ τά βης
+τοῦ μὲ ν πυροῦ κατὰ τὰ κελευσθ έντα ἐκ δραχμῶν 8 , τὰς συναγομ ένας ἀργ υρίου δραχμὰς",PRICE,"rate_construction,priceword_ext",0.8,,
+p.graux;3;30col2,1,5,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,κριθησ,100,αρταβων,735,δραχμασ,37.79,6,4,10,0,no,yes,no,,,,"δραχμῶν 8 , τὰς συναγομ ένας ἀργ υρίου δραχμὰς 735 4 , τῆς δὲ κριθῆς
+ὡς τῶν 100 ἀρταβῶν δραχμῶν 480 , τὰς συναγομ ένας ἀργ",PRICE,rate_construction,0.8,,
+p.graux;3;30col3,1,3,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,πυρου,82,αρταβασ,8,δραχμων,39.18,20,1,20,0,no,yes,no,,,,"ματος 17 ἔτους Ἀντωνίνου
+Καίσαρος τοῦ κυρίου πυροῦ ἀρτάβας 82 , κριθῆς ἀρτάβας 6 1/2 , τιμῆς τειμῆς ὡς τῆς ἀρτάβης τοῦ το
+μὲν πυροῦ ἐκ δραχμῶν 8 , δραχμὰς 656 , τῆς δὲ κριθῆς",PRICE,"rate_construction,priceword_ext",0.8,,
+p.graux;3;30col3,1,4,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,κριθησ,6.5,αρταβασ,8,δραχμων,37.28,16,1,16,0,no,yes,no,,,,"Καίσαρος τοῦ κυρίου πυροῦ ἀρτάβας 82 , κριθῆς ἀρτάβας 6 1/2 , τιμῆς τειμῆς ὡς τῆς ἀρτάβης τοῦ το
+μὲν πυροῦ ἐκ δραχμῶν 8 , δραχμὰς 656 , τῆς δὲ κριθῆς",PRICE,"rate_construction,priceword_ext",0.8,,
+p.graux;3;30col3,1,5,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,πυρου,6.5,αρταβασ,8,δραχμων,40.96,2,13,15,0,no,yes,no,,,,"Καίσαρος τοῦ κυρίου πυροῦ ἀρτάβας 82 , κριθῆς ἀρτάβας 6 1/2 , τιμῆς τειμῆς ὡς τῆς ἀρτάβης τοῦ το
+μὲν πυροῦ ἐκ δραχμῶν 8 , δραχμὰς 656 , τῆς δὲ κριθῆς",PRICE,"rate_construction,priceword_ext",0.8,,
+p.graux;3;30col3,1,6,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,κριθησ,100,αρταβων,656,δραχμασ,38.97,5,4,9,0,no,yes,no,,,,"το
+μὲν πυροῦ ἐκ δραχμῶν 8 , δραχμὰς 656 , τῆς δὲ κριθῆς ὡ ς τῶν 100 ἀρταβῶν δραχμῶν 480 , δραχμὰς 31 1 ,",PRICE,"rate_construction,priceword_ext",0.8,,
+p.graux;3;30col8,1,2,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),19. Febr. 155,0155-02-19,,,πυρου,21.291667,αρταβασ,8,δραχμων,43.67,13,1,13,0,yes,yes,no,,,,"ἀπεργασίας ἐπʼ αὐτῷ ἐπι σοι γενο μένης πυροῦ ἀρτάβας 21 1/6 1/8 , τιμῆς τειμῆς
+ὡς τῆς ἀρτάβης ἐκ δραχμῶν 8 , τὰς συναγο μένας ἀργ υρίου δραχμὰς",PRICE,"rate_construction,priceword_ext",0.8,,
+p.gron;;16,1,3,1,yes,ab,Brief des Philippos,unbekannt,2. Hälfte III,,0251,0300,κριθην,200,αρταβασ,16,δραχμασ,32.63,8,30,38,0,no,yes,no,,,,"ὥστε πρ ος
+ἐ κεῖ ὀλ ύρας ἀρτάβας 200 . ἐνέτ ελλον
+οὖν Δείῳ τῷ συνβ
+μου ἵνα ἅμα σοι α ὐτὰς
+πωλήσῃ καὶ τὴν τ ιμὴν
+τῷ Δείῳ μεταβάλῃ ς, τὴν
+κριθὴν κρειθὴν δὲ πωλή σῃ σοι
+πρὸς δραχμὰς 16 τὴν ἀρ τ άβην.
+ἀλλὰ σπούδασον",PRICE,sale_verb,0.5,,
+p.hamb;4;239,1,2,1,yes,ab,Prodomatischer Pachtvertrag,Tholthis? (Oxyrhynchites),Mitte III v.Chr.,,-0275,-0226,σιτ,,,52,δραχμων,30.0,11,-1,11,0,no,yes,no,,,,"σθαι. ἐὰν δὲ μὴ ἀποδῶι ὑπολογείτω Δημοσθένης Φιλίππωι σῖτ ο ν τοῦ προδόματος τῶν πεν
+τήκοντα καὶ δύο 52 δραχμῶν ὡς ἂν πωλῆται ὁ σῖτος ἐπὶ τῆς",TAX,sale_verb,0.5,TAX,weak_positive(0.5)+negative(TAX)
+p.hamb;4;239,1,3,1,yes,ab,Prodomatischer Pachtvertrag,Tholthis? (Oxyrhynchites),Mitte III v.Chr.,,-0275,-0226,σιτοσ,,,52,δραχμων,36.2,6,-1,6,0,no,yes,no,,,,"τοῦ προδόματος τῶν πεν
+τήκοντα καὶ δύο 52 δραχμῶν ὡς ἂν πωλῆται ὁ σῖτος ἐπὶ τῆς ἅλω, καὶ προσδεχέσθω Φίλιπ
+π",PRICE,sale_verb,0.5,,
+p.heid;6;383,1,1,1,yes,ab,Lieferungskauf,Oxyrhyncha (Arsinoites),22. Okt. 209 v.Chr.,-0209-10-22,,,πυρων,,,500,χαλκου,40.78,5,-1,5,0,yes,yes,no,,,,"ρωι χαί ρειν. ἀπέχω
+παρὰ σοῦ τιμὴν πυρῶν ἀρταβῶν
+πεντακ οσίων 500 χαλκοῦ δραχμὰς
+τρισχιλί α ς 3000 ,",PRICE,priceword_ext,0.6,,
+p.heid;6;383,2,1,1,yes,ab,Lieferungskauf,Oxyrhyncha (Arsinoites),22. Okt. 209 v.Chr.,-0209-10-22,,,πυρ,500,αρταβαι,3000,δραχμων,28.83,5,2,5,0,no,no,no,,,,"Ὀλύμπου πυρ ῶν ἀρτάβαι 500
+δραχμῶν 3000 ἕως Φαῶφι 10 τοῦ 14 ἔτους",OTHER,,0.0,,
+p.herakl.bank;;2,7,1,1,yes,ab,Das Recto der Heidelberg - Wiener Rolle,Herakleopolis,nach 138 v.Chr.,,-0138,,πυρου,400,αρταβαι,20,ταλαντα,27.94,3,1,3,0,no,no,no,,,,"σανίου Δωροθ έ ωι Δημη τρίου τι μῆς πυροῦ ἀρτάβαι 400 τάλαντα 20 2050
+ἀργυ 300
+ιου Φ",OTHER,,0.0,,
+p.hib;1;99,1,1,1,yes,ab,Receipt for Rent,unbekannt,28. Mai 271 v.Chr.,-0271-05-28,,,ολυρ,150,αρταβασ,2,οβολου,37.09,11,2,11,0,yes,yes,no,,,,"ἀρτ άβας 400
+καὶ παρὰ Καλλισθένου
+ὀλυρ ῶν ἀρτάβας 150 καὶ τιμὴν
+πυρῶν ἀρταβῶν 70 ἐκ 2 ὀβολοῦ τῆι
+ἀρταβῆι δραχμὰς 151 4 .",PRICE,priceword_ext,0.6,TAX,
+p.hib;1;99,1,2,1,yes,ab,Receipt for Rent,unbekannt,28. Mai 271 v.Chr.,-0271-05-28,,,πυρων,70,αρταβων,2,οβολου,46.56,4,1,4,0,yes,yes,no,,,,"ὀλυρ ῶν ἀρτάβας 150 καὶ τιμὴν
+πυρῶν ἀρταβῶν 70 ἐκ 2 ὀβολοῦ τῆι
+ἀρταβῆι δραχμὰς 151 4 .",PRICE,priceword_ext,0.6,,
+p.lille;1;36,1,1,1,yes,ab,Fin d’un compte,Ghoran (Arsinoites),nach 21. Apr. - 20. Mai 244 v.Chr.,,-0244-04-21,-0244-05-20,πυρ,,,4.5,οβολοι,40.37,4,-1,4,0,no,yes,no,,,,"ἀλλα γὴ 6 ἡμιωβέλιον 1/2 γίνονται 64 ὀβολοὶ 4 1/2 αἳ πυρ ῶν 64 1/2 1/4 , ὑπὲρ 36 1/2",PRICE,priceword_ext,0.6,TAX,
+p.lille;1;53,1,4,1,yes,ab,Frais de transport de l’ ἀγοραστὸς σῖτος,Ghoran (Arsinoites),III v.Chr.,,-0300,-0201,πυρων,100,αρταβων,3,δραχμασ,27.96,5,4,9,0,no,no,no,,,,"καὶ αὐτοῦ τοῦ σιτ ο
+λόγου τῶν 100 ἀρταβῶν τῶν εἰς πυρῶν
+λόγον χαλ κοῦ δραχμὰς 3 2 , καὶ τοῦτο ἀναφερέσθω
+ἐν",OTHER,,0.0,,
+p.lille;1;53,1,6,1,yes,ab,Frais de transport de l’ ἀγοραστὸς σῖτος,Ghoran (Arsinoites),III v.Chr.,,-0300,-0201,σιτου,100,αρταβων,3,δραχμασ,34.0,15,6,15,0,no,yes,no,,,,"τοῖς
+κομιζομένοις τὴν τιμὴν τοῦ ἀγοραστοῦ
+σίτου ὥστʼ εἰς τὸ φόρετρον τῶν 100 ἀρταβῶν τῶν
+εἰς πυρῶν λόγον χαλ κοῦ δραχμὰς 3 2 , συνεκρίθη
+ἐπὶ τοῦ στρατηγοῦ",PRICE,priceword_ext,0.6,"ADMIN,TRANSPORT",
+p.lille;1;53,1,7,1,yes,ab,Frais de transport de l’ ἀγοραστὸς σῖτος,Ghoran (Arsinoites),III v.Chr.,,-0300,-0201,πυρων,100,αρταβων,3,δραχμασ,47.28,4,5,9,0,no,yes,no,,,,"ἀγοραστοῦ
+σίτου ὥστʼ εἰς τὸ φόρετρον τῶν 100 ἀρταβῶν τῶν
+εἰς πυρῶν λόγον χαλ κοῦ δραχμὰς 3 2 , συνεκρίθη
+ἐπὶ τοῦ στρατηγοῦ",PRICE,priceword_ext,0.6,"ADMIN,TRANSPORT",
+p.lips;1;84,2,2,1,yes,ab,Quittungen über Getreidesteuer,Hermopolites,11. Febr. 305,0305-02-11,,,πυρου,4,αρταβασ,1,ταλαντον,27.67,63,1,63,0,no,yes,no,,,,"σὺν ἑκατοστῇ 1/100 δοχ ικῷ ἀρτάβ ἑκατοστῇ 1/100 πυροῦ ἀρτάβας 4 χ αλκοῦν 1
+19 ἔτους καὶ 18 ἔτους καὶ 11 ἔτους Φαρμοῦθι 16 τοπ αρχίας Π ερὶ Πόλ ιν κάτω
+τιμῆς πυροῦ γενή ματος 16 ἔτους καὶ 15 ἔτους καὶ 8 ἔτους καὶ 15 ἔτους καὶ 14 ἔτους
+καὶ 7 ἔτους Ἀχιλλεὺς ὁ καὶ Ἑρμόδωρος γ υ μνασίαρχος
+καὶ Ἑρ μ ιό νη σύ μβιος ἀργυρίου τάλαντον 1 δραχμὰς 3200 α ω ς δ",PRICE,priceword_ext,0.6,,
+p.lond;3;1226,1,1,1,yes,ab,keiner,Theadelphia (Arsinoites),254 - 255,,0254,0255,πυρου,13,αρταβων,80,δραχμαι,35.18,7,1,8,0,yes,yes,no,,,,"δραχμῶν 8 δραχμαὶ 3600
+καὶ ἀπὸ τραπέζης δραχμαὶ 80
+καὶ ἀπὸ τιμῆς τειμῆς πυροῦ ἀρταβῶν 13 ὡς τῆς ἀρτάβης ἐκ δραχμῶν 12 δραχμαὶ",PRICE,"receipt_price,rate_construction,priceword_ext",0.8,,
+p.lond;7;2002,2,1,1,yes,ab,keiner,Philadelphia? (Arsinoites),nach 13. Febr. 249 v.Chr.,,-0249-02-13,,πυρον,,,4,δραχμων,37.74,7,-1,7,0,no,yes,no,,,,"ιθῆς ἀργυ ρίου 28
+κα ὶ εἰς πυρὸν εἰς 7 ἀρ τάβας τῶν
+4 δραχμῶν ἀργυρίου 20
+κα ὶ Λι μναῖος",PRICE,priceword_ext,0.6,,
+p.lond;7;2002,6,1,1,yes,ab,keiner,Philadelphia? (Arsinoites),nach 13. Febr. 249 v.Chr.,,-0249-02-13,,σιτο,,,9,δραχμασ,25.79,14,-1,14,0,no,yes,no,,,,"Σω χάρους
+ἀνενεγκεῖν αὐτὸν γ ε
+δραχμὰς 9 2
+
+
+
+
+κ
+ἐκ το ῦ
+σιτο
+Σεω η
+ὀρνίθων ἀγρίων ι",PRICE,priceword_ext,0.6,,
+p.louvre;1;51,3,2,1,yes,ab,Aufstellung über Geldbeträge,Soknopaiu Nesos (Arsinoites),vor 216 (?),,,0216,πυρου,3,αρταβασ,1,οβολουσ,35.47,5,1,5,0,no,yes,no,,,,"300 δραχμὰς 12
+καὶ ἔλαβε ἔ λαβαι πυροῦ ἀρτάβας 3 μέτ ρον 1 ὀβολοὺς 8
+καὶ ζεύγη ἐκβολῆς ζητ εκβολις",PRICE,priceword_ext,0.6,,
+p.louvre;1;51,5,4,1,yes,ab,Aufstellung über Geldbeträge,Soknopaiu Nesos (Arsinoites),vor 216 (?),,,0216,κριθ,,,4,δραχμασ,32.48,2,-1,2,0,yes,yes,no,,,,"ρα 6 δραχμὰς 4 ὀβολοὺς 6
+τιμῆς κριθ ῆς δραχμὰς 4 ὀβολοὺς 12
+καὶ διὰ Ἡρᾶ πυροῦ",PRICE,priceword_ext,0.6,ADMIN,
+p.louvre;1;51,5,5,1,yes,ab,Aufstellung über Geldbeträge,Soknopaiu Nesos (Arsinoites),vor 216 (?),,,0216,πυρου,,,6,δραχμασ,28.54,5,-1,5,0,no,yes,no,,,,"δραχμὰς 4 ὀβολοὺς 12
+καὶ διὰ Ἡρᾶ πυροῦ μέ τ ρα
+6 δραχμὰς 4 ὀβολοὺς 6
+Θὼθ π ράκ",PRICE,priceword_ext,0.6,,
+p.louvre;2;103,1,1,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,14.5,αρταβαι,4,δραχμων,38.5,13,9,13,0,no,yes,no,,,,"Σισόις σ 1 ἔτους
+πυροῦ χαλκῶι ἀρτάβαι
+εἰς ἃς μεμετρῆσθαι
+φακοῦ ἀρτάβαι 14 1/2 ἐκ δραχμῶν 4 , γίνονται ἀρ γ υρίου δραχμαί 58",PRICE,rate_construction,0.8,,
+p.louvre;2;103,1,2,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,11.166667,αρταβαι,5,δραχμων,49.29,3,6,6,0,yes,yes,no,,,,"γ υρίου δραχμαί 58
+αἳ τιμῆι τειμῆι πυροῦ ἐ κ δραχμῶν 5 πυροῦ ἀρτάβαι 11 1/6
+λ ο ιπ αὶ Σισόιτος",PRICE,"rate_construction,priceword_ext",0.8,,
+p.louvre;2;103,1,3,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,11.166667,αρταβαι,5,δραχμων,53.02,2,1,3,0,yes,yes,no,,,,"58
+αἳ τιμῆι τειμῆι πυροῦ ἐ κ δραχμῶν 5 πυροῦ ἀρτάβαι 11 1/6
+λ ο ιπ αὶ Σισόιτος",PRICE,"rate_construction,priceword_ext",0.8,,
+p.louvre;2;103,1,4,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,50.5,αρταβαι,5,δραχμων,36.85,14,1,15,0,yes,yes,no,,,,"58
+αἳ τιμῆι τειμῆι πυροῦ ἐ κ δραχμῶν 5 πυροῦ ἀρτάβαι 11 1/6
+λ ο ιπ αὶ Σισόιτος 4 ἔτους πυροῦ ἀρτάβαι 50 1/2
+γίνονται λοιπ αὶ Σισόιτο ς",PRICE,priceword_ext,0.6,,
+p.louvre;2;103,1,7,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,28.166667,αρταβαι,5,δραχμων,54.32,2,5,5,0,yes,yes,no,,,,"δραχμαί 145 3
+α ἳ τιμῆι τειμῆι πυροῦ ἐκ δραχμῶν 5 πυροῦ ἀρτάβαι 28 1/6
+λοιπαὶ Σοκομήνιο ς 4 ἔτους",PRICE,"rate_construction,priceword_ext",0.8,,
+p.louvre;2;103,1,8,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,28.166667,αρταβαι,5,δραχμων,55.96,2,1,3,0,yes,yes,no,,,,"3
+α ἳ τιμῆι τειμῆι πυροῦ ἐκ δραχμῶν 5 πυροῦ ἀρτάβαι 28 1/6
+λοιπαὶ Σοκομήνιο ς 4 ἔτους",PRICE,"rate_construction,priceword_ext",0.8,,
+p.louvre;2;103,1,9,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,52.5,αρταβαι,5,δραχμων,35.64,12,1,13,0,yes,yes,no,,,,"3
+α ἳ τιμῆι τειμῆι πυροῦ ἐκ δραχμῶν 5 πυροῦ ἀρτάβαι 28 1/6
+λοιπαὶ Σοκομήνιο ς 4 ἔτους πυροῦ ἀρτάβαι 52 1/2 .
+Διον ύ σιος Διονυσίου",PRICE,"rate_construction,priceword_ext",0.8,,
+p.louvre;2;103,1,10,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,18.333333,αρταβαι,3,δραχμων,42.39,14,2,14,0,no,yes,no,,,,".
+Διον ύ σιος Διονυσίου 4 ἔτους πυροῦ χαλκῶι ἀρτάβαι 18 1/3
+εἰς ἃς μεμετρῆσθαι
+κριθῆς ἀρτάβαι 14 ἐκ δραχμῶν 3 3 , γίνονται ἀργ υρίου δραχμῶν 49",PRICE,rate_construction,0.8,,
+p.louvre;2;103,1,11,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,κριθησ,14,αρταβαι,3,δραχμων,49.51,4,1,4,0,no,yes,no,,,,"ἀρτάβαι 18 1/3
+εἰς ἃς μεμετρῆσθαι
+κριθῆς ἀρτάβαι 14 ἐκ δραχμῶν 3 3 , γίνονται ἀργ υρίου δραχμῶν 49",PRICE,"rate_construction,priceword_ext",0.8,,
+p.louvre;2;103,1,12,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,9.833333,αρταβαι,5,δραχμων,51.46,2,5,5,0,yes,yes,no,,,,"υρίου δραχμῶν 49
+αἳ τιμῆι τ ειμῆι πυροῦ ἐκ δραχμῶν 5 πυροῦ ἀρτάβαι 9 1/2 1/3
+λ ο ιπαὶ Διονυσίου",PRICE,"rate_construction,priceword_ext",0.8,,
+p.louvre;2;103,1,13,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,9.833333,αρταβαι,5,δραχμων,53.02,2,1,3,0,yes,yes,no,,,,"49
+αἳ τιμῆι τ ειμῆι πυροῦ ἐκ δραχμῶν 5 πυροῦ ἀρτάβαι 9 1/2 1/3
+λ ο ιπαὶ Διονυσίου",PRICE,"rate_construction,priceword_ext",0.8,,
+p.louvre;2;103,1,14,1,yes,ab,Verwaltungsdokument,Arsinoites (?),I - II,,0001,0200,πυρου,8.5,αρταβαι,5,δραχμων,42.85,14,1,15,0,yes,yes,no,,,,"49
+αἳ τιμῆι τ ειμῆι πυροῦ ἐκ δραχμῶν 5 πυροῦ ἀρτάβαι 9 1/2 1/3
+λ ο ιπαὶ Διονυσίου 4 ἔτους πυροῦ ἀρτάβαι 8 1/2 .
+Χα ριδήμωι Μ",PRICE,"rate_construction,priceword_ext",0.8,,
+p.mich;1;28,1,4,1,yes,ab,Letter from Sosos to Zenon,Aphroditopolis (?),29. März 256 v.Chr.,-0256-03-29,,,σιτου,,,288,δραχμαι,28.91,16,-1,16,0,no,yes,no,,,,"γὰρ ἐν Πτολεμαίωι ἀπὸ τῆς
+τιμῆς τοῦ σίτου, περὶ ὧν καὶ ἐπιστολήν σοι
+κομίζω ἐγδοχῆς ὥστε κομίσασθαι τῆι 10
+τοῦ Μεχείρ, δραχμαὶ 288 καὶ παρʼ ἐμοὶ ὑπάρχουσιν",PRICE,priceword_ext,0.6,,
+p.mich;2;123,1,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,σιτου,,,21,οβολοι,26.36,3,-1,3,0,no,no,no,,,,"καὶ ἄλλων
+περὶ το ῦ μεμετρ ημένου σίτου Ἀπίωνι σιτολόγῳ. ὀβολοὶ 21
+ἑτέρ α χειρογρ αφία χιρογρ αφία",OTHER,,0.0,,
+p.mich;2;123,3,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,κριθη,5,αρταβων,40,δραχμων,30.79,3,2,5,0,no,no,no,,,,"Ἡρακλήου πρὸ ς Ἡρακλῆν παραθή κης ἀργ υρίου δραχμῶν 40 καὶ κριθῆ ς ἀρταβῶν 5 . χάρις Εὐτυχᾶ τι
+ὁμο λογία",OTHER,,0.0,,
+p.mich;2;123,4,2,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,5,αρταβων,100,δραχμων,29.59,3,1,4,0,no,no,no,,,,"ς Ἀπολλώνιο ν παραθή κης δραχμῶν ἀργ υρίου δραχμῶν 100 καὶ πυροῦ ἀρταβῶν 5 . ὀβολοὶ 18
+ἀναφόρια Πετσίριος προβατο",OTHER,,0.0,,
+p.mich;2;123,4,3,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,15,αρταβων,172,δραχμων,27.94,3,1,4,0,no,no,no,,,,"ς πρὸ ς Πετεεῦν παραθή κης ἀργ υρίου δραχμῶν 172 καὶ πυροῦ ἀρταβῶν 15 . δραχμαὶ 4
+ὁμο λογία Ὀννόφριο",OTHER,,0.0,,
+p.mich;2;123,4,5,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,κριθη,100,αρταβων,5,δραχμαι,27.38,5,2,5,0,no,no,no,,,,"υ πρὸ ς Μάρωνα πυροῦ ἀρταβῶν 50 καὶ κριθῆ ς ἀρταβῶν 100 . δραχμαὶ 5
+24 μίσ θωσις Ὀρσενούφ ιος πρὸ",OTHER,,0.0,,
+p.mich;2;123,5,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,5.5,αρταβων,88,δραχμων,26.3,3,1,4,0,no,no,no,,,,"λογία Κρονίωνο ς πρὸ ς ἀρ γ υρίου δραχμῶν 88 καὶ πυροῦ ἀρταβῶν 5 1/2 . δραχμαὶ 4
+16 ὁμο",OTHER,,0.0,,
+p.mich;2;123,6,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,8.5,αρταβων,0.5,οβολοι,29.59,3,1,3,0,no,no,no,,,,"μματικόν
+ὁμο λογία Ἡρακλᾶτος πρὸ ς Σερᾶν πυροῦ ἀρταβῶν 8 1/2 . ὀβολοὶ 7
+ὁμο λογία Ταπετσωύκιο ς",OTHER,,0.0,,
+p.mich;2;123,8,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,21,αρταβων,6,οβολοι,27.91,4,1,4,0,no,no,no,,,,"λογία Σουχίωνο ς πρὸ ς Ἁρμιῦτα ἀποχῆ ς πυροῦ ἀρταβῶν 21 . ὀβολοὶ 6
+ὁμο λογία Μιύσιο ς καὶ τῆ",OTHER,,0.0,,
+p.mich;2;123,9,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,12.5,αρταβων,220,δραχμων,29.59,3,1,4,0,no,no,no,,,,"ναικὸς πρὸ ς Εὔτυχον παραθή κης ἀργ υρίου δραχμῶν 220 καὶ πυροῦ ἀρταβῶν 12 1/2 . δραχμαὶ 7
+ὁμο λογία",OTHER,,0.0,,
+p.mich;2;123,10,2,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,8,αρταβων,240,δραχμων,26.3,3,1,4,0,no,no,no,,,,Φενίου πρὸ ς Πετεεῦν παραθέσεως παραθεσις ἀργ υρίου δραχμῶν 240 καὶ πυροῦ ἀρταβῶν 8 . ὀβολοὶ 14 ὧν ὀφείλει ὀφίλι,OTHER,,0.0,,
+p.mich;2;123,12,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,50,αρταβων,22,οβολοι,26.36,4,1,4,0,no,no,no,,,,"λογία Ἰσχυρίωνος τοῦ καὶ πρὸ ς ω ν πυροῦ ἀρταβῶν 50 . ὀβολοὶ 22
+28 μίσ θωσις Ὀρσεῦτος πρὸ ς",OTHER,,0.0,,
+p.mich;2;123,12,2,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,,,10,οβολοι,26.97,2,-1,2,0,no,no,no,,,,"λογία Ψενταμιεῦτο ς πρὸ ς Λυσᾶν ἀποχῆ ς πυροῦ ἀρταβῶν ὀβολοὶ 10
+ὑπομνήματα Κολλούθο υ ε ρμ η",OTHER,,0.0,,
+p.mich;2;123,13,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,κριθη,15,αρταβων,20,οβολοι,25.94,5,2,5,0,no,no,no,,,,"καὶ ἄλλο ν ἀπ οχῆς κ αὶ κριθῆ ς ἀρταβῶν 15 . ὀβολοὶ 20
+δάν ειον ε ικ α μεδο",OTHER,,0.0,,
+p.mich;2;123,14,2,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,4,αρταβων,80,δραχμων,26.3,3,1,4,0,no,no,no,,,,"πρὸ ς Ἀπολλώνιο ν παραθή κης ἀργ υρίου δραχμῶν 80 καὶ πυροῦ ἀρταβῶν 4 . δραχμαὶ 2 ὀβολοὶ 6
+26",OTHER,,0.0,,
+p.mich;2;123,18,1,1,yes,ab,Grapheion Register and Grapheion Accounts,Tebtynis (Arsinoites),9. Nov. 45 - 24. Dez. 46,,0045-11-09,0046-12-24,πυρου,1.833333,αρταβησ,16,δραχμαι,38.62,8,1,8,0,yes,yes,no,,,,"Τριστόμο υ δρό μου Εὐτυχᾶ τος
+ζυτοποιοῦ. πυροῦ ἀρτάβης 1 1/2 1/3 . ἀργ υρίου δραχμαὶ 16
+τιμῆ ς χάρτο υ ἐν τῇ",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,1,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,πυρου,1.833333,αρταβων,0.333333,δραχμαι,36.76,4,1,4,0,yes,yes,no,,,,"δραχμαὶ 4
+Μαρσισούχωι ἱερεῖ εἱαιρῖ τιμῆ ς πυροῦ ἀρταβῶν 1 1/2 1/3 . δραχμαὶ 8
+14 τιμῆ ς φακοῦ",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,2,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,πυρου,3.5,αρταβων,0.5,δραχμαι,43.24,3,1,3,0,yes,yes,no,,,,"24 Ὀρσενούφ ι Φομβῶ τος τιμῆ ς πυροῦ ἀρταβῶν 3 1/2 . δραχμαὶ 20
+27 Ὀννόφρ ι θησαυροφύλ",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,3,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,πυρου,2,αρταβων,16,δραχμαι,41.66,4,1,4,0,yes,yes,no,,,,"27 Ὀννόφρ ι θησαυροφύλ ακι τιμῆ ς πυροῦ ἀρταβῶν 2 . δραχμαὶ 16
+Ἀφρωδισίῳ Τῆρι τιμῆ ς πυροῦ ἀρτάβης",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,4,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,πυρου,1,αρταβησ,8,δραχμαι,46.56,4,1,4,0,yes,yes,no,,,,". δραχμαὶ 16
+Ἀφρωδισίῳ Τῆρι τιμῆ ς πυροῦ ἀρτάβης 1 . δραχμαὶ 8
+ὁμο ίως διʼ ἐμο ῦ Κρονίω",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,5,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,σιτοκαπηλοισ,3,αρταβων,24,δραχμαι,37.6,9,6,9,0,yes,yes,no,,,,"ὁμο ίως διʼ ἐμο ῦ Κρονίω νος σιτοκαπήλοις ἐν τοῖς
+θησαυροῖς πυροῦ ἀρταβῶν 3 . δραχμαὶ 24
+29 Ἡρωδίωνι Κεφαλᾶτο ς τιμῆ ς",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,6,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,πυρου,3,αρταβων,24,δραχμαι,44.11,4,1,4,0,yes,yes,no,,,,"ῦ Κρονίω νος σιτοκαπήλοις ἐν τοῖς
+θησαυροῖς πυροῦ ἀρταβῶν 3 . δραχμαὶ 24
+29 Ἡρωδίωνι Κεφαλᾶτο ς τιμῆ ς",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,7,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,πυρου,1,αρταβησ,8,δραχμαι,40.2,5,1,5,0,yes,yes,no,,,,"24
+29 Ἡρωδίωνι Κεφαλᾶτο ς τιμῆ ς πυροῦ ἀρτάβης 1 δεκάτου . δραχμαὶ 8
+τιμῆ ς ἐρίων Παποντῶ τι Μαραμή",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,8,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,πυρο,2,αρταβων,6,οβολοι,36.2,6,2,8,0,yes,yes,no,,,,"ὄψου. ὀβολοὶ 9
+καὶ ἐλαίου ἐλέου . ὀβολοὶ 6
+Ἀφροδισίῳ τιμῆ ς πυρο ῦ ἀρταβῶν 2 δεκάτου . δραχμαὶ 16
+τι μῆ",PRICE,priceword_ext,0.6,,
+p.mich;2;127,1,9,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,πυρου,1.5,αρταβησ,0.5,δραχμαι,40.7,3,1,3,0,yes,yes,no,,,,"δεκάτου . δραχμαὶ 16
+τι μῆ ς πυροῦ ἀρτάβης 1 1/2 . δραχμαὶ 12
+τιμῆ ς ἐλαίου καὶ",PRICE,priceword_ext,0.6,,
+p.mich;2;127,2,1,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,κριθη,,,12,δραχμαι,36.12,4,-1,4,0,yes,yes,no,,,,"χ ᾶτ ι Εὐτύ χο υ τιμῆ ς κριθῆ ς μέτρω ν 12 . δραχμαὶ 4
+τιμῆ ς ἐρί ων",PRICE,priceword_ext,0.6,,
+p.mich;2;127,2,2,1,yes,ab,Expense Accounts,Tebtynis (Arsinoites),1. Sept. 45 - 17. Jan. 46,,0045-09-01,0046-01-17,κριθησ,2,αρταβων,8,δραχμαι,36.57,6,1,6,0,yes,yes,no,,,,"ὄψου. ὀβολοὶ 2
+Τ ατ εεῦτι τιμῆς κριθῆς ἀρταβῶν 2 . ἀργ υρίου δραχμαὶ 8
+19 τιμῆ ς ὄψου. ὀβολὸς 1",PRICE,priceword_ext,0.6,,
+p.mich;5;238r,1,1,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρο,,,40,δραχμων,36.12,4,-1,4,0,yes,yes,no,,,,"Ὀρσενούφιο ς πρὸ ς Ἁρυώτη ν τιμῆ ς πυρο ῦ ἀργ υρίου δραχμῶν 40 ὀβολοὶ 7
+ὁμο λογία Πετεεῦτο ς",PRICE,priceword_ext,0.6,,
+p.mich;5;238r,1,2,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,5,αρταβων,200,δραχμων,29.46,4,1,5,0,no,no,no,,,,"ναικὸς πρὸ ς Κρονίωνα παραθήκη ς ἀργ υρίου δραχμῶν 200 καὶ
+πυροῦ ἀρταβῶν 5 καὶ κριθῆ ς ἀρταβῶν 5 δραχμαὶ 6",OTHER,,0.0,,
+p.mich;5;238r,1,3,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,κριθη,5,αρταβων,6,δραχμαι,29.02,4,2,4,0,no,no,no,,,,"δραχμῶν 200 καὶ
+πυροῦ ἀρταβῶν 5 καὶ κριθῆ ς ἀρταβῶν 5 δραχμαὶ 6
+μίσ θωσις Διδύμου πρὸ ς Ἡρωδί",OTHER,,0.0,,
+p.mich;5;238r,2,2,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρο,2,αρταβων,80,δραχμων,27.49,4,2,6,0,no,no,no,,,,"ς πρὸ ς Ὀννόφριν παραθή κης ἀργ υρίου δραχμῶν 80 καὶ
+πυρο ῦ ἀρταβῶν 2 καὶ κριθῆ ς ἀρταβῶν 6 δραχμαὶ 2",OTHER,,0.0,,
+p.mich;5;238r,2,3,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,κριθη,6,αρταβων,2,δραχμαι,25.96,4,2,4,0,no,no,no,,,,"80 καὶ
+πυρο ῦ ἀρταβῶν 2 καὶ κριθῆ ς ἀρταβῶν 6 δραχμαὶ 2
+ὁμο λογία Σιαιέπιος πρὸ ς Ταπετσωῦκιν",OTHER,,0.0,,
+p.mich;5;238r,2,6,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,6.5,αρταβων,212,δραχμων,29.59,3,1,4,0,no,no,no,,,,"ναικὸς πρὸ ς Ἀπολλώ νιον παρα θήκης ἀργυρίου δραχμῶν 212 καὶ πυροῦ ἀρταβῶν 6 1/2 δραχμαὶ 4
+ὁμο λογία Ἁρμιύσιο",OTHER,,0.0,,
+p.mich;5;238r,2,7,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,κριθη,15,αρταβων,120,δραχμων,27.55,3,2,5,0,no,no,no,,,,"ς πρὸ ς Κρονίωνα παρα θήκης ἀργ υρίου δραχμῶν 120 καὶ κριθῆ ς ἀρταβῶν 15 δραχμαὶ 4
+ὁμο λογία Πετεμεννόφριο ς",OTHER,,0.0,,
+p.mich;5;238r,2,8,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,3,αρταβων,40,δραχμων,27.94,3,1,4,0,no,no,no,,,,"ς πρὸ ς Ὀννόφριν παραθή κης ἀργ υρίου δραχμῶν 40 καὶ πυροῦ ἀρταβῶν 3 δραχμαὶ 2
+ὁμο λογία Ποσιδωνίο υ",OTHER,,0.0,,
+p.mich;5;238r,2,10,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,5,αρταβων,100,δραχμων,27.94,3,1,4,0,no,no,no,,,,"γυ ναικὸς πρὸ ς Ἀπολλώνιο ν παρα θήκης δραχμῶν 100 καὶ πυροῦ ἀρταβῶν 5 δραχμαὶ 2
+μίσ θωσις Ἡρώδου καὶ",OTHER,,0.0,,
+p.mich;5;238r,2,11,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,12,αρταβων,10,οβολοι,29.59,3,1,3,0,no,no,no,,,,"4 ὁμο λογία Λυσιμάχο υ πρὸ ς Ψενταμιεῦν πυροῦ ἀρταβῶν 12 ὀβολοὶ 10
+ὁμο λογία Ἡρακλή ου πρὸ ς",OTHER,,0.0,,
+p.mich;5;238r,2,12,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,4,αρταβων,7,δραχμων,26.3,3,1,4,0,no,no,no,,,,"γυ ναικὸς πρὸ ς Λυσίμαχο ν παρα θήκης δραχμῶν 7 καὶ πυροῦ ἀρταβῶν 4 δραχμαὶ 2
+ὁμο λογία Τμάρσιος πρὸ",OTHER,,0.0,,
+p.mich;5;238r,2,13,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,12,αρταβων,10,οβολοι,27.94,3,1,3,0,no,no,no,,,,Νεστνήφιο ς καὶ ἄλλο υ πρὸ ς Ἥρωνα πυροῦ ἀρταβῶν 12 ὀβολοὶ 10,OTHER,,0.0,,
+p.mich;5;238r,3,2,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,κριθη,13,αρταβων,32,δραχμων,27.55,3,2,5,0,no,no,no,,,,"ὁμο λογία Ὀρσενούφιος πρὸ ς Ὀρσεῦν ἀργ υρίου δραχμῶν 32 καὶ κριθῆ ς ἀρταβῶν 13 ὀβολοὶ 11
+ὁμο λογία Παώπιος καὶ",OTHER,,0.0,,
+p.mich;5;238r,3,3,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,2,αρταβων,200,δραχμων,27.91,4,1,5,0,no,no,no,,,,"ν πρὸ ς Κρονίωνα παραθή κης ἀργ υρίου δραχμῶν 200 καὶ
+πυροῦ ἀρταβῶν 2 τῶν δύο 2 δραχμαὶ 4",OTHER,,0.0,,
+p.mich;5;238r,4,1,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,4,αρταβων,88,δραχμων,29.59,3,1,4,0,no,no,no,,,,"ς πρὸ ς Σισώειν παραθή κης ἀργ υρίου δραχμῶν 88 καὶ πυροῦ ἀρταβῶν 4 ὀβολοὶ 7
+ὁμο λογία Θερμούθιος καὶ",OTHER,,0.0,,
+p.mich;5;238r,4,2,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,2,αρταβων,40,δραχμων,27.94,3,1,4,0,no,no,no,,,,"λογία Ὀρσεῦτο ς πρὸ ς Ἀπολλώνιον παραθ ήκης δραχμῶν 40 καὶ πυροῦ ἀρταβῶν 2 ὀβολοὶ 12
+ὁμο λογία Θερμούθι ος",OTHER,,0.0,,
+p.mich;5;238r,4,3,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,3,αρταβων,64,δραχμων,27.94,3,1,4,0,no,no,no,,,,"καὶ ἄλλο υ πρὸ ς Ἥρωνα ἀργ υρίου δραχμῶν 64 καὶ πυροῦ ἀρταβῶν 3 πέμπτον χάρις Ἡρω νᾶτι
+ὁμο λογία",OTHER,,0.0,,
+p.mich;5;238r,5,1,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,10.5,αρταβων,18,δραχμων,26.3,3,1,4,0,no,no,no,,,,"ὁμο λογία Τεφερσῶτος πρὸ ς Φομσάειν ἀργ υρίου δραχμῶν 18 καὶ πυροῦ ἀρταβῶν 10 1/2 δραχμαὶ 4
+τροφῖτ ις Ἡρακλείδο",OTHER,,0.0,,
+p.mich;5;238r,5,3,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,κριθ,4,αρταβων,24,δραχμων,30.79,3,2,5,0,no,no,no,,,,"πρὸ ς Δίδυμο ν παραθή κης ἀργ υρίου δραχμῶν 24 καὶ κριθ ῆς ἀρταβῶν 4 δραχμαὶ 2
+25 ὁμο λογία Κρονίωνος",OTHER,,0.0,,
+p.mich;5;238r,5,4,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,5.5,αρταβων,72,δραχμων,27.94,3,1,4,0,no,no,no,,,,"ς γυ ναικὸς πρὸ ς Ἡρωδίωνα παρα θήκης δραχμῶν 72 καὶ πυροῦ ἀρταβῶν 5 1/2 δραχμαὶ 6
+27 ὁμο λογία",OTHER,,0.0,,
+p.mich;5;238r,5,5,1,yes,ab,Grapheion Register,Tebtynis (Arsinoites),26. Dez. 46,0046-12-26,,,πυρου,3.5,αρταβων,60,δραχμων,27.94,3,1,4,0,no,no,no,,,,"λογία Χεῶτος πρὸ ς Λυσίμαχο ν παραθή κης δραχμῶν 60 καὶ πυροῦ ἀρταβῶν 3 1/2 δραχμαὶ 2
+30 ὁμο λογία",OTHER,,0.0,,
+p.mil.vogl;6;276,1,4,1,yes,ab,Rendiconto amministrativo,Tebtynis (Arsinoites),167 - 169,,0167,0169,πυρου,17,αρταβαι,1,δραχμαι,33.95,26,1,27,0,no,yes,no,,,,"υ γκομιδῆς
+γί νονται ἀργ υρίου τάλαντον 1 δραχμαὶ
+παρὰ τ
+παρὰ τ
+παρὰ τῶν ς ἀπὸ τι μῆς ν
+παρὰ γεω ργ ῶν κλήρο υ
+ἀπὸ τιμῆς πυροῦ ἀρτάβαι 17",PRICE,"receipt_price,priceword_ext",0.7,,
+p.muench;3.1;121,1,1,1,yes,ab,Brief des Heron,unbekannt,II,,0101,0200,κριθ,,,8,δραχμων,34.04,10,-1,10,0,no,yes,no,,,,"ἔρρωσο. ἓξ 6 ἀρ τ ά βας κριθ ῆς
+αἴτησον. ἐὰν μὲν ἡ ἀρτάβη
+πιπράσκηται δραχμῶν 8 πώλησον
+ἵνα ὁμοίως εἰς τὰ σχ",PRICE,"priceword_ext,sale_verb",0.6,,
+p.neph;;44,1,1,1,yes,ab,Sammlung von Quittungen für Geld und Naturalsteuern,Neson Kome (Herakleopolites),311 - 320,,0311,0320,σιτου,,,1,ταλαντον,29.03,13,-1,13,0,no,yes,no,,,,"χαίριν .
+δι έγραψας ἡμῖν ὑπὲρ τιμῆς σίτου γενήματος
+20 ἔτους ὑπ ὲρ διαπαν των τῆς κώμης ἀργυ ρίου τάλαντον 1 .
+
+Αὐρήλιοι Κ ς καὶ",PRICE,"receipt_price,priceword_ext",0.7,,
+p.oslo;3;131,2,1,1,yes,ab,Loan,Theadelphia (Arsinoites),17. Jan. 118,0118-01-17,,,πυρου,1.583333,αρταβησ,28,δραχμων,34.91,2,1,3,0,no,no,no,,,,π ρὸ ς Λεω νίδ ην Ἡρώδ ου δραχμῶν 28 πυροῦ ἀρτάβης 1 1/2 1/12,OTHER,,0.0,,
+p.oxy;14;1733,1,1,1,yes,ab,Farming Account,Oxyrhynchos,spätes III,,0276,0300,κριθησ,1,αρταβη,160,δραχμαι,26.3,3,1,3,0,no,no,no,,,,"κτρα δραχμαὶ 400 ,
+τῷ ὄνῳ κριθῆς ἀρτάβη 1 δραχμαὶ 160 ,
+τοῖς ἐργάταις οἴνου
+κεράμιον",OTHER,,0.0,,
+p.oxy;3;522,1,1,1,yes,ab,Account of Corn - Transport,Oxyrhynchos,II,,0101,0200,πυρου,3400,αρταβαι,21,δραχμων,41.26,4,1,4,0,no,yes,no,,,,"λόγος ἀποστόλου Τριαδέλφου
+πυροῦ ἀρτάβαι 3400 ἐκ δραχμῶν 21 δραχμαὶ 712 .
+τῷ αὐ τῷ",PRICE,rate_construction,0.8,,
+p.oxy;41;2961,1,2,1,yes,ab,Receipt for the Price of πυρὸς συναγοραστικός,Oxyrhynchos,28. Febr. 154,0154-02-28,,,σιτολο,5.625,αρταβασ,8,δραχμων,26.59,31,22,31,0,no,yes,no,,,,"τιμῆς
+πυροῦ συναγοραστικοῦ
+οὗ ἐμέτρησα διὰ σιτολό
+γων Θμοι σεφὼ το παρχίας Τήεως τό πων
+3 λόγου κολλ ήματος 52
+ὑπὲρ τῆς α ὐτῆς Τήεως ἀρτάβας 5 1/2 1/8
+ὡς τῆς ἀρτάβης 1 δραχμῶν 8 ἀκολούθως
+τοῖς ὑ πὸ Μουνατίου Φήλικος",PRICE,"receipt_price,priceword_ext",0.7,,
+p.oxy;41;2963,1,2,1,yes,ab,Receipt for the Price of πυρὸς συναγοραστικός,Oxyrhynchos,154,0154,,,σιτολ,5.625,αρταβασ,8,δραχμων,25.64,35,24,35,0,no,yes,no,,,,"πυροῦ συναγοραστικοῦ
+οὗ ἐμέτρησα διὰ ια σιτολ όγων
+Θμοι σεφὼ το παρχίας Τήεως τό πων
+3 λόγου κολ λήματος 52
+ὑ πὲρ τῆ ς α ὐτῆς Τήεως ἀρτάβας 5 1/2 1/8
+ὡς τ ῆ ς ἀρτάβης 1 δραχμῶν 8 ἀκολού
+θ ως το ῖς ὑ",PRICE,"receipt_price,priceword_ext",0.7,,
+p.oxy;49;3518,1,9,1,yes,ab,Order to Issue Wheat and Wine,Oxyrhynchos,25. Mai 260,0260-05-25,,,πυρου,1,αρταβησ,16,δραχμασ,39.94,6,4,6,0,no,yes,no,,,,"ὁ χ ειριστὴς λημ
+ματίσαι τοῦ μὲν πυροῦ ὡς τῆς
+ἀρτάβης 1 δραχμὰς 16 , τοῦ δὲ οἴνου ὡς τοῦ",PRICE,priceword_ext,0.6,,
+p.oxy;49;3519,1,2,1,yes,ab,Order to Issue Wheat and Wine,Oxyrhynchos,25. Mai 260,0260-05-25,,,πυρου,1,αρταβησ,16,δραχμασ,41.75,5,3,5,0,no,yes,no,,,,"Σαραπιάδης ὁ χειριστὴς λημμα
+τίσαι τοῦ μὲν πυροῦ ὡς τῆς ἀρτάβης 1 δραχμὰς 16 ,
+τοῦ δὲ οἴνου ὡς τοῦ",PRICE,priceword_ext,0.6,,
+p.oxy;60;4056,1,2,1,yes,ab,Receipts for Refund of the Price of πυρὸς συναγοραστικός,Prosopites,154 - 155 (?),,0154,0155,πυρο,8.75,αρταβασ,8,δραχμων,43.21,7,28,28,0,no,yes,no,,,,"ικοῦ γραμ ματέως οὗ
+ἕκαστος ἡμῶν ἐμέτρησεν πυρο ῦ
+ὡς τῆς ἀρτάβης ἐκ δραχμῶν 8 μ η δενὸς ὑπολογηθ έντος
+ὀνόματι ἑκατοστῶν ἢ ἄλλου τινος.
+ἐσμὲν δέ·
+Φε υ Φερωούθεως
+ἀρτάβας 8 1/2 1/4
+υ του υἱοῦ",PRICE,rate_construction,0.8,,
+p.oxy;85;5516,1,1,1,yes,ab,Record of Rent Payments in Cash and Kind,Oxyrhynchos,nach 29. Aug. 147,,0147-08-29,0147-08-29,πυρου,,,10,δραχμασ,37.98,6,-1,6,0,yes,yes,no,,,,"ἔ σ χ ομεν παρὰ σοῦ ἐκ τιμῆς πυροῦ
+ἀρταβῶν ἀρ τ άβας 10 δραχμὰς 80 ,
+γί νονται δραχμαὶ 80",PRICE,"receipt_price,priceword_ext",0.7,,
+p.oxy;8;1144,1,1,1,yes,ab,Temple - account,Oxyrhynchos,spätes I - frühes II,,0076,0125,πυρου,,,40,δραχμαι,26.67,20,-1,20,0,no,yes,no,,,,"οῦσι ἀπὸ
+ἑνδεκάτης ἕ ως 17
+δραχμαὶ 40 , ξύλων εἰς θυσίαν τ
+δαπάν η ς κέ λλης
+το ῖς ἁγνεύουσι κατὰ
+τοῦ πυροῦ ἀρταβ
+ι ος τιμῆς τ",PRICE,priceword_ext,0.6,,
+p.petr;2;39d,1,1,1,yes,ab,Taxing Accounts,Arsinoites,II v.Chr.,,-0200,-0101,κριθησ,,,1,ταλαντον,37.74,7,-1,7,0,yes,yes,no,,,,"κευην κλειδοποιῷ
+τιμὴν κλειδῶν
+γίνεται τάλαντον 1 500
+Φαῶφι
+1 κριθῆς πορείοις 2 χ οινικ
+ἱερείῳ χο ίνικες",PRICE,priceword_ext,0.6,,
+p.petr;3;80,1,2,1,yes,ab,Reports on Cultivation,Arsinoites,III v.Chr.,,-0300,-0201,πυρ,1509,αρταβαι,1,οβολου,42.5,4,15,19,0,no,yes,no,,,,"94 2
+γίνονται δραχμαὶ 2811 ἡμιωβέλιον τέταρτον ὀβολοῦ 1/2 1/4 αἳ πυρ ῶν 1405 1/2 1/12
+σὺν δὲ τῶι μεμετρημένωι
+εἰ ς πυρῶν λόγον ἀρτάβαι 1509
+καὶ ὧι πλείω διαγέγραπται
+Πυρρείας",PRICE,"receipt_price,priceword_ext",0.7,,
+p.petr;3;80,1,3,1,yes,ab,Reports on Cultivation,Arsinoites,III v.Chr.,,-0300,-0201,πυρων,1509,αρταβαι,1,οβολου,33.59,17,2,19,0,no,yes,no,,,,"94 2
+γίνονται δραχμαὶ 2811 ἡμιωβέλιον τέταρτον ὀβολοῦ 1/2 1/4 αἳ πυρ ῶν 1405 1/2 1/12
+σὺν δὲ τῶι μεμετρημένωι
+εἰ ς πυρῶν λόγον ἀρτάβαι 1509
+καὶ ὧι πλείω διαγέγραπται
+Πυρρείας",PRICE,"receipt_price,priceword_ext",0.7,,
+p.petr;3;80,1,4,1,yes,ab,Reports on Cultivation,Arsinoites,III v.Chr.,,-0300,-0201,πυρων,1509,αρταβαι,371,δραχμαι,40.96,4,24,24,0,no,yes,no,,,,"δὲ τῶι μεμετρημένωι
+εἰ ς πυρῶν λόγον ἀρτάβαι 1509
+καὶ ὧι πλείω διαγέγραπται
+Πυρρείας ἀπὸ τιμῆς σησάμου
+ἐν τῶι Θῶυθ 26 ἀπὸ δραχμῶν 531 δραχμαὶ 371
+αἳ πυρῶν 185 1/2
+εἰς τὸ αὐτὸ 1694 1/2",PRICE,"receipt_price,priceword_ext",0.7,,
+p.prag.varcl;NS;2,1,1,1,yes,ab,Rechnungsrollen des Heroneinos,Theadelphia (Arsinoites),29. Aug. - 27. Sept. 250,,0250-08-29,0250-09-27,πυρου,13,αρταβων,20,δραχμων,37.69,7,1,7,0,no,yes,no,,,,"200
+καὶ ἀπὸ τιμῆς τειμ ῆ ς πυροῦ ἀρταβῶν 13 ὡς τῆς ἀρτάβης ἐκ δραχμῶν 20 δραχμὰς 260 2752 4
+γίνονται λήμματος·",PRICE,"receipt_price,rate_construction,priceword_ext",0.8,,
+p.prag.varcl;NS;6,1,1,1,yes,ab,Rechnungsrollen des Heroneinos,Theadelphia (Arsinoites),27. Nov. - 26. Dez. 260,,0260-11-27,0260-12-26,πυρου,13,αρταβων,18,δραχμων,42.72,7,1,8,0,no,yes,no,,,,"ο χώ ρων 150 ὡς τοῦ 1 ἐκ δραχμῶν 18 2700
+ἀπὸ τιμ ῆς πυροῦ ἀρταβῶν 13 ὡς τῆς ἀρτάβης ἐκ δραχμῶν 12 δραχμαὶ",PRICE,"receipt_price,rate_construction,priceword_ext",0.8,,
+p.prag;3;236r,1,1,1,yes,ab,Draft monthly account of Heroninos,Theadelphia (Arsinoites),nach 28. Okt. 259,,0259-10-28,,πυρου,13,αρταβ,3200,δραχμ,35.76,9,1,10,0,no,yes,no,,,,"200 ὡς τοῦ
+1 ἐκ δραχμ- 16 δραχμ- 3200
+καὶ ἀπὸ τι μῆς τει μῆς πυροῦ ἀρταβ - 13 ὡς τῆς ἀρταβ - ἐκ δραχμ-",PRICE,rate_construction,0.8,,
+p.princ.roll;;2nded,4,5,1,yes,ab,Quittungen über Getreide- und Geldzahlungen,Philadelphia (Arsinoites),29. Juni 324,0324-06-29,,,κριθησ,,,1,δραχμω,25.05,3,-1,3,0,no,no,no,,,,"δραχμὰς τετρακισχιλίας τετρακισχειλίας
+πεντακοσίας 4500 , καὶ κριθῆς ἀρτάβη ν 1 , δραχμῶ ν χιλίων χιλείων , γ ίνονται",OTHER,,0.0,,
+p.ross.georg;2;24,1,1,1,yes,ab,Aus dem Amtstagebuch eines Strategen,Memphis,157 - 159,,0157,0159,πυρον,,,128,δραχμα,32.04,12,-1,12,0,yes,yes,no,,,,"δραχ μαί εἰσι τοῦ δούλου, τὸν δὲ πυρὸν ἐμε λ
+ἑκκαιδεκάδραχμον τιμὴν τειμὴν ὡ ς λείπε ιν
+128 δραχμὰ ς , ἃς ἐκέλευσεν π α ειν",PRICE,priceword_ext,0.6,,
+p.sarap;;59,1,1,1,yes,ab,Comptes de recettes (?) et de dépenses,Hermopolites,90 - 133,,0090,0133,πυρου,1,αρταβη,64,δραχμαι,28.89,37,1,37,0,no,yes,no,,,,"έσεως Ἑρμου π όλεως ἐπὶ τ ῇ 4 πυροῦ ἀρτάβη 1
+Μιρήι ἀπὸ Ἄμμω νος βουκόλ ῳ
+13 ἀπ ὸ τιμῆς ἀχύρ ο υ α
+Ὀννω φρ ὀνηλ ατ ο
+ἀρραβ ων νομίσ ματος Ἀπολ
+Ἑρμᾶι τηρή τῃ
+Σελήνης δραχμαὶ 64
+γεωργῶ ι Ὑ φαντ
+ἀπὸ",PRICE,priceword_ext,0.6,TAX,
+p.sarap;;79e,1,2,1,yes,ab,Comptes de dépenses au titre de l’impôt,Hermopolites,127 - 128,,0127,0128,πυρου,2,αρταβων,16,δραχμαι,32.88,3,1,3,0,no,no,no,,,,"είτ ης κ ά τ ω τιμ ῆς πυροῦ ἀρταβῶν 2 δραχμαὶ 16
+ναυβ ίου 5 ἔτους 2",OTHER,,0.0,,
+p.sarap;;79e,4,2,1,yes,ab,Comptes de dépenses au titre de l’impôt,Hermopolites,127 - 128,,0127,0128,πυρου,1,αρταβησ,2.5,δραχμαι,28.15,1,20,20,0,no,no,no,,,,"τι μῆς ὑ π ὲρ
+Σ Α πυροῦ 2 1/2 δραχμαὶ 20
+Πατε μί τ ης κ ά τ ω ὑ π ὲρ Σα ραπ ίωνος ἀρτάβης 1/4 δραχμαὶ 2
+Πατε μίτ ης ἄνω",OTHER,,0.0,,
+p.stras;6;559,1,1,1,yes,ab,Comptes,unbekannt,312 - 318 (?),,0312,0318,σιτου,,,4300,δραχμαι,32.45,9,-1,9,0,no,yes,no,,,,"ἄλλο λῆμμ α Παχὼν 1 τάλαντα 2 δραχμαὶ 4300
+1 τ ὸ ἀπὸ τιμ ῆς σίτου Χαιρέου ἀπ αρτισθὲν ἀρτισθὲν
+εἰς τὸ μέγα",PRICE,receipt_price,0.7,,
+p.stras;8;701,1,1,1,yes,ab,Requête,unbekannt,II v.Chr.,,-0200,-0101,σιτου,7.5,αρταβασ,60,δραχμαι,41.01,5,5,10,0,yes,yes,no,,,,"θων τιμὴν 6 ἀρταβῶν δραχμαὶ 10
+γίνονται δραχμαὶ 60 ὥσ τε εἶναι σίτου
+πεπεμ μ ένου ἀρτάβας 7 1/4 1/4 ὧν
+μισθὸς ὃ γί",PRICE,priceword_ext,0.6,,
+p.stras;9;847,2,2,1,yes,ab,Comptabilité,Theadelphia (Arsinoites),ca. 150,0150,,,πυρου,4,αρταβαι,110,δραχμαι,26.36,4,1,5,0,no,no,no,,,,"λ ο ιπ ὸν δι ὰ Ἰσιδώρο υ δραχμαὶ 110
+καὶ πυροῦ ἀρτάβαι 4 τ ι μῆς 44 δρο
+παλαιστροφύλ",OTHER,,0.0,,
+p.tebt;1;109,1,1,1,yes,ab,Sale of Wheat,"Kerkeosiris (Arsinoites, Ägypten)",22. Dez. 93 v.Chr.,-0093-12-22,,,πυρου,3,αρταβασ,2000,δραχμασ,40.55,10,1,10,0,yes,yes,no,,,,"τοῦ Διονυ σίου ἀνδ ρὸς καὶ γεγρ αμμένου πυροῦ ἀρτάβας 3 τιμὴν ἀρτάβας ἑκά στης
+χα λκοῦ δραχμὰς 2000
+ἔγγυ οι συ γγραφοφύλαξ Διονύσιος.",PRICE,priceword_ext,0.6,,
+p.tebt;1;120,1,1,1,yes,ab,Account,Arsinoites Tebtynis (Arsinoites),nach 28. Sept. 64 v.Chr. (Jahr unsicher),,-0064-09-28,,πυρου,2,αρταβων,8,δραχμαι,48.33,3,1,3,0,yes,yes,no,,,,"ἀνθʼ ὧ ν κέχρη κε τιμῆ ς
+πυροῦ ἀρταβῶν 2 δραχμαὶ 8 ,
+Ἡλιοδώ ρωι τῶι παρʼ Ἀθηνίω",PRICE,priceword_ext,0.6,,
+p.tebt;1;120,1,2,1,yes,ab,Account,Arsinoites Tebtynis (Arsinoites),nach 28. Sept. 64 v.Chr. (Jahr unsicher),,-0064-09-28,,πυρου,1,αρταβησ,8,δραχμαι,38.45,6,17,23,0,yes,yes,no,,,,",
+Ἡλιοδώ ρωι τῶι παρʼ Ἀθηνίω νος δραχμαὶ 8 ,
+καὶ τιμὴν πυροῦ 2/3 1200 ,
+τῶι τοῦ Θοτέως εἰς τι μὴν κνή κου 1500 ,
+ἄλλης ἀρτάβης 1 1320 ,
+Πα τ ύ ν",PRICE,priceword_ext,0.6,,
+p.tebt;1;120,2,1,1,yes,ab,Account,Arsinoites Tebtynis (Arsinoites),nach 28. Sept. 64 v.Chr. (Jahr unsicher),,-0064-09-28,,πυρου,2.5,αρταβων,7,ταλαντα,37.67,13,1,14,0,no,yes,no,,,,"δραχμαὶ 12
+χα λκοῦ 5850 , γίνονται τάλαντα 7 4250 , λο ιπαὶ ἐν οἴκῳ 5850 .
+καὶ τιμὴν πυροῦ ἀρταβῶν 2 1/2 ἀνὰ 1800 4500 4500 , καταλεί",PRICE,priceword_ext,0.6,,
+p.tebt;3.1;743,1,1,1,yes,ab,Report from a Comogrammateus,Ptolemais Nea (Arsinoites),145 v.Chr.,-0145,,,πυρων,,,700,ταλαντα,32.08,7,-1,7,0,yes,yes,no,,,,"Ἁρπαήσ ιος τ οῦ
+Θοτέως πεπτωκότος ἀτέκνου πυρῶν ἀρ τάβας , ὧν τιμὴ ἀνὰ 700 τάλαντα 191 2000 ,
+καὶ ἀργυρίου ἐπισήμου",PRICE,priceword_ext,0.6,,
+p.tebt;3.1;743,1,3,1,yes,ab,Report from a Comogrammateus,Ptolemais Nea (Arsinoites),145 v.Chr.,-0145,,,πυρου,,,700,ταλαντα,34.58,8,-1,8,0,yes,yes,no,,,,"ντ εργ α καὶ αὐτῶν
+ἀπενηνέχθαι ἄλλας πυροῦ ἀρ τάβας 600 , ὧν τιμὴ ἀνὰ 700 τάλαντα 70 , μισ κ καὶ ἧς ἐγεώργε",PRICE,priceword_ext,0.6,,
+p.tebt;3.1;815,8,3,1,yes,ab,List of Abstracts of Contracts,Tebtynis (Arsinoites),223 - 222 v.Chr.,,-0223,-0222,πυρων,8,αρταβων,2,δραχμων,26.25,7,1,7,0,no,no,no,,,,"Ἰδ α υμαίωι σικυῶνα ὃν ἔχει σι
+πυρῶν ἀρταβῶν 8 χαλκοῦ νομίσματος δραχμῶν
+δραχμῶν 2 , ἃς ἀποδώσει ἐν Ξανδικῶι Αἰγυπτίων δὲ",OTHER,,0.0,,
+p.thmouis;1;1,13,2,1,yes,ab,"Le papyrus Thmouis 1, colonnes 68 - 160",Thmuis (Mendesios) Thmuis,180 - 192,,0180,0192,κριθ,,,603,δραχμαι,26.01,1,-1,1,0,no,no,no,,,,"τῶν ἐνθάδε κ ἔ
+πεμψεν κατα
+κριθ δραχμαὶ 603 , ὧν",OTHER,,0.0,,
+p.trier;1;5,1,4,1,yes,ab,Vorladung wegen Nichtrückzahlung eines Weizendarlehens (Apollodoros gegen Botrichos),Herakleopolis,184 - 183 v.Chr. (?),,-0184,-0183,πυροσ,120,αρταβων,7,ταλαντων,30.51,14,23,37,0,yes,yes,no,,,,"κατὰ τὴν συγγραφὴν τῆς
+τιµῆ ς τῶν 120 ἀρταβῶν τῶν
+π υ ρῶν ἑκάστης ἀρτάβης χαλκοῦ νοµίσµατος
+δρ α χµῶν 350 , καθότι πω
+λεῖ ται ὁ πυρὸς ἐν τῆι ἐν Ἡρακλέους πόλει ἀγορᾶι,
+το ῦ παντ ὸς χαλκοῦ νοµίσµατος ταλάντων 7 .
+τίµηµα τῆς δίκης χαλ κοῦ",PRICE,priceword_ext,0.6,,
+p.trier;2;15,1,1,1,yes,ab,Stellenbesetzung und Besoldung in der Militärverwaltung der Ptolemäerzeit,"Herakleopolites, Ägypten","nach
+                17. Sept. 145 v.Chr.",,-0145-09-17,,πυρων,,,500,δραχμη,25.05,3,-1,3,0,no,no,no,,,,"ἀπὸ κενῶν χωρῶν διασεσαφημένου
+ι προσθεμά των δραχμή 500 καὶ πυρῶν ἀρ τ άβη 10 .
+Πτολεμαῖος Φ",OTHER,,0.0,,
+p.trier;2;15,1,2,1,yes,ab,Stellenbesetzung und Besoldung in der Militärverwaltung der Ptolemäerzeit,"Herakleopolites, Ägypten","nach
+                17. Sept. 145 v.Chr.",,-0145-09-17,,πυρων,,,500,δραχμη,42.15,3,-1,3,0,no,yes,no,,,,"ὡς ἂν προσαγγείληι
+Ἀντίφιλος περὶ προσθεμάτω ν δραχμή 500 καὶ πυρῶν ἀρ τ άβη 10 , ὧν τιμὴ",PRICE,priceword_ext,0.6,,
+p.trier;2;15,2,2,1,yes,ab,Stellenbesetzung und Besoldung in der Militärverwaltung der Ptolemäerzeit,"Herakleopolites, Ägypten","nach
+                17. Sept. 145 v.Chr.",,-0145-09-17,,πυρου,,,850,δραχμη,46.39,2,-1,2,0,no,yes,no,,,,"α σὺ ν τοῖς γεγονόσι προσθέμα σ ιν δραχμή 850 πυροῦ 17
+ἀφʼ ὧν πυροῦ 4 , τῶν",PRICE,priceword_ext,0.6,,
+p.trier;2;15,2,3,1,yes,ab,Stellenbesetzung und Besoldung in der Militärverwaltung der Ptolemäerzeit,"Herakleopolites, Ägypten","nach
+                17. Sept. 145 v.Chr.",,-0145-09-17,,πυρου,,,850,δραχμη,37.74,7,-1,7,0,no,yes,no,,,,"α σὺ ν τοῖς γεγονόσι προσθέμα σ ιν δραχμή 850 πυροῦ 17
+ἀφʼ ὧν πυροῦ 4 , τῶν δὲ λοιπῶν τιμὴν τῆς ἀρτ",PRICE,priceword_ext,0.6,,
+psi;15;1545,1,2,1,yes,ab,Registro di conti,Oxyrhynchites (?),II - III,,0101,0300,πυρου,60,αρταβαι,3677,δραχμαι,25.46,77,6,83,0,no,yes,no,,,,"3014
+πλείω ὑ πὲρ δαπανήματ ος
+δραχμαὶ 3677 3
+γενῶν ἐστὶ δὲ ἄρακος
+λοι παὶ προτέρου λόγ ου ἀρτάβαι 17 χ οίνικες 8 ὧν
+παρεδόθησαν Ἄμοι φρο ντιστῇ ἀρτάβαι 10 1/2 χ οίνικες 6
+λοι παὶ παρ’ ἐμοὶ ἀρτάβαι 6 1/2 χ οίνικες 6
+κριθ ῆς λοι παὶ προτέρου λόγ ου ἀρτάβαι 1 1/3
+λαχανοσπέρμου λοι παὶ προτέρου λόγ ου
+ἀρτάβαι 2 3/4 χ οίνικες 6 αἱ ἀναλωθεῖσαι
+ὧν ἡ τιμὴ ἐλημματί σθη ἐπάνω
+πυροῦ λοι παὶ προτέρου λόγ ου ἀρτάβαι 60
+ὧν ἀν αλωθ εῖσαι ὧν ἡ",PRICE,priceword_ext,0.6,,
+psi;17;1681,1,1,1,yes,ab,Promemoria su un pagamento di frumentum emptum,Hermopolites,nach 20. Okt. 101,,0101-10-20,,πυρου,152.666667,αρταβαι,10,δραχμων,25.57,32,12,32,0,no,yes,no,,,,"Ἀντάμωνο ς Ἀντάμμωνο ς στρατηγοῦ
+τιμῆ ς πυροῦ ἀρταβῶν συναγοραστικοῦ
+οὗ ἐμέτρησα γενή ματος 4 ἔτους ·
+ἀρτάβαι 152 2/3 αἱ μετρηθεῖσαι
+ἐπὶ το ῦ Θὼθ Θὼ τ 5 ἔτους , ὡς τῆ ς
+ἀρτάβης δραχμῶν 10 , αἱ συναγόμεναι
+δραχμαὶ 1526 4",PRICE,priceword_ext,0.6,ADMIN,
+sb;16;12314,1,2,1,yes,ab,Ausgabenliste einer Weberei (?),Oxyrhynchos (?),nach 130,,0130,,πυρου,4.5,αρταβαι,56,δραχμαι,37.83,5,1,6,0,yes,yes,no,,,,"σεαυτῷ σατῷ δραχμαὶ 8
+τιμῆς τειμῆς χοιριδίων δραχμαὶ 56
+μηνὸς Ἁδριανοῦ πυροῦ ἀρτάβαι 4 1/2
+καὶ δαπάνης αὐτ ῶν",PRICE,priceword_ext,0.6,,
+sb;16;12314,2,1,1,yes,ab,Ausgabenliste einer Weberei (?),Oxyrhynchos (?),nach 130,,0130,,πυρου,1,αρταβη,4,δραχμασ,36.57,6,1,7,0,no,yes,no,,,,"ἐξεκρούσατο Μ υσθᾶς εἰς ἔλαιον καὶ ἄλλ α δραχμὰς 4
+τῷ αὐτῷ Ὀφελλίῳ πυροῦ ἀρτάβη 1
+τιμῆς τεισμῆς ὑφάντρων δραχμαὶ 84",PRICE,priceword_ext,0.6,,
+sb;16;12314,2,2,1,yes,ab,Ausgabenliste einer Weberei (?),Oxyrhynchos (?),nach 130,,0130,,πυρου,4,αρταβαι,52,δραχμαι,38.62,8,1,9,0,no,yes,no,,,,"τειμῆς ὀστέων δραχμαὶ 8
+Σαραπιακὸς καὶ Νειλᾶς δραχμαὶ 52
+Ε Ἐπεὶφ εἰς τὸ μυλαῖον πυροῦ ἀρτάβαι 4
+λημμά των παρὰ Ὀφελλίου ὑπὲρ Ἐπεὶφ·",PRICE,priceword_ext,0.6,,
+sb;16;12314,2,4,1,yes,ab,Ausgabenliste einer Weberei (?),Oxyrhynchos (?),nach 130,,0130,,πυρου,3.5,αρταβαι,12,δραχμαι,35.42,16,1,16,0,yes,yes,no,,,,"ἡμέρα ν 1
+Μεσορὴ εἰς τὸ μυλαῖον πυροῦ ἀρτάβαι 3 1/2
+γνα φ ε ῖ ὑπὲρ συνθέ σε ως συνθεως Λε σᾶ δραχμαὶ 12
+τιμῆς οἴνου κεραμ ίου 1 δραχμαὶ",PRICE,priceword_ext,0.6,,
+sb;16;12314,2,5,1,yes,ab,Ausgabenliste einer Weberei (?),Oxyrhynchos (?),nach 130,,0130,,κριθ,3.5,αρταβαι,6,δραχμαι,30.18,5,28,28,0,yes,yes,no,,,,"ν 1
+Μεσορὴ εἰς τὸ μυλαῖον πυροῦ ἀρτάβαι 3 1/2
+γνα φ ε ῖ ὑπὲρ συνθέ σε ως συνθεως Λε σᾶ δραχμαὶ 12
+τιμῆς οἴνου κεραμ ίου 1 δραχμαὶ 6 4
+τιμῆς κριθ ῶν τοῖς χοιριδ ίοις δραχμαὶ 8
+λος",PRICE,priceword_ext,0.6,,
+sb;16;12515,1,2,1,yes,ab,Gutsabrechnung,unbekannt,Mitte - Ende I,,0026,0100,πυρου,1,αρταβη,4,δραχμαι,25.77,4,17,17,0,no,no,no,,,,"ἀρτάβης 1/2
+ε κτη γυψ ἄλη αρ ἀρτάβη 1
+κυά μω ν 3 λάχα να 3
+χ δ δραχμαὶ 4
+τ πυροῦ χ β
+α βολλαιο ε θ αψ",OTHER,,0.0,,
+sb;16;12764,1,1,1,yes,ab,Abrechnung,Oxyrhynchos,I - II,,0001,0200,κριθησ,,,7,δραχμων,33.92,8,-1,8,0,no,yes,no,,,,"δραχμαὶ χ αλκοῖ 2 2
+κ αὶ κριθῆς κρειθῆς ων ἀρτ αβῶν 7 1/2 ἐκ δραχμῶν 7 δραχμαὶ 52 3
+ὀψωνί ω ν",PRICE,rate_construction,0.8,"TRANSPORT,RATION",
+sb;16;13060,1,1,1,yes,ab,Bankquittung für die Zahlung von Getreidetransportkosten,Ptolemais Euergetis (Arsinoites),vor 4. Febr. 155,,,0155-02-04,πυρου,64.166667,αρταβασ,8,δραχμων,40.55,10,1,10,0,yes,yes,no,,,,"τοὺς ὅρ μους
+γενή ματος 10 ἔτους πυροῦ ἀρτάβας 64 1/6 τιμῆς ὡς τῆς ἑ κάστης ἀρτάβης δραχμῶν 8 , τὰς σ υναγο μένας
+ἀργ",PRICE,priceword_ext,0.6,ADMIN,
+sb;20;14197,1,1,1,yes,ab,Entwurf einer Monatsabrechnung aus dem Heroninos - Archiv,Theadelphia (Arsinoites),26. Mai - 24. Juni 256,,0256-05-26,0256-06-24,πυρου,13,αρταβων,28,δραχμαι,35.18,7,1,8,0,yes,yes,no,,,,"δραχμῶν 12 δραχμαὶ 2700
+καὶ ἐπὶ τραπέζης δραχμαὶ 28
+καὶ ἀπὸ τιμῆς τειμῆς πυροῦ ἀρταβῶν 13 ὡς τῆς 1 ἐκ δραχμῶν 16 δραχμαὶ",PRICE,"receipt_price,rate_construction,priceword_ext,sale_verb",0.8,,
+sb;20;14197,2,1,1,yes,ab,Entwurf einer Monatsabrechnung aus dem Heroninos - Archiv,Theadelphia (Arsinoites),26. Mai - 24. Juni 256,,0256-05-26,0256-06-24,πυρου,2,αρταβασ,28,δραχμαι,35.07,2,8,8,0,no,yes,no,,,,"δραχμαὶ 20
+διεραματίταις ὑπὲρ τι μῆς εως πυροῦ ἀρτάβας δραχμαὶ 28
+τίλλοντες λάχ ανον ἀρτάβας 2 ὡς τῆς δραχμαὶ 16 δραχμαὶ 32",PRICE,priceword_ext,0.6,,
+sb;20;14197,4,3,1,yes,ab,Entwurf einer Monatsabrechnung aus dem Heroninos - Archiv,Theadelphia (Arsinoites),26. Mai - 24. Juni 256,,0256-05-26,0256-06-24,πυρου,1,αρταβη,324,δραχμαι,25.68,39,1,40,0,no,yes,no,,,,"ματος δραχμαὶ 3076 πρ οσοφείλεται τῷ λό γῳ δραχμαὶ 324
+γενικὸς ὁμοίως
+ἐκ ἐγ λόγου τοῦ προτέρου μη νὸς ἀρτάβαι 119 μ έτρα 6
+ὧν ἀναλ ώματος · ὀψωνίων·
+ἐμοὶ Ἡρωνίνῳ πυροῦ ἀρτάβη 1
+Ποντικῷ πυροῦ ἀρτάβη 1
+Ἀκιῆς ὀνηλ άτης πυροῦ ἀρτάβη 1
+Πουᾶρις ὀνηλ άτης πυροῦ ἀρτάβη 1",RATION,sale_verb,0.5,RATION,weak_positive(0.5)+negative(RATION)
+sb;20;14197,4,4,1,yes,ab,Entwurf einer Monatsabrechnung aus dem Heroninos - Archiv,Theadelphia (Arsinoites),26. Mai - 24. Juni 256,,0256-05-26,0256-06-24,πυρου,1,αρταβη,324,δραχμαι,25.16,46,1,47,0,no,yes,no,,,,"ματος δραχμαὶ 3076 πρ οσοφείλεται τῷ λό γῳ δραχμαὶ 324
+γενικὸς ὁμοίως
+ἐκ ἐγ λόγου τοῦ προτέρου μη νὸς ἀρτάβαι 119 μ έτρα 6
+ὧν ἀναλ ώματος · ὀψωνίων·
+ἐμοὶ Ἡρωνίνῳ πυροῦ ἀρτάβη 1
+Ποντικῷ πυροῦ ἀρτάβη 1
+Ἀκιῆς ὀνηλ άτης πυροῦ ἀρτάβη 1
+Πουᾶρις ὀνηλ άτης πυροῦ ἀρτάβη 1
+Κάστωρ ὀνηλάτης πυροῦ ἀρτάβη 1",PRICE,sale_verb,0.5,,
+sb;20;14576,2,1,1,yes,ab,Buchhalter eines Steuereinnehmers,Philadelphia (Arsinoites),nach 46 - 47,,0046,0047,πυρου,,,6,δραχμαι,33.05,1,-1,1,0,yes,yes,no,,,,"1
+ὁμο ίως δραχμαὶ 17
+τιμῆς πυροῦ δραχμαὶ 6
+δαπανῶ ν ἐπιξένω ν
+Πτολ",PRICE,priceword_ext,0.6,,
+sb;20;14645,1,1,1,yes,ab,Entwurf einer Monatsabrechnung aus dem Heroninos - Archiv,Theadelphia (Arsinoites),"nach (?)
+                         29. Okt. - 27. Nov. 251",,0251-10-29,0251-11-27,πυρου,13,αρταβων,20,δραχμων,35.18,7,1,7,0,no,yes,no,,,,"δραχμαὶ 16
+ορ
+ἀπὸ τιμῆς τειμῆς πυροῦ ἀρταβῶν 13 ὡς τῆς ἀρτάβης ἐκ δραχμῶν 20 δραχμαὶ 260
+γίνονται λήμ ματος δραχμαὶ",PRICE,"receipt_price,rate_construction,priceword_ext",0.8,,
+sb;20;14657,1,1,1,yes,ab,Buchführung,Hermopolites,ca. 300 - 310,,0300,0310,σιτου,15.208333,αρταβων,852,δραχμων,36.2,6,1,6,0,no,yes,no,,,,"δραχμαὶ 4466
+ὧν
+τ ιμ ῆς σίτου ἀρταβῶν 15 1/6 1/24 ἐκ δραχμῶν 852 τάλαντον 1 1 δραχμαὶ 956
+τ",PRICE,rate_construction,0.8,,
+sb;20;14657,1,2,1,yes,ab,Buchführung,Hermopolites,ca. 300 - 310,,0300,0310,κριθ,39.020833,αρταβων,956,δραχμαι,35.87,6,2,8,0,no,yes,no,,,,"1/6 1/24 ἐκ δραχμῶν 852 τάλαντον 1 1 δραχμαὶ 956
+τ ιμ ῆς κριθ ῆς ἀρταβῶν 39 1/48 , ἐκ δραχμῶν 540 τάλαντα δραχμαὶ",PRICE,rate_construction,0.8,,
+sb;24;15920,2,1,1,yes,ab,Buchführung,Hermopolis,87 (?),0087,,,πυρου,6,αρταβων,12,δραχμαι,40.67,13,1,13,0,no,yes,no,,,,"αίμονος ὑι οῦ Ἑρμᾶτο ς ἀπὸ τιμῆ ς πυροῦ ἀρταβῶν 6
+ὧν εἴρηκε ὁ πατὴρ αὐτο ῦ δοῦναί δῶναί μοι δραχμαὶ 12
+κα ὶ παρὰ Χενοννώφριο ς ἀπὸ",PRICE,"receipt_price,priceword_ext",0.7,,
+sb;24;15920,6,1,1,yes,ab,Buchführung,Hermopolis,87 (?),0087,,,πυρο,,,4,δραχμαι,28.06,24,-1,24,0,yes,yes,no,,,,"ν ὄψο υ καὶ τιμὴ ν κοσκίν ου δραχμαὶ 4
+4 Παῆσ ι ἐν Ναγ ώγει εἰς μισθὸν πατησμοῦ π ατ ι σ μο͂
+τὸν π ν ἐν Ναγ ώγει πυρο ῦ ἀπὸ τιμ ῆ ς
+μι σθοῦ",PRICE,receipt_price,0.7,,
+sb;26;16459,1,7,1,yes,ab,Fragment eines Tempelinventars (γραφὴ ἱερέων καὶ χειρισμοῦ),Tebtynis (Arsinoites),ca. 107 - 108,,0107,0108,πυρου,1,αρταβαι,18,δραχμαι,28.89,37,1,38,0,yes,yes,no,,,,"ῶν λα χ α νοπο λ ῶν οἰνοδαπ δραχμαὶ 18 2 τιμῆς τειμῆς
+βύσσου βύσσως στ ο λισμάτων Σαρ ά πιδος θ εοῦ δραχμαὶ τιμῆς ἀρωμάτων εἰς ἰς σύνθεσιν κύφε ως δραχμαὶ τῇ κωμασίᾳ θεοῦ
+ἁγνεύ ο υσι καθ’ ἡμ έ ρ αν πυροῦ ἀρτάβαι 1/4 καὶ παστοφόρου ὁδιῶν ὁδῶ ν καὶ ὡρ",PRICE,priceword_ext,0.6,,
+sb;26;16459,1,14,1,yes,ab,Fragment eines Tempelinventars (γραφὴ ἱερέων καὶ χειρισμοῦ),Tebtynis (Arsinoites),ca. 107 - 108,,0107,0108,πυρου,216.5,αρταβαι,1744,δραχμαι,32.88,3,1,4,0,no,no,no,,,,"1/4 τοῦ ἐνιαυτοῦ ἀρτάβαι 9
+γ ίνονται δραχμαὶ 1744 καὶ πυροῦ ἀρτάβαι 216 1/2 κα ὶ φα κ οῦ ἀρτάβαι",OTHER,,0.0,,
+sb;26;16460,1,1,1,yes,ab,Fragment eines Tempelinventars (γραφὴ ἱερέων καὶ χειρισμοῦ),Tebtynis (Arsinoites),ca. 107 - 108,,0107,0108,πυρου,44.5,αρταβαι,68,δραχμαι,41.68,9,1,10,0,yes,yes,no,,,,", τιμῆς ἀρωμάτων εἰς ἰς σύνθεσιν κ ύφεως δραχμαὶ 68 , τῇ
+κωμασίᾳ θεοῦ τοῖς ἱερεῦσι πυροῦ ἀρτάβαι 44 1/2 τοῖς ἁγνεύουσι ἁγνεύοντος ἁγνευωνδος καθ' ἡμέρα",PRICE,priceword_ext,0.6,,
+sb;26;16460,1,10,1,yes,ab,Fragment eines Tempelinventars (γραφὴ ἱερέων καὶ χειρισμοῦ),Tebtynis (Arsinoites),ca. 107 - 108,,0107,0108,πυρου,2,αρταβαι,44,δραχμαι,26.25,7,1,7,0,no,no,no,,,,"ων
+πυροῦ ἀρτάβαι καὶ εἰς τροφὴν αὐτοῖς πυροῦ ἀρτάβαι 2 , μισθ οῦ αὐτοῖς δραχμαὶ 44 τοῖς ἁγνεύουσι κ ατὰ μῆν α",OTHER,,0.0,,
+sb;26;16460,1,11,1,yes,ab,Fragment eines Tempelinventars (γραφὴ ἱερέων καὶ χειρισμοῦ),Tebtynis (Arsinoites),ca. 107 - 108,,0107,0108,πυρου,216.5,αρταβαι,1744,δραχμαι,32.88,3,1,4,0,no,no,no,,,,1/2 1/4 τοῦ ἐνιαυτοῦ ἀρτάβαι 9 . γίνονται δραχμαὶ 1744 καὶ πυροῦ ἀρτάβαι 216 1/2 καὶ φακοῦ ἀρτάβαι 9 α ἱ,OTHER,,0.0,,
+sb;26;16634,1,1,1,yes,ab,Abrechnung,Gurob (?) (Arsinoites),235 - 234 v.Chr. (?),,-0235,-0234,σιτου,,,5,ταλαντα,32.76,8,-1,8,0,no,yes,no,,,,"ὀ φεί λ ε ται τάλαντα 5 4579 4 1/2 1/4
+καί σίτου εἰς ν 95533 1/6
+ὧν τίμη σι",PRICE,priceword_ext,0.6,,
+sb;8;9699,1,1,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,6,αρταβων,10,δραχμων,46.76,4,1,4,0,yes,yes,no,,,,"δ πι δραχμαὶ 4
+13 τιμῆ ς πυροῦ ἀρταβῶν 6 ἐκ δραχμῶν 10 ἀργ υρίου δραχμαὶ 60
+20 τιμῆ",PRICE,"rate_construction,priceword_ext",0.8,,
+sb;8;9699,1,2,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,14,αρταβων,60,δραχμαι,43.95,6,1,7,0,yes,yes,no,,,,"πυροῦ ἀρταβῶν 6 ἐκ δραχμῶν 10 ἀργ υρίου δραχμαὶ 60
+20 τιμῆ ς πυροῦ ἀρταβῶν 14 πεπραμένω ν κατὰ μ έρος Ἐπιμάχ ου",PRICE,"rate_construction,priceword_ext",0.8,,
+sb;8;9699,1,3,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,4,αρταβων,10,δραχμων,37.3,5,1,5,0,yes,yes,no,,,,"δαπάνη ν δραχμαὶ 4
+24 τιμῆ ς πυροῦ ἀρταβῶν 4 ὁμοίως ἐκ δραχμῶν 10 δραχμαὶ 40
+26 Ἐπιμάχο υ ὁμοίως",PRICE,"rate_construction,priceword_ext",0.8,,
+sb;8;9699,2,1,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,1,αρταβησ,8,δραχμαι,48.8,1,78,78,0,yes,yes,no,,,,"ς
+16 Ἐπιμάχωι σοι ἀπὸ τιμῆ ς πυροῦ δραχμαὶ 8
+Ἡφαιστίωνι Ἐπιμάχ ου ἐπιμελή τηι μισθ ωτῶν ἐργ ατῶν 4
+φυλασσόντω ν τὰ χώματα Περιλάου κατὰ
+νύκ τα ἕως ποτισθ ῆναι , Ἐπιμάχο υ ε ἰ πόντο ς , ὀβ ολοὺς 12 χα λκοῦ δραχμαὶ 2
+χωφορο ῦσιν ὁμοί ως εἰς τὸν νότινο ν γ ύ ην γην τῶν
+ἐκ τοῦ Πρώτου ἀρουρῶν 6 διὰ Παῶτο ς ὀνηλ άται 4 τ ιμῆς 3 χα λκοῦ δραχμαὶ 2
+τιμὴ φακοῦ ἀρτάβης 1/2 κατὰ μέρο ς ὄρνιξι καὶ περιστ εραῖς",PRICE,"receipt_price,priceword_ext",0.7,,
+sb;8;9699,6,1,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,5,αρταβων,11,δραχμων,40.21,18,1,18,0,yes,yes,no,,,,"ἀπὸ 17 ἕως 30
+17 τιμῆ ς πυροῦ ἀρταβῶν 5 εἰς δαπάνη ν πεπραμένω ν κατὰ μέρος
+κατʼ ἐπιταγὴ ν αὐτοῦ Ἐπιμάχ ου ἐκ δραχμῶν 11 ἀργ υρίου δραχμαὶ 55
+τιμῆ ς",PRICE,"rate_construction,priceword_ext",0.8,,
+sb;8;9699,6,2,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,5,αρταβων,55,δραχμαι,45.3,5,1,6,0,yes,yes,no,,,,"αὐτοῦ Ἐπιμάχ ου ἐκ δραχμῶν 11 ἀργ υρίου δραχμαὶ 55
+τιμῆ ς πυροῦ ἀρταβῶν 5 ὁμοίως ἐκ δραχμῶν 11 ἀργ υρίου δραχμαὶ",PRICE,"rate_construction,priceword_ext",0.8,,
+sb;8;9699,8,1,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,2,αρταβων,11,δραχμων,52.26,4,1,4,0,yes,yes,no,,,,"Τῦβι ὀβολ οὶ 5
+2 τιμῆ ς πυροῦ ἀρταβῶν 2 ἐκ δραχμῶν 11 ἀργ υρίου δραχμαὶ 22
+9 τιμῆ",PRICE,"rate_construction,priceword_ext",0.8,,
+sb;8;9699,8,2,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,4,αρταβων,22,δραχμαι,46.54,6,1,7,0,yes,yes,no,,,,"πυροῦ ἀρταβῶν 2 ἐκ δραχμῶν 11 ἀργ υρίου δραχμαὶ 22
+9 τιμῆ ς πυροῦ ἀρταβῶν 4 πεπραμένω ν εἰς δαπ άνην Ἐπιμάχ ου",PRICE,"rate_construction,priceword_ext",0.8,,
+sb;8;9699,8,3,1,yes,ab,keiner,Hermopolites,10. Mai 79,0079-05-10,,,πυρου,1,αρταβησ,8,δραχμαι,44.93,5,1,5,0,no,yes,no,,,,"διατετακθ είσης αὐτῷ
+διʼ ἡμῶν πρὸς εὐθηνίαν πυροῦ ἀρτάβης 1 ἀργ υρίου δραχμαὶ 8
+Ἐπιμάχο υ τὰς Ἀμβρύο νι κηπ",PRICE,priceword_ext,0.6,,
+stud.pal;22;56,1,1,1,yes,ab,Ratio sumptus,Soknopaiu Nesos (Arsinoites),II - III,,0101,0300,κριθησ,2,αρταβαι,16,δραχμαι,34.77,1,18,18,0,no,yes,no,,,,"ος ὀβολοὶ 24
+γλυκυου ὀβολοὶ 20
+κριθῆς δραχμαὶ 16
+πρόζυμα δραχμαὶ 4
+κυνί δραχμαὶ 8
+προσωπίτιον προσοπιδιν δραχμαὶ 14
+ἄρτων ἀρτάβαι 2 δραχμαὶ 21
+στροβίλου ὀβολοὶ 8",PRICE,priceword_ext,0.6,,
+upz;1;14,1,1,1,yes,ab,Apollonios Indienststellung,Memphis,nach 23. Febr. 157 v.Chr.,,-0157-02-23,,πυρων,,,150,δραχμασ,46.07,4,-1,4,0,no,yes,no,,,,"οἵσα καὶ οἱ ἄλλοι λαμβάνουσι λαμβάνουσι ν , δραχμὰς 150
+καὶ πυρῶν ἀρ τάβας 3 , ἀφʼ ὧν πυρῶν ἀ",PRICE,"rate_construction,priceword_ext",0.8,,
+upz;1;14,1,2,1,yes,ab,Apollonios Indienststellung,Memphis,nach 23. Febr. 157 v.Chr.,,-0157-02-23,,πυρων,,,150,δραχμασ,37.05,11,-1,11,0,no,yes,no,,,,"οἵσα καὶ οἱ ἄλλοι λαμβάνουσι λαμβάνουσι ν , δραχμὰς 150
+καὶ πυρῶν ἀρ τάβας 3 , ἀφʼ ὧν πυρῶν ἀ ρτέβ ην
+ἀρ τάβην 1 καὶ",PRICE,"rate_construction,priceword_ext",0.8,,
+upz;1;14,2,1,1,yes,ab,Apollonios Indienststellung,Memphis,nach 23. Febr. 157 v.Chr.,,-0157-02-23,,πυρων,,,150,δραχμαισ,26.36,3,-1,3,0,no,no,no,,,,"τῇ Μέμφει ἐπιγόνους προσλαμβάνεσθαι προσειλα αι
+ἐπὶ δραχμαῖς 150 καὶ πυρῶν ἀρ τάβαις 3 , ἀφʼ ὧ ν τίθεσθαι",OTHER,,0.0,,
+upz;1;14,2,3,1,yes,ab,Apollonios Indienststellung,Memphis,nach 23. Febr. 157 v.Chr.,,-0157-02-23,,σιτονιον,1,αρταβην,100,δραχμων,48.94,2,31,31,0,no,yes,no,,,,"δὲ οἷς ἂν γίνηται καὶ τὸ σιτώνιον σιτόνιον ἐκ δραχμῶν 100 , ἐκθεῖναι
+ταῦτα ταῦτα μετʼ μεθʼ ἐνιαυτὸν ἐνειαυτὸν , προσανενέχθη προσανενέκχθη
+δὲ διότι ὡς ὁς ἂν προσταχθῆι προσταγχθῖη τίθεσθαι τίθεστα αὐτῶι
+μεθʼ ἑνιαυτὸν πυρῶν ἀρτάβην 1 , τοῦ δὲ λοιποῦ
+τῆς ἀρτάβης",PRICE,rate_construction,0.8,,
+upz;1;14,2,4,1,yes,ab,Apollonios Indienststellung,Memphis,nach 23. Febr. 157 v.Chr.,,-0157-02-23,,πυρων,1,αρταβην,100,δραχμων,36.41,11,1,11,0,no,yes,no,,,,"προσταχθῆι προσταγχθῖη τίθεσθαι τίθεστα αὐτῶι
+μεθʼ ἑνιαυτὸν πυρῶν ἀρτάβην 1 , τοῦ δὲ λοιποῦ
+τῆς ἀρτάβης ἐκ δραχμῶν 100",PRICE,rate_construction,0.8,,
+upz;1;92,1,1,1,yes,ab,Rechnung,Memphis,30. Mai 159 v.Chr.,-0159-05-30,,,σιτου,,,460,δραχμασ,28.9,4,-1,4,0,yes,yes,no,,,,"τιμὴν ἕως ἥως
+Φαρμοῦθι 30
+δραχμὰς 460
+γίνονται σίτου ἀρ τάβαι 5 1/2
+τιμὴν δραχμὰς 1600",PRICE,priceword_ext,0.6,,
+zpe;197;205_1,1,1,1,yes,ab,Loan of money with interest in kind,"Bakchias (Arsinoites, Ägypten)",Mitte - Ende II,,0126,0200,πυρου,,,300,δραχμασ,35.17,9,-1,9,0,yes,yes,no,,,,"α χμ- κ εφα
+λαίου ἀργ υρίου δραχμὰς 300 κ αὶ λ οι πὸν τιμῆς τειμῆς πυροῦ
+νέου καθαρο ῦ ἀδ όλου μέτρῳ δρόμῳ",PRICE,priceword_ext,0.6,,
+bgu;16;2611,1,2,1,yes,ab,Letter,"Herakleopolites, Ägypten",17. Dez. 10 v.Chr.,-0010-12-17,,,πυρου,500,αρταβων,200,δραχμων,55.01,4,1,4,0,no,yes,no,,,,"θε ἐν τῇ Βουσίρει χάρ ε ιν
+πυροῦ ἀρταβῶν 500 ἐκ δραχμῶν 200 · ἐπὶ τόπου
+ε ἴποι σοι·",PRICE,rate_construction,0.8,,
+bgu;16;2668,1,1,1,yes,ab,Private Account,Herakleopolites,ca. 21 v.Chr. - 5 n.Chr.,,-0021,0005,πυρου,10,αρταβασ,5,ταλαντα,28.9,4,6,10,0,no,no,no,,,,"ὑπόμν η μα Παππίωνος
+περὶ τάλαντα 5
+περὶ πυροῦ ἀρταβῶν μυριάδων 10000
+κρομμύων ἀρτάβας 10
+μέλιτος χ οί νικες 100",OTHER,,0.0,,
+bgu;3;800,1,2,1,yes,ab,keiner,Arsinoites,30. Jan. 158,0158-01-30,,,πυρου,5,αρταβαι,100,δραχμαι,32.88,3,1,4,0,no,no,no,,,,"ς π έν τ ε , γί νονται δραχμαὶ 100
+πυροῦ ἀρτάβαι 5 , ἃς καὶ ἀποδώσομεν ἀποδώσωμεν ἐν μη",OTHER,,0.0,,
+bgu;3;800,1,4,1,yes,ab,keiner,Arsinoites,30. Jan. 158,0158-01-30,,,πυρου,5,αρταβαι,100,δραχμαι,34.91,2,1,3,0,no,no,no,,,,"καὶ πυροῦ ἀρτάβας πέν
+τε, γί νονται δραχμαὶ 100 πυροῦ ἀρτάβαι 5 , ἃς καὶ ἀποδώ
+σομεν ἀποδώ",OTHER,,0.0,,
+bgu;6;1239v,1,1,1,yes,ab,Bericht mit Abrechnung,unbekannt,II v.Chr.,,-0200,-0101,σιτωι,,,24,ταλαντα,26.36,3,-1,3,0,no,no,no,,,,"ἑξαρμάρτυ ρον
+
+ς ἔτους 6 αφ σιτωι 1 ἔτους τάλαντα 24 2 ἔτους 24",OTHER,,0.0,,
+bgu;8;1749,1,4,1,yes,ab,Löhnungszahlung und Kornlieferung an die in den Gau abkommandierten Fünfarurenmänner,Herakleopolites,17. Aug. 63 v.Chr.,-0063-08-17,,,πυρου,2,αρταβασ,3000,δραχμασ,30.37,3,3,6,0,no,no,no,,,,"καθῆκον ἐγλόγισμα εἰς Μεσορὴ
+ἑκάστωι χα λκοῦ δραχμὰς 3000 , πυροῦ ἀνη λωτικῶι ἀρτάβας 2 , τὰ συναγόμενα χα λκοῦ τάλαντα 204",OTHER,,0.0,,
+bgu;8;1749,1,5,1,yes,ab,Löhnungszahlung und Kornlieferung an die in den Gau abkommandierten Fünfarurenmänner,Herakleopolites,17. Aug. 63 v.Chr.,-0063-08-17,,,πυρου,2,αρταβασ,204,ταλαντα,27.96,3,10,10,0,no,no,no,,,,"χα λκοῦ δραχμὰς 3000 , πυροῦ ἀνη λωτικῶι ἀρτάβας 2 , τὰ συναγόμενα χα λκοῦ τάλαντα 204
+πυροῦ ἀνη λωτικῶι 816 καὶ ἀ πὸ τοῦ 19",OTHER,,0.0,,
+chr.wilck;;159,1,1,1,yes,ab,keiner,Latopolites,1. Juni 108 v.Chr.,-0108-06-01,,,πυρου,25,αρταβασ,8,ταλαντα,27.83,5,1,6,0,no,no,no,,,,"2 ἑ κ άστωι τ οῦ μη νὸς τάλαντα 8 3000 ,
+πυροῦ ἀρτάβας 25 , τὰ αἱροῦντα 4 μ η νῶν",OTHER,,0.0,,
+chr.wilck;;159,1,3,1,yes,ab,keiner,Latopolites,1. Juni 108 v.Chr.,-0108-06-01,,,πυρου,25,αρταβασ,8,ταλαντα,29.46,4,1,5,0,no,no,no,,,,"προκείμενον ἦι, ἑκάσ τ ωι τοῦ μη νὸς τάλαντα 8 3000 , πυροῦ ἀρτάβας 25 ,
+γίνονται τάλαντα 8 3000 ,",OTHER,,0.0,,
+cpr;1;230,1,1,1,yes,ab,keiner,Arsinoites,157 - 158,,0157,0158,σιτι,,,80,δραχμασ,25.16,15,-1,15,0,yes,yes,no,,,,"παρʼ Ἀπίωνος ἀργυρίο υ
+δραχμὰς ὀγ δοήκοντα δραχμὰς 80
+τιμῆς τειμῆς χόρτου
+ἀ ρουρῶν δύο 2 κ α ὶ
+σιτι κῶν ἐδαφῶ ν
+δωρου ἃς κ αὶ",PRICE,priceword_ext,0.6,TAX,
+cpr;6;23,1,2,1,yes,ab,keiner,Pesla (Hermopolites) oder Hermopolis,23. Sept. 303 (?),0303-09-23,,,σιτου,1.5,αρταβη,600,δραχμων,32.04,31,11,31,0,no,yes,no,,,,"άμια 3
+γ ίνεται τοῦ ἐπιστάλμ ατος σίτου ἀπὸ γε νήμ ατος 18 καὶ 17 καὶ 10
+ἀρτάβη 1 1/2 ἐκ δραχμῶν καὶ ο ἴ νου ἀ πὸ γενήμ ατος τοῦ αὐτοῦ κερ άμια 2
+ἐκ δραχμῶν 600 καὶ κερ άμιον 1 δραχμῶν 500 καὶ",PRICE,rate_construction,0.8,,
+cpr;6;23,1,3,1,yes,ab,keiner,Pesla (Hermopolites) oder Hermopolis,23. Sept. 303 (?),0303-09-23,,,σιτου,1.5,αρταβη,300,δραχμων,33.92,14,57,57,0,no,yes,no,,,,"νήμ ατος 18 καὶ 17 καὶ 10
+ἀρτάβη 1 1/2 ἐκ δραχμῶν καὶ ο ἴ νου ἀ πὸ γενήμ ατος τοῦ αὐτοῦ κερ άμια 2
+ἐκ δραχμῶν 600 καὶ κερ άμιον 1 δραχμῶν 500 καὶ δεύτερον ἀπὸ ῥύσ εως
+19 καὶ 18 καὶ 11 κερ άμια 3 ἐκ δραχμῶν 300 .
+ἐσημ ειωσάμην ἀπὸ γενήμ ατος 18 καὶ 17 καὶ 10 σίτου ἀρτ ά βη ν μίαν ἥμισυ ημι 1",PRICE,rate_construction,0.8,,
+cpr;6;75,1,1,1,yes,ab,Zahlungsauftrag,Hermopolites,26. Jan. - 24. Febr. 301,,0301-01-26,0301-02-24,σιτου,8,αρταβ,6,δραχμων,52.38,5,3,8,0,no,yes,no,,,,"ἀρτάβαι 8 λογισθ εῖσαι αὐ ταὶ
+ἐκ δραχμῶν 6 ἐση μ ειωσάμην σίτου
+ὀκτὼ 8 ἀρτάβ ας ἐκ δρα χ μ ῶν ἑξα",PRICE,rate_construction,0.8,,
+cpr;8;22,2,1,1,yes,ab,Liste von Einnahmen und Ausgaben,Hermopolites,nach 10. Okt. 314,,0314-10-10,,σιτου,30,αρταβων,9,ταλαντα,43.61,8,2,8,0,no,yes,no,,,,"ἐπὶ κωμ
+κνιδίων 30 ἐκ δραχμῶν 1800 τάλαντα 9
+καὶ ἀπὸ τῶν ἀρταβῶν 30 σίτου ὧν κα τή λλαξας
+τῷ ἀπὸ Ἄρεως",PRICE,rate_construction,0.8,,
+o.ashm;;9,1,1,1,yes,ab,keiner,unbekannt,II - I v.Chr.,,-0200,-0001,σιτου,,,650,ταλαντα,36.12,4,-1,4,0,yes,yes,no,,,,"λόγος Ἀμενώ θου
+τιμὴ σίτου σεί τ ου τάλαντα 650
+α 130 .",PRICE,priceword_ext,0.6,,
+o.bodl;2;1776,1,1,1,yes,ab,keiner,Theben,II - III,,0101,0300,πυρου,11,αρταβ,84,δραχμ,26.3,3,1,4,0,no,no,no,,,,"61 ὀβολ 5 5
+σο 8 δραχμ 84
+πυροῦ ἀρταβ 11 2 πυροῦ ἀρταβ 9 .
+πυροῦ",OTHER,,0.0,,
+o.bodl;2;1780,1,1,1,yes,ab,keiner,Theben,6 - 5 v.Chr. (?),,-0006,-0005,πυρου,1,αρταβ,4,δραχμ,40.86,4,1,4,0,no,yes,no,,,,"1/2 1/4 ἐκ δραχμῶν 8
+ε 1/3 πυροῦ ἀρταβ 1/12 α δραχμ 4 πυροῦ ἀρταβ 2 γίνονται πυροῦ ἀρτάβαι 2",PRICE,rate_construction,0.4,,
+o.bodl;2;1780,1,2,1,yes,ab,keiner,Theben,6 - 5 v.Chr. (?),,-0006,-0005,πυρου,2,αρταβ,4,δραχμ,44.56,2,1,3,0,no,yes,no,,,,"8
+ε 1/3 πυροῦ ἀρταβ 1/12 α δραχμ 4 πυροῦ ἀρταβ 2 γίνονται πυροῦ ἀρτάβαι 2 1/12
+ἀρουρ",PRICE,rate_construction,0.4,,
+o.bodl;2;1780,1,3,1,yes,ab,keiner,Theben,6 - 5 v.Chr. (?),,-0006,-0005,πυρου,2.083333,αρταβαι,4,δραχμ,30.18,6,1,7,0,no,yes,no,,,,"8
+ε 1/3 πυροῦ ἀρταβ 1/12 α δραχμ 4 πυροῦ ἀρταβ 2 γίνονται πυροῦ ἀρτάβαι 2 1/12
+ἀρουρ 1 1/2 πυροῦ ἀρταβ",PRICE,rate_construction,0.4,,
+o.bodl;2;1825,1,1,1,yes,ab,keiner,Theben,II - III,,0101,0300,πυρου,2,αρταβασ,56,δραχμασ,29.59,3,1,3,0,no,no,no,,,,"τέρου πρὸς Εὐδαίμ ονα .
+ἔσχο ν πυρου ἀρτάβας 2 δραχμὰς 56
+ὧν οἰκοδό μοις 14 δραχμαὶ 56",OTHER,,0.0,,
+o.bodl;2;1828,1,1,1,yes,ab,keiner,Theben,II,,0101,0200,πυρου,1,αρταβη,20,δραχμαι,27.83,5,1,6,0,no,no,no,,,,"ἔτους Φαῶ φι 3 δραχμαὶ 20
+ἄλ λη πυροῦ ἀρτάβη 1
+ἄλ λη πυροῦ ἀρτάβη 1",OTHER,,0.0,,
+o.bodl;2;1859,1,2,1,yes,ab,keiner,Ta Memnoneia (Theben) oder Hermonthis (?),II - III,,0101,0300,πυρου,2,αρταβασ,37,δραχμασ,26.3,3,1,3,0,no,no,no,,,,"Παῦ νι 19 δραχμὰς 10
+καὶ ὁμοίως πυροῦ ἀρτάβας 2 δραχμὰς 37 1
+γίνονται ἐπὶ τὸ α ὐτὸ",OTHER,,0.0,,
+o.bodl;2;976,1,1,1,yes,ab,keiner,Theben,spätes II - frühes III,,0176,0225,πυρου,,,37,δραχμασ,26.01,1,-1,1,0,no,no,no,,,,"Ὀννώφριος ὑπ ὲρ τι μῆς διπ λῆς
+πυροῦ δραχμὰς 37 5 .",OTHER,,0.0,,
+o.cair;;126,1,1,1,yes,ab,Conto in denaro,Oberägypten,II,,0101,0200,κριθ,,,4,δραχμαι,29.4,8,-1,8,0,yes,yes,no,,,,"ς δραχμαὶ 8
+Ἐπώνυχο ς Τηρη τ δραχμαὶ 4
+ὑδραγωγοῖς δραχμαὶ
+13 τιμῆς κριθ ῆ ς
+Κε φ άλων κα φ",PRICE,priceword_ext,0.6,,
+o.cair;;139,1,1,1,yes,ab,Lettera,Oberägypten,III,,0201,0300,πυρου,1,αρταβησ,40,δραχμασ,31.01,4,1,5,0,no,no,no,,,,"ἔλεγες
+ον μοι πέμψε τὰς ἀργ υρίου δραχμὰς 40
+καὶ πυροῦ ἀρτάβης 1/4 ἐπεὶ ἐπὶ κατάκειμαι
+κραβάκτῳ. ἐπεὶ ἐπὶ",OTHER,,0.0,,
+o.did;;79,1,1,1,yes,ab,Comptes,Didymoi,"vor (?)
+                         ca. 110 - 115",,0110,0115,κριθη,,,12,δραχμαι,32.51,4,-1,4,0,yes,yes,no,,,,"κοῦ 1 δραχμαὶ
+μαρσίππων 4
+Ὥρῳ δραχμαὶ 12
+τιμὴν κριθῆ ς
+ἀχύρου τάλαντα
+δραχμαὶ 310",PRICE,priceword_ext,0.6,,
+o.douch;2;132,1,1,1,yes,ab,Compte en espèces et en nature,Kysis (Oasis Magna),IV - Anfang V,,0301,0425,σιτου,1.5,αρταβη,2000,ταλαντα,29.29,5,1,6,0,no,no,no,,,,"ὁ μ οί ως πάλιν ἀργυρ ίου τάλαντα 2000
+ὁμοί ως σίτου ἀρτάβη 1 1/2
+ὁμοί ως ὑπὲρ Λατο πολιτῶν",OTHER,,0.0,,
+o.heid;;37,1,1,1,yes,ab,Quittung für τιμὴ πυροῦ,Ta Memnoneia (Theben),21. Apr. 71,0071-04-21,,,πυρου,,,4,δραχμασ,32.08,7,-1,7,0,yes,yes,no,,,,"ι ς
+Πετεμαρσνο ύφιος ὑπ ὲρ τιμῆς πυροῦ
+Μ εμ νονείων 10 ἔτους δραχμὰς 4 . ἔτους 3 Οὐεσπασιανοῦ
+τοῦ κυρίου",PRICE,priceword_ext,0.6,,
+o.krok;2;287,1,1,1,yes,ab,Le petit monde d'Ischyras,Krokodilo,98 - 117,,0098,0117,κριθην,,,9,δραχμαι,34.66,5,-1,5,0,no,yes,no,,,,"κεφάλαιον κεπάλαιόν ἐστιν, ἀλλὰ
+ἐλάχισταί εἰσιν δραχμαὶ 9
+εἴτε ἤδε κριθὴν χριθὴν εἴτε ἤδε σῖτο ν ·
+μόνον",PRICE,priceword_ext,0.6,,
+o.krok;2;287,1,2,1,yes,ab,Le petit monde d'Ischyras,Krokodilo,98 - 117,,0098,0117,σιτο,,,9,δραχμαι,29.9,9,-1,9,0,no,yes,no,,,,"κεφάλαιον κεπάλαιόν ἐστιν, ἀλλὰ
+ἐλάχισταί εἰσιν δραχμαὶ 9
+εἴτε ἤδε κριθὴν χριθὴν εἴτε ἤδε σῖτο ν ·
+μόνον δὲ τω μη απ",PRICE,priceword_ext,0.6,,
+o.leid;;168,1,1,1,yes,ab,Receipt for Adaeratio of Wheat,Theben,Mitte III,,0226,0275,πυρου,,,24.020833,δραχμαι,37.18,1,-1,1,0,yes,yes,no,,,,"ς πρ εσβυτέρου Ἀσκλείας ὑπ ὲρ τιμῆς
+πυροῦ 1/24 1/48 , δραχμαὶ 16 .",PRICE,priceword_ext,0.6,,
+o.leid;;285,1,1,1,yes,ab,Account of Grain and Money,Elephantine oder Syene,IV - I v.Chr.,,-0400,-0001,πυρου,1,αρταβησ,48,δραχμαι,34.16,46,1,46,0,no,yes,no,,,,"Παχ ὼν
+πυροῦ ἀρτάβης 1/6 λαχ άνου
+εἰς μέρη 4 ἐκ δραχμῶν
+ὧν
+Θινπαχνοῦμις
+Παγχουελπᾶς
+Σερῆνος παστ οφόρος
+θυγ άτηρ Ψενπατσέβτ ιος
+Παπρε μίθης Πουραμ ώνεως ε πυροῦ ἀρτάβης 1/12 λαχ άνου 1/24
+εἰς μέρη 2 πυροῦ 1/24 λαχ άνου 1/48 δραχμαὶ 3
+Θινπαχνοῦ μις τὸ 1/2",PRICE,rate_construction,0.8,,
+o.leid;;285,1,2,1,yes,ab,Account of Grain and Money,Elephantine oder Syene,IV - I v.Chr.,,-0400,-0001,πυρου,1,αρταβησ,48,δραχμαι,30.47,14,1,14,0,no,yes,no,,,,"Ψενπατσέβτ ιος
+Παπρε μίθης Πουραμ ώνεως ε πυροῦ ἀρτάβης 1/12 λαχ άνου 1/24
+εἰς μέρη 2 πυροῦ 1/24 λαχ άνου 1/48 δραχμαὶ 3
+Θινπαχνοῦ μις τὸ 1/2",PRICE,sale_verb,0.5,,
+o.leid;;285,1,3,1,yes,ab,Account of Grain and Money,Elephantine oder Syene,IV - I v.Chr.,,-0400,-0001,πυρου,1,αρταβησ,48,δραχμαι,32.15,4,9,13,0,no,yes,no,,,,"ιος
+Παπρε μίθης Πουραμ ώνεως ε πυροῦ ἀρτάβης 1/12 λαχ άνου 1/24
+εἰς μέρη 2 πυροῦ 1/24 λαχ άνου 1/48 δραχμαὶ 3
+Θινπαχνοῦ μις τὸ 1/2",PRICE,sale_verb,0.5,,
+o.leid;;382,1,1,1,yes,ab,Receipt for Adaeratio of Wheat,unbekannt,19. Nov. 85,0085-11-19,,,πυρου,,,1,δραχμην,32.51,4,-1,4,0,yes,yes,no,,,,"δια γέγραφε Ταουῆς Ἡρακλείδου
+ὑπ ὲρ τιμῆς πυροῦ ὁμολ όγου νομ δραχμὴν 1 ὀβολοὺς 3 1/2
+ἔτους 5 Δομιτιανοῦ",PRICE,priceword_ext,0.6,,
+o.mich;1;20,1,7,1,yes,ab,keiner,Arsinoites,IV,,0301,0400,πυρου,1,αρταβην,25,δραχμασ,32.88,3,1,3,0,no,no,no,,,,"ἀρτάβας 2 καὶ 1
+Πανὲτβ Διοσκου ρίδου πυροῦ ἀρτάβην 1 δραχμὰς 25
+Παμοῦτις Ὀφελλίου πυροῦ ἀρτάβ
+Μύσθης",OTHER,,0.0,,
+o.mich;1;20,1,8,1,yes,ab,keiner,Arsinoites,IV,,0301,0400,πυρου,1,αρταβην,25,δραχμασ,26.82,5,7,7,0,no,no,no,,,,"2 καὶ 1
+Πανὲτβ Διοσκου ρίδου πυροῦ ἀρτάβην 1 δραχμὰς 25
+Παμοῦτις Ὀφελλίου πυροῦ ἀρτάβ
+Μύσθης Ἀπύγχ ι ος πυροῦ ἀρτάβας",OTHER,,0.0,,
+o.narm;;58,1,1,1,yes,ab,Registrazione in denaro e generi,Narmuthis (Arsinoites),II - III,,0101,0300,πυρου,10,αρταβαι,5,δραχμαι,29.29,5,1,5,0,no,no,no,,,,"τένακος πυροῦ ἀρτάβαι 10
+κριθῆς δραχμαὶ 5
+θέρμους μέτρων 8
+τκωσης πυροῦ",OTHER,,0.0,,
+o.narm;;58,1,2,1,yes,ab,Registrazione in denaro e generi,Narmuthis (Arsinoites),II - III,,0101,0300,κριθησ,10,αρταβαι,5,δραχμαι,36.21,1,3,4,0,no,no,no,,,,"τένακος πυροῦ ἀρτάβαι 10
+κριθῆς δραχμαὶ 5
+θέρμους μέτρων 8
+τκωσης πυροῦ",OTHER,,0.0,,
+o.narm;;58,1,4,1,yes,ab,Registrazione in denaro e generi,Narmuthis (Arsinoites),II - III,,0101,0300,κριθησ,42,αρταβαι,24,δραχμαι,25.16,5,8,13,0,no,no,no,,,,"5
+θέρμους μέτρων 8
+τκωσης πυροῦ ἀρτάβαι 42
+π α ππλη σι ν κριθῆς 40
+ἱεροῦ προβάτων δραχμαὶ 24
+φακοῦ φακος ἄρουραι 25
+19",OTHER,,0.0,,
+o.stras;1;34,1,1,1,yes,ab,keiner,Oberägypten,I v.Chr. (?),,-0100,-0001,πυρου,5,αρταβασ,50,δραχμασ,29.29,5,1,5,0,no,no,no,,,,"Τεσε νούφ ιος
+εἰς τὸ 15 ἔτος πυροῦ ἀρτάβας 5
+Θαύτης δραχμὰς 50 γίνονται 50 .
+Ἡλιόδωρος.",OTHER,,0.0,,
+o.stras;1;47,1,1,1,yes,ab,keiner,Theben,10. Sept. 11 v.Chr.,-0011-09-10,,,κριθ,10,αρταβασ,15,δραχμασ,28.38,5,3,5,0,no,no,no,,,,"Ἁρθώ της Πετεμ ενώφιος τοῦ 19 ἔτους κριθ ῆς
+ἀρτάβας 10 δραχμὰς 15 . ἔτους 20 Καίσα ρος Θὼ θ",OTHER,,0.0,,
+o.stras;1;48,1,1,1,yes,ab,keiner,Theben,11 - 10 v.Chr.,,-0011,-0010,πυρου,1.25,αρταβην,2,δραχμασ,27.71,6,1,6,0,no,no,no,,,,"καθακ ἱερατικ ῶν τοῦ 19 ἔτους τ
+πυροῦ ἀρτάβην 1 1/4 ἀν ὰ δραχμὰς 2 3 ἄνευ προ σδ ιαγραφομένων
+καὶ",OTHER,,0.0,,
+o.stras;1;659,1,1,1,yes,ab,keiner,Oberägypten,IV - VI,,0301,0600,πυρου,700,αρταβαι,6,δραχμαι,29.59,3,1,3,0,no,no,no,,,,"τῇ 1 πυροῦ ἀρτάβαι 700 δραχμαὶ 6
+τῇ 2 πυροῦ ἀρτάβαι 700 δραχμαὶ",OTHER,,0.0,,
+o.stras;1;659,1,2,1,yes,ab,keiner,Oberägypten,IV - VI,,0301,0600,πυρου,700,αρταβαι,8,δραχμαι,27.94,3,1,3,0,no,no,no,,,,"πυροῦ ἀρτάβαι 700 δραχμαὶ 6
+τῇ 2 πυροῦ ἀρτάβαι 700 δραχμαὶ 8
+τῇ 3 πυροῦ ἀρτάβαι 700 δραχμαὶ",OTHER,,0.0,,
+o.stras;1;659,1,3,1,yes,ab,keiner,Oberägypten,IV - VI,,0301,0600,πυρου,700,αρταβαι,6,δραχμαι,26.3,3,1,3,0,no,no,no,,,,"πυροῦ ἀρτάβαι 700 δραχμαὶ 8
+τῇ 3 πυροῦ ἀρτάβαι 700 δραχμαὶ 6
+τῇ 4 πυροῦ ἀρτάβαι 700 δραχμαὶ",OTHER,,0.0,,
+o.stras;1;659,1,4,1,yes,ab,keiner,Oberägypten,IV - VI,,0301,0600,πυρου,700,αρταβαι,6,δραχμαι,26.3,3,1,3,0,no,no,no,,,,"πυροῦ ἀρτάβαι 700 δραχμαὶ 6
+τῇ 4 πυροῦ ἀρτάβαι 700 δραχμαὶ 6
+τῇ 5 πυροῦ ἀρτάβαι 700 δραχμαὶ",OTHER,,0.0,,
+o.stras;1;659,1,5,1,yes,ab,keiner,Oberägypten,IV - VI,,0301,0600,πυρου,700,αρταβαι,4,δραχμαι,26.3,3,1,3,0,no,no,no,,,,"πυροῦ ἀρτάβαι 700 δραχμαὶ 6
+τῇ 5 πυροῦ ἀρτάβαι 700 δραχμαὶ 4
+τῇ 6 πυροῦ ἀρτάβαι 700 δραχμαὶ",OTHER,,0.0,,
+o.stras;1;659,1,6,1,yes,ab,keiner,Oberägypten,IV - VI,,0301,0600,πυρου,700,αρταβαι,6,δραχμαι,26.3,3,1,3,0,no,no,no,,,,"πυροῦ ἀρτάβαι 700 δραχμαὶ 4
+τῇ 6 πυροῦ ἀρτάβαι 700 δραχμαὶ 6
+τῇ 7 πυροῦ ἀρτάβαι 700 δραχμαὶ",OTHER,,0.0,,
+o.stras;1;659,1,7,1,yes,ab,keiner,Oberägypten,IV - VI,,0301,0600,πυρου,700,αρταβαι,16,δραχμαι,27.94,3,1,3,0,no,no,no,,,,"πυροῦ ἀρτάβαι 700 δραχμαὶ 6
+τῇ 7 πυροῦ ἀρτάβαι 700 δραχμαὶ 16
+τῇ 8 πυροῦ ἀρτάβαι 700 δραχμαὶ",OTHER,,0.0,,
+o.stras;1;659,1,8,1,yes,ab,keiner,Oberägypten,IV - VI,,0301,0600,πυρου,700,αρταβαι,3,δραχμαι,29.59,3,1,3,0,no,no,no,,,,"πυροῦ ἀρτάβαι 700 δραχμαὶ 16
+τῇ 8 πυροῦ ἀρτάβαι 700 δραχμαὶ 3",OTHER,,0.0,,
+o.trim;1;36,1,1,1,yes,ab,Account,Trimithis (Oasis Magna),ca. 240 - 275,,0240,0275,πυρου,2,αρταβασ,40,δραχμασ,32.88,3,1,3,0,no,no,no,,,,"ος Σερῆ
+νον ἔσχον
+πυροῦ ἀρτάβας 2 δραχμὰς 40",OTHER,,0.0,,
+o.wilck;;1391,1,1,1,yes,ab,keiner,Theben,25. Juni - 24. Juli 59,,0059-06-25,0059-07-24,πυρου,,,1,δραχμην,30.94,8,-1,8,0,no,yes,no,,,,"διέγρα ψεν Ἡρᾶς
+ὑπ ὲρ τιμῆ ς πυροῦ σωρο ῦ
+ἀργ υρίου ῥυπ αροῦ δραχμὴν 1
+ἔτους 5 Νέρωνος Κλ αυδίου Καίσαρος",PRICE,priceword_ext,0.6,,
+p.abinn;;67r,1,4,1,yes,ab,keiner,Hermopolis (Arsinoites),Mitte IV,,0326,0375,σιτου,9,αρταβαι,118,ταλαντα,25.11,47,1,47,0,no,yes,no,,,,"12
+Μάξ ι μος Ἀ ι ωνέως σίτου ἀρτάβαι 9
+Κύριλλος Φιλίππου σίτου ἀρτάβαι 13 1/2
+Ἥρων οὐετρανός σίτου ἀρτάβαι 17
+Σαβῖνος οὐετρανός σίτου ἀρτάβαι 14
+π αρὰ τοῦ κοινοῦ τῶν ἀπὸ κώμης σίτου ἀρτάβης 1/2
+καὶ κριθῆς ἀρτάβαι 30
+ἀργυρικῶν ὁμοίως
+Ἄμμωνος γεουχῶν ἐν Ἑρμοῦ πόλει τάλαντα 118 2000
+Ἰσίων Μάρωνος τάλαντα 340",PRICE,sale_verb,0.5,,
+p.abinn;;67r,1,5,1,yes,ab,keiner,Hermopolis (Arsinoites),Mitte IV,,0326,0375,σιτου,13.5,αρταβαι,118,ταλαντα,25.5,41,1,41,0,no,yes,no,,,,"ι ωνέως σίτου ἀρτάβαι 9
+Κύριλλος Φιλίππου σίτου ἀρτάβαι 13 1/2
+Ἥρων οὐετρανός σίτου ἀρτάβαι 17
+Σαβῖνος οὐετρανός σίτου ἀρτάβαι 14
+π αρὰ τοῦ κοινοῦ τῶν ἀπὸ κώμης σίτου ἀρτάβης 1/2
+καὶ κριθῆς ἀρτάβαι 30
+ἀργυρικῶν ὁμοίως
+Ἄμμωνος γεουχῶν ἐν Ἑρμοῦ πόλει τάλαντα 118 2000
+Ἰσίων Μάρωνος τάλαντα 340",PRICE,sale_verb,0.5,,
+p.abinn;;67r,1,6,1,yes,ab,keiner,Hermopolis (Arsinoites),Mitte IV,,0326,0375,σιτου,17,αρταβαι,118,ταλαντα,26.28,34,1,34,0,no,yes,no,,,,"Φιλίππου σίτου ἀρτάβαι 13 1/2
+Ἥρων οὐετρανός σίτου ἀρτάβαι 17
+Σαβῖνος οὐετρανός σίτου ἀρτάβαι 14
+π αρὰ τοῦ κοινοῦ τῶν ἀπὸ κώμης σίτου ἀρτάβης 1/2
+καὶ κριθῆς ἀρτάβαι 30
+ἀργυρικῶν ὁμοίως
+Ἄμμωνος γεουχῶν ἐν Ἑρμοῦ πόλει τάλαντα 118 2000
+Ἰσίων Μάρωνος τάλαντα 340",PRICE,sale_verb,0.5,,
+p.abinn;;67r,1,7,1,yes,ab,keiner,Hermopolis (Arsinoites),Mitte IV,,0326,0375,σιτου,14,αρταβαι,118,ταλαντα,27.42,28,1,28,0,no,yes,no,,,,"Ἥρων οὐετρανός σίτου ἀρτάβαι 17
+Σαβῖνος οὐετρανός σίτου ἀρτάβαι 14
+π αρὰ τοῦ κοινοῦ τῶν ἀπὸ κώμης σίτου ἀρτάβης 1/2
+καὶ κριθῆς ἀρτάβαι 30
+ἀργυρικῶν ὁμοίως
+Ἄμμωνος γεουχῶν ἐν Ἑρμοῦ πόλει τάλαντα 118 2000
+Ἰσίων Μάρωνος τάλαντα 340",PRICE,sale_verb,0.5,,
+p.berl.salmen;;1,1,3,1,yes,ab,Payment of Soldiers’ Wages in Kind,Herakleopolis,16. Febr. 86 v.Chr.,-0086-02-16,,,πυρου,,,12,ταλαντα,25.05,3,-1,3,0,no,no,no,,,,"ὸς χαλκοῦ τάλαντα 12 , γίνονται χα λκοῦ τάλαντα 12 , πυροῦ ἀρτάβ ας 64 , γίνονται πυροῦ ἀρτάβαι 64",OTHER,,0.0,,
+p.berl.salmen;;13,1,1,1,yes,ab,Two Payment Orders,Herakleopolis,87 - 86 v.Chr.,,-0087,-0086,πυρου,40,αρταβασ,55,ταλαντα,31.01,4,1,5,0,no,no,no,,,,"δεδ
+γίνονται τάλαντα 55
+ς πυροῦ ἀρτάβας 40
+ἀ ναφερο
+
+
+ι",OTHER,,0.0,,
+p.berl.salmen;;6,1,1,1,yes,ab,Delivery of Lentils,Herakleopolis,nach 17. Dez. 86 v.Chr.,,-0086-12-17,,πυρου,3,αρταβασ,2,δραχμασ,34.91,2,1,3,0,no,no,no,,,,τὴν τοῦ 31 ἔτους χορήγη σ ι ν δραχμὰς 2 πυροῦ ἀρτάβας 3 πυροῦ 1/2 κ αὶ αἱ προσ- ?,OTHER,,0.0,,
+p.berl.salmen;;6,1,2,1,yes,ab,Delivery of Lentils,Herakleopolis,nach 17. Dez. 86 v.Chr.,,-0086-12-17,,πυρου,3,αρταβασ,2,δραχμασ,28.83,5,2,5,0,no,no,no,,,,"τὴν τοῦ 31 ἔτους χορήγη σ ι ν δραχμὰς 2 πυροῦ ἀρτάβας 3 πυροῦ 1/2 κ αὶ αἱ προσ- ?
+πυροῦ",OTHER,,0.0,,
+p.berl.salmen;;9,1,4,1,yes,ab,Request of Seed from a Private Landowner,Herakleopolis,86 - 85 v.Chr.,,-0086,-0085,πυρου,39,αρταβων,1050,ταλαντα,27.91,4,1,4,0,no,no,no,,,,"πυροῦ ἀρταβῶν 15 1050 , τοῦ 30 ἔτους πυροῦ ἀρταβῶν 39 χαλκοῦ τάλαντα 1050 ,
+γίνονται πυροῦ 54 τάλαντα 2100",OTHER,,0.0,,
+p.berl.salmen;;9,1,5,1,yes,ab,Request of Seed from a Private Landowner,Herakleopolis,86 - 85 v.Chr.,,-0086,-0085,πυρου,,,54,ταλαντα,26.01,1,-1,1,0,no,no,no,,,,"ἀρταβῶν 39 χαλκοῦ τάλαντα 1050 ,
+γίνονται πυροῦ 54 τάλαντα 2100 2775 ,
+τ ῶν καὶ",OTHER,,0.0,,
+p.bingen;;111,1,1,1,yes,ab,A Harvest Offering from the Heroninos Archive,Theadelphia (Arsinoites),250 - 252 (?),,0250,0252,πυρου,1.5,αρταβαι,8,δραχμαι,29.46,4,1,5,0,no,no,no,,,,"1
+24 ὁμ οίως δραχμαὶ 16 Ἑρμᾷ δραχμαὶ 8
+καὶ πυροῦ ἀρτάβαι 1 1/2
+καλαμείας Σπαρτι ανοῦ
+29",OTHER,,0.0,,
+p.bodl;1;105,1,2,1,yes,ab,List of Persons in Arrear,Karanis? (Arsinoites),IV,,0301,0400,πυρου,4600,αρταβαι,960,ταλαντων,31.23,3,1,3,0,no,no,no,,,,"ἐκ ταλάντων
+Παῦλος ὁμοίως ὁμίος ἕκιος
+πυροῦ ἀρτάβαι 4600 ταλάντων 960 2484 920 ἄρουραι 484 τάλαντα .",OTHER,,0.0,,
+p.bon;;27a,1,1,1,yes,ab,Documenti riguardanti affitto,unbekannt,II,,0101,0200,πυρου,340,αρταβαι,3,δραχμαι,29.46,4,1,4,0,no,no,no,,,,"αφέντος ὑπὲρ τοῦ κτήματος ὑπὲρ
+ειτο πυροῦ ἀρτάβαι 340 μας δραχμαὶ 3 λοι παὶ δραχμαὶ 8
+κατʼ ἔτος",OTHER,,0.0,,
+p.bour;;18,1,1,1,yes,ab,Extraits de contrats,unbekannt,Ende II,,0176,0200,πυρου,10,αρταβασ,2,δραχμασ,35.88,3,1,3,0,no,yes,no,,,,"Θὼθ 15 ἠγόρακ ε
+ἀρούρας 7 1/2 πυροῦ ἀρτάβας 10 δραχμὰς 2
+η του κατα
+Διοδώρου Δι",PRICE,sale_verb,0.1,,
+p.cair.isid;;64,1,1,1,yes,ab,Petition to a Strategos,Karanis (Arsinoites),ca. 298,0298,,,σιτου,2,αρταβαι,3,ταλαντα,47.41,3,2,5,0,no,yes,no,,,,"νὴ μιχα
+νὴ ἀλετικὴ 1 καὶ ἀργυρίου τάλαντα 3 καὶ σίτου
+ἀρτάβαι 2 καὶ δουλικὰ σώματα 2 ἐξ ὧν κατε",PRICE,sale_verb,0.5,,
+p.cair.zen;1;59001,1,1,1,yes,ab,Loan of money,Pitos (Memphites),4. Dez. 274 - 1. Jan. 273 v.Chr.,,-0274-12-04,-0273-01-01,σιτου,,,2,δραχμων,36.12,4,-1,4,0,yes,yes,no,,,,"τοῦτο δʼ ἐστὶν ἡ τιμὴ τοῦ βασιλικοῦ
+σίτου, τόκου ὡς δύο 2 δραχμῶν τῆι μνᾶι ἑκάστηι τὸν τὸμ μῆνα ἕκαστον.",PRICE,priceword_ext,0.6,LOAN,
+p.cair.zen;1;59001,1,2,1,yes,ab,Loan of money,Pitos (Memphites),4. Dez. 274 - 1. Jan. 273 v.Chr.,,-0274-12-04,-0273-01-01,σιτου,,,2,δραχμων,34.66,5,-1,5,0,no,yes,no,,,,"δʼ ἐστὶν ἡ τιμὴ τοῦ βασιλικο ῦ σίτου, τόκου ὡς
+δύο 2 δραχμῶν τῆι μνᾶι ἑ κάστηι τὸν τὸμ μῆνα",PRICE,priceword_ext,0.6,LOAN,
+p.cair.zen;1;59010,1,1,1,yes,ab,Account,"Alexandria (?), Palästina (?)",ca. 259 v.Chr.,-0259,,,κριθων,,,40,δραχμασ,25.05,3,-1,3,0,no,no,no,,,,"ω ν
+χα ρτῶν 60 ὧν Ζήνων δραχμὰς 40
+κριθῶν ἀρ τάβας 10 ἀν ὰ 2 5 γίνονται",OTHER,,0.0,,
+p.cair.zen;3;59354,1,1,1,yes,ab,Letter from Doxaios to Zenon,Philadelphia (Arsinoites),16. Apr. 244 v.Chr. (Jahr unsicher),-0244-04-16,,,κριθησ,,,100,δραχμασ,28.15,13,-1,13,0,no,yes,no,,,,"καρποῦ πωλουμένου
+προσεβαλόμεθα τὰ
+παρʼ ἡμῶν δραχμὰς 100
+ἐκ τῶν 3 ἀρ ταβῶν καὶ 1/2 τῆς νέας
+κριθῆς ἐγένετο ἐ γ ενεν χίδρων ἀρ τάβης 1/2",PRICE,sale_verb,0.5,,
+p.cair.zen;4;59752,1,2,1,yes,ab,Fragment of account of wages,Philadelphia? (Arsinoites),Mitte III v.Chr.,,-0275,-0226,πυρων,,,12,δραχμαι,25.05,3,-1,3,0,no,no,no,,,,"ἐν τ ῆ ι ὑφάμμωι πρὸς νότον δραχμαὶ 12
+πυρῶν ἀρ τάβαι 12
+καὶ ὑπουργοῖς Νεχθεμίνει,",OTHER,,0.0,,
+p.cair.zen;5;59845,1,1,1,yes,ab,Fragment of letter,unbekannt,Mitte III v.Chr.,,-0275,-0226,πυρον,,,4,δραχμων,26.36,3,-1,3,0,no,no,no,,,,"ἐν ἐ μ Μέμφει
+ἀρ ταβ τῶν 4 δραχμῶν
+πυρὸν τὴν ἀρ τάβην
+γέγραφα οὖν σοι ὅπως",OTHER,,0.0,,
+p.charite;;19,1,1,1,yes,ab,Quittung für den Preis von Gerste,Hermopolites,27. Mai 320 (Jahr unsicher),0320-05-27,,,κριθησ,,,6,ταλαντα,41.31,1,-1,1,0,yes,yes,no,,,,"6 ἰν
+δικ τίωνος κανόνος τιμῆς
+κριθῆς τάλαντα 6 .",PRICE,priceword_ext,0.6,,
+p.col;2;1r_4col4,1,3,1,yes,ab,"Receipts for payments by the state bank for services of transport, men and guards",Ptolemais Euergetis (Arsinoites),23. Febr. 155,0155-02-23,,,κριθ,1.833333,αρταβην,399,δραχμασ,30.79,3,2,5,0,no,no,no,,,,συ ν αγ ομ ένας ἀργ υρίου δραχμὰς 399 2 κριθ ῆς ἀρτάβην 1 1/2 1/3 ὡς τ ῶν 100 ἀρταβῶν,OTHER,,0.0,,
+p.eleph;;5,1,1,1,yes,ab,Abrechnung über eine Erbschaft,Elephantine,22. März 281 v.Chr.,-0281-03-22,,,σιτου,,,150,δραχμασ,31.65,6,-1,6,0,yes,yes,no,,,,"τιμὴ ν
+ἐλάβομεν κ εραμίων 36 · δραχμὰς 150 .
+καὶ τοῦ σίτου τοῦ κριθίνου
+καὶ πυρίνου ἀπέχω τοὺς",PRICE,priceword_ext,0.6,,
+p.eleph;;5,1,2,1,yes,ab,Abrechnung über eine Erbschaft,Elephantine,22. März 281 v.Chr.,-0281-03-22,,,κριθινου,,,150,δραχμασ,29.4,8,-1,8,0,yes,yes,no,,,,"τιμὴ ν
+ἐλάβομεν κ εραμίων 36 · δραχμὰς 150 .
+καὶ τοῦ σίτου τοῦ κριθίνου
+καὶ πυρίνου ἀπέχω τοὺς
+λόγους.",PRICE,priceword_ext,0.6,,
+p.enteux;;101,1,1,1,yes,ab,Fragment d’ ἔντευξις avec procès - verbal,Ghoran (Arsinoites),ca. 219 - 217 v.Chr.,,-0219,-0217,σιτον,,,100,δραχμων,34.66,5,-1,5,0,yes,yes,no,,,,"vestiges τοῦ κωμαρχήσαντ ος
+vestiges τιμῆς χαλκοῦ δραχμῶν 100
+vestiges τὸν σῖτον, τὸ δὲ λοιπὸν αὐτὸς
+vestiges μει ν",PRICE,"priceword_ext,sale_verb",0.6,,
+p.erl;;101,1,1,1,yes,ab,Guts - Rechnung,Oxyrhynchites,269 - 270,,0269,0270,πυρου,1,αρταβη,24,δραχμων,40.86,4,1,4,0,no,yes,no,,,,"καὶ Ἀμμωνί ου γεω ρ γῶ ν
+πυροῦ ἀρτάβη 1 ἐκ δραχμῶν 24
+ἄρουραι 5 ἐν τῷ Ἀπορικῷ δραχμαὶ",PRICE,rate_construction,0.4,,
+p.fay;;131,1,1,1,yes,ab,Letter to Sarapion,Euhemeria (Arsinoites),III - frühes IV,,0201,0325,κριθησ,,,14,δραχμων,37.15,13,-1,13,0,no,yes,no,,,,"παρ
+κρατωνος κριθῆς
+ἀρτάβας τριάκοντα
+ἓξ 36 καὶ ποίησον αὐτὰς
+πραθῆναι ἐκ δραχμῶν 14 ,
+ἐπὶ πολλῶι χρόνῳ ἔχει",PRICE,rate_construction,0.8,,
+p.flor;1;72,1,2,1,yes,ab,Prestito di danaro ed orzo,Hermopolites,128 - 129,,0128,0129,κριθ,1.333333,αρταβη,16,δραχμαι,28.83,5,2,7,0,no,no,no,,,,"ν μ ί αν τρίτον, γίνονται ἀργ υρίου δραχμαὶ 16
+κ αὶ κριθ ῆς ἀρτάβη 1 1/3 . πάντα δὲ ἀπο
+δώσω",OTHER,,0.0,,
+p.flor;3;368v,1,2,1,yes,ab,Contratto d’affitto,Hermopolites,nach 96,,0096,,πυρου,,,13,δραχμαι,39.48,1,-1,1,0,yes,yes,no,,,,"γίνονται δραχμαὶ 45 3
+καὶ ἀπὸ τιμῆς πυροῦ δραχμαὶ 13 4",PRICE,"receipt_price,priceword_ext",0.7,,
+p.gen;2;97,1,11,1,yes,ab,Registre fiscal,unbekannt,2. Hälfte I,,0051,0100,πυρου,2,αρταβησ,1,δραχμη,27.83,5,1,5,0,no,no,no,,,,"κικῆς ἀρουρῶν 4 πυροῦ ἀρτάβαι 4 προσ μετρουμένων πυροῦ ἀρτάβης 2/3
+ναυβίου δραχμὴ 1 2 προσδ ιαγραφομένων ὀβολὸς 1 1/2 χ",OTHER,,0.0,,
+p.graux;3;30col11,1,1,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),19. Febr. 155,0155-02-19,,,πυρ,4.333333,αρταβασ,8,δραχμων,45.61,8,3,8,0,no,yes,no,,,,"17 ἔτους Ἀντωνίνου Καίσαρος τοῦ
+κυρίου πυρ ο ῦ ἀρτάβας 4 1/3 , ἐκ δραχμῶν 8 , τὰς
+συναγο μένας ἀργ υρίου",PRICE,rate_construction,0.8,,
+p.graux;3;30col4,1,2,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),14. Febr. 155,0155-02-14,,,πυρου,5.208333,αρταβων,8,δραχμων,43.23,11,1,11,0,no,yes,no,,,,"ὁ ἐνεστὼς
+μὴν Μεχεὶρ 18 , ὑπὲρ πυροῦ ἀρταβῶν 5 1/6 1/24 ,
+ὡς τῆς ἀρτάβης ἐκ δραχμῶν 8 , τὰς συναγο μένας ἀρ γυρίου δραχμὰς",PRICE,rate_construction,0.8,,
+p.graux;3;30col6,1,2,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),19. Febr. 155,0155-02-19,,,πυρου,2.625,αρταβων,8,δραχμων,45.51,11,1,11,0,no,yes,no,,,,"μὴν Με
+χ εὶρ 24 , ὑπὲρ πυροῦ ἀρταβῶν 2 1/2 1/8 , ὡς
+τῆς ἀρτάβης ἐκ δραχμῶν 8 , τὰς συναγο μένας
+ἀ ρ",PRICE,rate_construction,0.8,,
+p.graux;3;30col9,1,2,1,yes,ab,keiner,Ptolemais Euergetis (Arsinoites),19. Febr. 155,0155-02-19,,,πυρου,92.291667,αρταβασ,8,δραχμων,46.55,10,1,10,0,no,yes,no,,,,"αὐτῷ ἐμοι γενομένης
+γενήμ ατος 17 ἔτους πυροῦ ἀρτάβας 92 1/6 1/8 , ὡς τῆς ἀρτάβης ἐκ δραχμῶν 8 , τ ὰς συναγομένας ἀργυρίου δραχμὰς",PRICE,rate_construction,0.8,,
+p.grenf;1;22,1,1,1,yes,ab,keiner,Thebais,21. Nov. 118 v.Chr.,-0118-11-21,,,σιτου,,,10,ταλαντα,34.24,8,-1,8,0,yes,yes,no,,,,"ως χαλκοῦ τάλαντα δέ
+κα. γίνεται τάλαντα 10 .
+καὶ ἀπὸ τιμῆς τειμῆς σίτου ἀρτα
+βῶν ἑκατὸν πεντήκον
+τα 150",PRICE,"receipt_price,rate_construction,priceword_ext",0.8,ADMIN,
+p.grenf;1;51,1,1,1,yes,ab,keiner,Arsinoites,II - III,,0101,0300,πυρου,1,αρταβησ,2,δραχμασ,27.93,2,1,2,0,no,no,no,,,,"21 κρέως ὀβ ολοὺς 3 , 25
+πυροῦ ἀρτάβης 1/2 δραχμὰς 9 ὀβ ολοὺς 5 , 9 Χρηστίωνι",OTHER,,0.0,,
+p.heid;4;336,1,8,1,yes,ab,Bericht an einen Exegeten,Hermopolites,141 - 142,,0141,0142,πυρου,40,αρταβαι,14,δραχμαι,25.35,7,3,7,0,no,no,no,,,,"Ταρ ου θίννου
+βα σ ιλ ικῇ πυροῦ δοχ ικοῦ ἀρτάβαι 40 καὶ ναυβίου δραχμαὶ 14 ὡ ς λ οιπ ὰ εἶναι",OTHER,,0.0,,
+p.heid;4;336,1,10,1,yes,ab,Bericht an einen Exegeten,Hermopolites,141 - 142,,0141,0142,κριθ,30,αρταβαι,16,δραχμαι,32.41,3,2,5,0,no,no,no,,,,ἀρτάβαι 65 κ αὶ ἀ ρ γ υρίου δραχμαὶ 16 6 κριθ ῆς ἀρτάβαι 30 λαχάν ου ἀρτάβαι 24 ὡ ς εἶναι,OTHER,,0.0,,
+p.hels;1;26,1,1,1,yes,ab,Verzeichnis über Steuerschulden in Geld,Herakleopolites,2. Sept. 162 v.Chr.,-0162-09-02,,,κριθησ,,,1,ταλαντον,30.14,8,-1,8,0,yes,yes,no,,,,"ζυ τηρᾶς τάλαντον 1 2500 α 84 γίνεται τάλαντον 1 2584
+κα ὶ ἀπὸ τιμῆς κριθῆς Θμοιναχῆι
+ἔτους 18 Μεσορὴ 19 800 γίνεται",PRICE,"receipt_price,priceword_ext",0.7,,
+p.iand;6;94,1,1,1,yes,ab,Hermias an Sarapion,unbekannt,Ende II - Anfang III,,0176,0225,πυρου,50,αρταβασ,900,δραχμων,25.55,5,3,8,0,no,no,no,,,,"τὸν ἀδελφὸν Πάριν
+κυρῶ σ αι τῶν δραχμῶν 900 τὰς
+τοῦ πυροῦ ἀρτάβ ας ἀρτάβας 50
+καὶ ἔσχον δραχμὰς 560 · σὺ",OTHER,,0.0,,
+p.iand;7;138,1,3,1,yes,ab,Weizenlieferungen von Dörfern des Themistes - Bezirkes,Arsinoites,1. Hälfte II,,0101,0150,πυρου,39.25,αρταβαι,0.25,δραχμαι,31.23,3,1,3,0,no,no,no,,,,"ων ἑκατοστῆς πυροῦ ἀρτάβης 1/2 1/4 λοιπ ὸν πυροῦ ἀρτάβαι 39 1/4 δραχμαὶ 400
+9 Θεοξενίδος διὰ Μιεῦτος κ",OTHER,,0.0,,
+p.iand;7;138,1,6,1,yes,ab,Weizenlieferungen von Dörfern des Themistes - Bezirkes,Arsinoites,1. Hälfte II,,0101,0150,πυρου,236.958333,αρταβαι,0.125,δραχμαι,27.83,5,1,5,0,no,no,no,,,,"ἑκατοστῆς πυροῦ ἀρτάβαι 3 1/2 1/8 λοιπ ὸν πυροῦ ἀρτάβαι 236 1/2 1/3 1/8 δραχμαὶ 1924 4
+10 Φιλ ω τερίδος",OTHER,,0.0,,
+p.iand;7;138,1,9,1,yes,ab,Weizenlieferungen von Dörfern des Themistes - Bezirkes,Arsinoites,1. Hälfte II,,0101,0150,πυρου,300,αρταβαι,2436,δραχμαι,32.88,3,1,3,0,no,no,no,,,,"ἑκατοστῆς πυροῦ ἀρτάβαι 4 1/2 1/12 λοιπ ὸν πυροῦ ἀρτάβαι 300 δραχμαὶ 2436 4
+11 α ι Ἑρμοῦ πόλ",OTHER,,0.0,,
+p.iand;7;138,1,12,1,yes,ab,Weizenlieferungen von Dörfern des Themistes - Bezirkes,Arsinoites,1. Hälfte II,,0101,0150,πυρου,86.125,αρταβαι,0.125,δραχμαι,31.23,3,1,3,0,no,no,no,,,,"πυροῦ ἀρτάβη 1 1/3 1/24
+λοιπ ὸν πυροῦ ἀρτάβαι 86 1/8 δραχμαὶ 700",OTHER,,0.0,,
+p.iand;7;142,1,4,1,yes,ab,Verzeichnis von Grundstücken,Oasis Magna,nach 164 - 165,,0164,0165,κριθ,46,αρταβασ,8,δραχμασ,25.79,7,2,7,0,no,no,no,,,,"23 ἔτους ἐδηλ ώθη π ροσγί νεσθαι
+κριθ ῆς ἀρτάβας 46 , ἀκροδ ρύων δραχμὰς 8 , ἐλ αίου χο , οἴν ο",OTHER,,0.0,,
+p.koeln;15;612,1,1,1,yes,ab,"Aufwendungen für den Transport von Getreide mit Schiffen, Warenabrechnung und ein römischer Geburtstag",unbekannt,vor 37,,,0037,πυρου,2700,αρταβαι,1800,δραχμαι,43.95,6,1,6,0,no,yes,no,,,,"4
+ἀρταβῶν 2808 , αἳ χωρὶς ἐπιμηνίων πυροῦ ἀρτάβαι 2700
+ἀρτ ι δραχμαὶ 1800
+ἐνορμίου καὶ ἀναλώματος ἀνηλώματος τῶν προκειμένων",PRICE,rate_construction,0.8,,
+p.koeln;5;217,1,2,1,yes,ab,Brief des Asklepiades an Theodoros,Memphis,29. Juni 212 v.Chr. (Jahr unsicher),-0212-06-29,,,πυρου,52,αρταβαι,180,δραχμων,27.2,12,43,43,0,no,yes,no,,,,"ἐκ τοῦ μ π ο λ ί του πυροῦ λευκοῦ ἀρτάβαι
+ἀνὰ 170 πωλουμένου τοῦ ὁμο ίου τῆι ἀγορᾶι δραχμῶν 180 , καὶ τῆ ι 7
+διετέθησαν τοῦ αὐτοῦ πυροῦ ἀρτάβαι ἀνὰ 170 πωλουμένου
+τοῦ ὁμοίου δραχμῶν 180 καὶ τῆ ι 8 το ῦ α ὐ τ οῦ ἀρτάβαι 52 ἀνὰ 170
+πωλουμένου τ οῦ ὁμοίου",PRICE,sale_verb,0.5,,
+p.koeln;5;217,1,3,1,yes,ab,Brief des Asklepiades an Theodoros,Memphis,29. Juni 212 v.Chr. (Jahr unsicher),-0212-06-29,,,πυρου,52,αρταβαι,180,δραχμων,32.38,8,20,20,0,no,yes,no,,,,"καὶ τῆ ι 7
+διετέθησαν τοῦ αὐτοῦ πυροῦ ἀρτάβαι ἀνὰ 170 πωλουμένου
+τοῦ ὁμοίου δραχμῶν 180 καὶ τῆ ι 8 το ῦ α ὐ τ οῦ ἀρτάβαι 52 ἀνὰ 170
+πωλουμένου τ οῦ ὁμοίου",PRICE,sale_verb,0.5,,
+p.lille;1;30,1,18,1,yes,ab,Tenure de Daipatès,Ghoran (Arsinoites),nach 22. März - 20. Apr. 244 v.Chr.,,-0244-03-22,-0244-04-20,πυρων,,,1.5,οβολοσ,34.32,4,-1,4,0,yes,yes,no,,,,τιμῆς 60 α ἳ χ αλ κοῦ 66 ὀβολὸς 1 1/2 αἳ πυρῶν 66 1/4 . λοιπὸν 9 1/3 1/12,PRICE,priceword_ext,0.6,TAX,
+p.lille;1;33,2,1,1,yes,ab,Tenure d’un hipparque,Ghoran (Arsinoites),nach 23. Okt. - 21. Nov. 245 v.Chr.,,-0245-10-23,-0245-11-21,σιτον,60,αρταβων,230,δραχμαι,26.48,5,8,8,0,no,no,no,,,,"4 200 , 10 ἀνὰ 3 30 γίνονται ἀρταβῶν 60 , δραχμαὶ 230 ·
+πρὸς σῖτον, 5 ἀνὰ πυρῶν 6 1/2 32 1/2 ,",OTHER,,0.0,,
+p.lille;1;35,1,6,1,yes,ab,Tenure d’un inconnu,Ghoran (Arsinoites),244 - 243 v.Chr.,,-0244,-0243,πυρ,,,34,οβολοι,25.05,3,-1,3,0,no,no,no,,,,"3 Τῦβι 9 γίνονται 31 3 γίνονται αἳ πυρ ῶν 9 34 ὀβολοὶ 4 1/2
+καὶ τῆς ἀβρόχου ὑπόλογος·",OTHER,,0.0,,
+p.lond;1;131ar_pg189,1,1,1,yes,ab,keiner,Hermopolites,26. Apr. - 25. Mai 78,,0078-04-26,0078-05-25,πυρου,,,404,δραχμαι,36.23,3,-1,3,0,yes,yes,no,,,,"εύκου σοι ἐν τῶι πυλῶνι
+ἀπὸ τιμῆς πυροῦ ἀργ υρίου δραχμαὶ 404
+σεβενίο υ ὁμοίω ς ἐργ άται",PRICE,"receipt_price,priceword_ext",0.7,,
+p.lond;1;131ar_pg189,1,2,1,yes,ab,keiner,Hermopolites,26. Apr. - 25. Mai 78,,0078-04-26,0078-05-25,πυρου,,,100,δραχμαι,40.26,3,-1,3,0,yes,yes,no,,,,"ια 6
+30 Ἐπιμάχωι σοι ἀπὸ τιμῆς πυροῦ ἀργ υρίου δραχμαὶ 100
+Ἀμβρύων κ αὶ Φῖβ ις περὶ",PRICE,"receipt_price,priceword_ext",0.7,,
+p.lond;6;1914,1,1,1,yes,ab,Letter from Alexandria,Herakleopolites bzw. Kynopolites,nach 23. Mai 335 (Jahr unsicher),,0335-05-23,,σιτου,,,14,ταλαντων,45.6,1,-1,1,0,no,yes,no,,,,"ἄρτους εἰς δια
+τροφὴν ἠγόρασα ἠγώρασα ἀρτάβην σίτου ταλάντων 14 . ἐπὰν οὖν εὕρητε εὕρηται εἰδήμονα εἰδήμωνα",PRICE,sale_verb,0.5,,
+p.lond;7;2074,1,2,1,yes,ab,keiner,Arsinoites,nach 28. Mai 249 v.Chr.,,-0249-05-28,,σιτοσ,,,300,δραχμων,25.05,3,-1,3,0,no,no,no,,,,"ἐδίδοτο δὲ Κλέωνι ἐν Ἀλεξαν
+δρείαι ἡγεμονικὰ δραχμῶν 300 καὶ σῖτος
+ἀκόλουθος, ἐν δὲ τῶι Ἀρσινοίτηι
+εἰς",OTHER,,0.0,,
+p.lond;7;2074,1,3,1,yes,ab,keiner,Arsinoites,nach 28. Mai 249 v.Chr.,,-0249-05-28,,πυρων,,,300,δραχμων,26.97,2,-1,2,0,no,no,no,,,,"ἀκόλουθος, ἐν δὲ τῶι Ἀρσινοίτηι
+εἰς ὑπηρέτας δραχμῶν 300 πυρῶν ἀρ ταβῶν 12 1/2
+κριθῶν ἀρ ταβῶν",OTHER,,0.0,,
+p.louvre;1;54,1,1,1,yes,ab,Aufstellung über den Stallbetrieb?,Soknopaiu Nesos (Arsinoites),Anfang III,,0201,0225,κριθησ,1,αρταβασ,2,οβολουσ,25.93,3,2,3,0,no,no,no,,,,"21 Πανοῦφι ἄλ λας δραχμὰς 20 · κριθῆς
+ἀρτάβας 1/2 ὀβολοὺς 24 · Παῦνι 14
+δι ὰ",OTHER,,0.0,,
+p.louvre;1;54,1,2,1,yes,ab,Aufstellung über den Stallbetrieb?,Soknopaiu Nesos (Arsinoites),Anfang III,,0201,0225,πυρου,3,αρταβασ,30,δραχμασ,26.3,3,1,3,0,no,no,no,,,,"24 · Παῦνι 14
+δι ὰ Πανοῦ πυροῦ ἀρτάβας 3 δραχμὰς 30
+ἕως Παῦνι 27 κριθῆς
+δραχμὰς",OTHER,,0.0,,
+p.louvre;1;54,1,3,1,yes,ab,Aufstellung über den Stallbetrieb?,Soknopaiu Nesos (Arsinoites),Anfang III,,0201,0225,κριθησ,3,αρταβασ,20,δραχμασ,25.68,2,8,10,0,no,no,no,,,,"· Παῦνι 14
+δι ὰ Πανοῦ πυροῦ ἀρτάβας 3 δραχμὰς 30
+ἕως Παῦνι 27 κριθῆς
+δραχμὰς 20 · Ἐπεὶφ Ἐ πὶφ 18
+διʼ",OTHER,,0.0,,
+p.louvre;1;54,1,4,1,yes,ab,Aufstellung über den Stallbetrieb?,Soknopaiu Nesos (Arsinoites),Anfang III,,0201,0225,πυρου,3,αρταβασ,30,δραχμασ,26.3,3,1,3,0,no,no,no,,,,"· Ἐπεὶφ Ἐ πὶφ 18
+διʼ ἐμοῦ πυροῦ ἀρτάβας 3 δραχμὰς 30
+κ αὶ πυροῦ ἀρτάβας 6 δραχμὰς",OTHER,,0.0,,
+p.louvre;1;54,2,1,1,yes,ab,Aufstellung über den Stallbetrieb?,Soknopaiu Nesos (Arsinoites),Anfang III,,0201,0225,πυρου,3,αρταβασ,60,δραχμασ,26.3,3,1,3,0,no,no,no,,,,"Τ ῦ βι 30 δραχμὰς 16
+καὶ πυροῦ ἀρτάβας 3 δραχμὰς 60
+ἕως Μεχεὶρ Μεχὶρ 12
+κριθ",OTHER,,0.0,,
+p.louvre;1;54,2,6,1,yes,ab,Aufstellung über den Stallbetrieb?,Soknopaiu Nesos (Arsinoites),Anfang III,,0201,0225,πυρου,3,αρταβασ,48,δραχμασ,27.94,3,1,3,0,no,no,no,,,,"ὑ ποκ ειμένων δραχμὰς 8
+Μεσορὴ 11 πυροῦ ἀρτάβας 3 δραχμὰς 48",OTHER,,0.0,,
+p.lund;4;11,1,1,1,yes,ab,Kultverein der Dioskuren,Bakchias? (Arsinoites),II - III,,0101,0300,σιτου,2,αρταβαι,4,δραχμαι,27.94,3,1,4,0,no,no,no,,,,"ο υ δραχμαὶ 4
+τραγη μ άτων δραχμαὶ 4
+σίτου ἀρτάβαι 2 δραχμαὶ 40
+ἀρτάβη 1 δραχμαὶ 20",OTHER,,0.0,,
+p.mert;1;24,1,1,1,yes,ab,Business Letter,unbekannt,ca. 200,0200,,,πυρου,3,αρταβασ,40,δραχμασ,26.32,6,1,7,0,no,no,no,,,,"ἐ μὸν λ ό γον ἀρ ι θμοῦ δραχμὰς 40 ,
+ὁμοίως καὶ πυροῦ ἀρτάβας 3 , καὶ παρὰ
+Ἀ πολλῶτος δραχμὰς",OTHER,,0.0,,
+p.mich;12;644,1,3,1,yes,ab,Receipts for τιμὴ πυροῦ and τιμὴ οἴνου,Philadelphia (Arsinoites),28. Nov. - 27. Dez. 303,,0303-11-28,0303-12-27,πυρου,,,1,ταλαντον,27.09,4,-1,4,0,yes,yes,no,,,,"λωνίου π ρ ονοητοῦ πονοητοῦ τιμῆς
+πυροῦ 18 ἔτους Φιλαδελφίας τάλαντον 1 δραχμαὶ 5100
+γίνονται 4 δραχμαὶ 2380",PRICE,priceword_ext,0.6,,
+p.mich;1;30,2,1,1,yes,ab,Various Accounts,Philadelphia (Arsinoites),256 - 245 v.Chr.,,-0256,-0245,σιτου,,,66,οβολοσ,30.98,1,-1,1,0,yes,yes,no,,,,"γίνονται 170
+καὶ ἡ τιμὴ τοῦ
+σίτου 66 ὀβολὸς 1 1/4
+γίνονται 236 ὀβολὸς 1",PRICE,priceword_ext,0.6,,
+p.mich;2;124,1,1,1,yes,ab,A Grapheion Register and Accounts,Tebtynis (Arsinoites),46 - 49,,0046,0049,πυρου,5,αρταβων,100,δραχμων,31.23,3,1,4,0,no,no,no,,,,"γυ ναικὸς πρὸ ς Ἀπολλώνιο ν παραθ ήκης δραχμῶν 100 καὶ πυροῦ ἀρταβῶν 5 . ὀβολοὶ 16
+ὁμο λογία Ἡρ",OTHER,,0.0,,
+p.mich;2;124,1,2,1,yes,ab,A Grapheion Register and Accounts,Tebtynis (Arsinoites),46 - 49,,0046,0049,πυρου,12,αρταβων,8,οβολοι,26.36,4,1,4,0,no,no,no,,,,"λογία Λυσιμάχ ου ου π ρὸ ς Ψενταμιεῦν πυροῦ ἀρταβῶν 12 . ὀβολοὶ 8
+ρο π ρὸ ς Π τολεμαῖον",OTHER,,0.0,,
+p.mil.vogl;1;28,1,2,1,yes,ab,Compte d’orge d’un domaine,Tebtynis (Arsinoites),22. Okt. 163,0163-10-22,,,κριθ,179,αρταβαι,6,δραχμων,41.48,10,2,10,0,no,yes,no,,,,"κάδου αὐτῶν ἀρτάβαι 9 .
+λοιπαὶ ἐπράθησαν κριθ ῆς ἀρτάβαι 179 ,
+ὡς τῆς ἀρτάβης ἐκ δραχμῶν 6 , δραχμαὶ 1074 · ἀνθʼ ὧν",PRICE,rate_construction,0.8,,
+p.neph;;38,1,1,1,yes,ab,Abrechnung,unbekannt,IV,,0301,0400,σιτωλογων,11,αρταβαι,235,ταλαντα,25.36,1,30,30,0,no,no,no,,,,"Κατωμερίτης τάλαντα 800
+δι ὰ τῶν σιτολόγων σιτωλόγων τάλαντα 235
+δι ὰ α ι εναγυ Πασαλοῦμις τάλαντα 750
+δι ὰ Εὐφέλλι τάλαντα 50
+δι ὰ Φιβ τάλαντα 500
+τοῖς ἀποδέκτ α ις σίτου ἀρτάβαι 11
+ἄλλα σίτου ἀρτάβαι 6
+Μακάρις",OTHER,,0.0,,
+p.oslo;3;112,1,14,1,yes,ab,"Document concerning Public Cultivators, including a Tax Account",unbekannt,nach 25 - 26,,0025,0026,πυρου,913,αρταβαι,5,δραχμασ,29.67,2,1,3,0,no,no,no,,,,"ρίου δραχμαὶ 840 , ἀνὰ ἀργυ ρίου
+δραχμὰς 5 πυροῦ ἀρτάβαι 913 , 4565 .
+γίνονται ἀργυ ρίου",OTHER,,0.0,,
+p.oslo;3;194,1,1,1,yes,ab,Account,unbekannt,II,,0101,0200,πυρου,1,αρταβησ,42,δραχμαι,26.36,5,1,5,0,no,no,no,,,,"πυροῦ ἀρτάβης 1/4
+ος δραχμαὶ 42
+Πολυδ ευκ δραχμαὶ 20
+δραχμαὶ",OTHER,,0.0,,
+p.oslo;3;194,2,2,1,yes,ab,Account,unbekannt,II,,0101,0200,πυρου,20,αρταβασ,32,δραχμασ,31.01,4,1,4,0,no,no,no,,,,"καὶ Πετε
+σοῦχος
+πυροῦ ἀρτάβας
+πυροῦ ἀρτάβας 20 καὶ δραχμὰς 32
+Ἑρμόφιλος πυροῦ ἀρτάβας 10
+ἀπὸ",OTHER,,0.0,,
+p.oslo;3;194,2,3,1,yes,ab,Account,unbekannt,II,,0101,0200,πυρου,10,αρταβασ,32,δραχμασ,31.01,4,1,5,0,no,no,no,,,,"πυροῦ ἀρτάβας
+πυροῦ ἀρτάβας 20 καὶ δραχμὰς 32
+Ἑρμόφιλος πυροῦ ἀρτάβας 10
+ἀπὸ πυροῦ ἀρταβῶν 101
+ὧν",OTHER,,0.0,,
+p.oxy;14;1650,1,1,1,yes,ab,Accounts of Freights to Memphis,Oxyrhynchos,spätes I - frühes II,,0076,0125,πυρου,550,αρταβων,44,δραχμαι,27.94,3,1,3,0,no,no,no,,,,"ς 29 ·
+λόγος πάκτωνος ἀρταβῶν
+πυροῦ ἀρταβῶν 550 δραχμαὶ 44 ,
+νέων δραχμαὶ 6 ,",OTHER,,0.0,,
+p.oxy;14;1650,2,1,1,yes,ab,Accounts of Freights to Memphis,Oxyrhynchos,spätes I - frühes II,,0076,0125,πυρων,540,αρταβων,43,δραχμαι,26.3,3,1,3,0,no,no,no,,,,"29 ·
+ἄλλ ου πλ οίου θαλαμηγοῦ πυρῶν ἀρταβῶν 540 δραχμαὶ 43
+ὡς τῶν ἀρταβῶν 100 δραχμαὶ 8",OTHER,,0.0,,
+p.oxy;19;2241,1,4,1,yes,ab,List of Rents from Land,Oxyrhynchites,283 - 284,,0283,0284,πυρ,5.5,αρταβασ,512,δραχμ,26.1,18,6,24,0,no,yes,no,,,,"τοῦ προδιελ ηλυθότος
+ἔτους ἀ ργ υρίου δραχμ 512
+ἄλλ η κοίτ η ἀρουρ Ἰσοκράτους κ λή ρου ἐδάφο υς Ἀντινοέων
+κολ λήματος πυρ ῷ ἀρουρ 4 1/2 ἀνὰ ἀρτάβας 5 1/2 πυρ οῦ ἀρταβ 24 3/4",PRICE,rate_construction,0.4,,
+p.oxy;19;2241,1,7,1,yes,ab,List of Rents from Land,Oxyrhynchites,283 - 284,,0283,0284,πυρο,61.75,αρταβ,512,δραχμ,31.95,42,7,49,0,no,yes,no,,,,"τοῦ προδιελ ηλυθότος
+ἔτους ἀ ργ υρίου δραχμ 512
+ἄλλ η κοίτ η ἀρουρ Ἰσοκράτους κ λή ρου ἐδάφο υς Ἀντινοέων
+κολ λήματος πυρ ῷ ἀρουρ 4 1/2 ἀνὰ ἀρτάβας 5 1/2 πυρ οῦ ἀρταβ 24 3/4
+Ἀλεξάνδρου
+κολ λήματος πυρ ῷ
+ἀρταβ θ πυρο ῦ
+ἀρταβ π υρ οῦ ἀρταβ 61 3/4
+ν
+π",PRICE,rate_construction,0.8,,
+p.oxy;19;2241,2,4,1,yes,ab,List of Rents from Land,Oxyrhynchites,283 - 284,,0283,0284,πυρ,13.75,αρταβαι,3792,δραχμαι,25.84,22,2,22,0,no,yes,no,,,,"ῷ ἀρούρας 2 1/2 ἀνὰ ἀρτάβας 5 1/2 πυρ οῦ ἀρτάβαι 13 3/4
+γίν εται πυρ οῦ ἀρτάβαι 163 1/4 1/8 λαχ άνου ἀρτάβαι 4
+ἀ ργ υρίου δραχμαὶ 3792 .
+ἑ ξ ῆς προ σ",PRICE,rate_construction,0.4,,
+p.oxy;19;2241,2,5,1,yes,ab,List of Rents from Land,Oxyrhynchites,283 - 284,,0283,0284,πυρ,163.375,αρταβαι,3792,δραχμαι,30.39,14,2,14,0,no,yes,no,,,,"πυρ οῦ ἀρτάβαι 13 3/4
+γίν εται πυρ οῦ ἀρτάβαι 163 1/4 1/8 λαχ άνου ἀρτάβαι 4
+ἀ ργ υρίου δραχμαὶ 3792 .
+ἑ ξ ῆς προ σ",PRICE,rate_construction,0.4,,
+p.oxy;24;2421,1,2,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,κριθ,3.166667,αρταβαι,0.166667,ταλαντον,33.98,4,2,4,0,no,yes,no,,,,"1 1/4 δηνάρια 125
+Π νῆφις Διοδώρου κριθ ῆς ἀρτάβαι 3 1/6 τάλαντον 1 δηνάρια 550 .
+Μαξιμᾶς Τίμωνος",PRICE,priceword_ext,0.6,,
+p.oxy;24;2421,1,3,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,σιτ,1,αρταβησ,24,δηναρια,35.29,3,2,3,0,no,yes,no,,,,"τάλαντον 1 δηνάρια 550 .
+Μαξιμᾶς Τίμωνος σίτ ου ἀρτάβης 1/24 δηνάρια 82 κριθ ῆς ἀρτάβης 1/2 1/3 1/24",PRICE,"priceword_ext,sale_verb",0.6,,
+p.oxy;24;2421,1,4,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,κριθ,1,αρταβησ,82,δηναρια,36.71,2,2,4,0,no,yes,no,,,,".
+Μαξιμᾶς Τίμωνος σίτ ου ἀρτάβης 1/24 δηνάρια 82 κριθ ῆς ἀρτάβης 1/2 1/3 1/24 δηνάρια 572
+Ὀνῆς στεφανοπλόκος",PRICE,"priceword_ext,sale_verb",0.6,,
+p.oxy;24;2421,1,5,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,κριθ,1,αρταβησ,243,δηναρια,31.75,2,14,14,0,no,yes,no,,,,"σίτ ου ἀρτάβης 1/24 δηνάρια 82 κριθ ῆς ἀρτάβης 1/2 1/3 1/24 δηνάρια 572
+Ὀνῆς στεφανοπλόκος σί τ ου δηνάρια 243 κριθ ῆς τάλαντα 3 δηνάρια 633 .
+Π",PRICE,sale_verb,0.5,,
+p.oxy;24;2421,1,6,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,σιτ,1,αρταβησ,24,δηναρια,33.19,3,2,3,0,no,yes,no,,,,"δηνάρια 633 .
+Π α ωῦτις Πολυδεύκους σίτ ου ἀρτάβης 1/24 δηνάρια 41 κρ ι θ ῆς ἀρτάβαι 2",PRICE,sale_verb,0.5,,
+p.oxy;24;2421,1,9,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,κριθ,2,αρταβαι,409,δηναρια,27.55,2,2,4,0,no,no,no,,,,"Ἁγίωνος πορθμαρίου προθμ αρίου σίτ ου 1/3 1/12 δηνάρια 409 κριθ ῆς ἀρτάβαι 2 δηνάρια 1310 .
+Σοφία Ἀ γαθοῦ",OTHER,,0.0,,
+p.oxy;24;2421,1,13,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,κριθ,1.833333,αρταβη,82,δηναρια,25.83,2,2,4,0,no,no,no,,,,"Ξ ε νικὸς Τροίλου σίτ ου ἀρτάβης 1/12 δηνάρια 82 κριθ ῆς ἀρτάβη 1 1/2 1/3 δηνάρια 1200 .
+Θε",OTHER,,0.0,,
+p.oxy;24;2421,1,15,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,κριθ,1,αρταβησ,4,δηναρια,27.55,3,2,3,0,no,no,no,,,,"Θα ῆσις γυνὴ Ἀφυγχίου Πεβᾶτ ο ς κριθ ῆς ἀρτάβης 1/4 δηνάρια 164 .
+Ἀπ ί α Ἁγία",OTHER,,0.0,,
+p.oxy;24;2421,2,7,1,yes,ab,Account of Wheat,Oxyrhynchites (?),ca. 312 - 323,,0312,0323,κριθ,1.041667,αρταβη,0.041667,δηναρια,25.96,4,2,4,0,no,no,no,,,,"65 6 .
+Εὐπορίων λ ινόυ φος κριθ ῆς ἀρτάβη 1 1/24 δηνάρια 682 .
+κλ η ρονόμοι Σ",OTHER,,0.0,,
+p.oxy;46;3275,1,4,1,yes,ab,Report of Priests,Oxyrhynchos,ca. 103 - 111,,0103,0111,πυρου,8,αρταβαι,22,δραχμ,46.14,6,9,15,0,no,yes,no,,,,"ἱερεῦσι Θοήριδος δραχμ
+τῶν τεσσάρων 4 δραχμ 22 . γείνον
+ται πυροῦ ἀρτάβαι χ οίνικες 4
+αἳ ἐκ δραχμῶν 8 ἀρτάβαι χ
+γείνονται πυροῦ ἀρτάβαι 12 .",PRICE,rate_construction,0.8,,
+p.oxy;46;3275,1,5,1,yes,ab,Report of Priests,Oxyrhynchos,ca. 103 - 111,,0103,0111,πυρου,12,αρταβαι,22,δραχμ,39.18,20,1,21,0,no,yes,no,,,,"ἱερεῦσι Θοήριδος δραχμ
+τῶν τεσσάρων 4 δραχμ 22 . γείνον
+ται πυροῦ ἀρτάβαι χ οίνικες 4
+αἳ ἐκ δραχμῶν 8 ἀρτάβαι χ
+γείνονται πυροῦ ἀρτάβαι 12 . ἐσ μ ὲν
+δὲ τ",PRICE,rate_construction,0.8,,
+p.oxy;49;3513,1,2,1,yes,ab,Order to Issue Wheat and Wine,Oxyrhynchos,25. Mai 260,0260-05-25,,,πυρου,1,αρταβησ,12,δραχμασ,25.55,5,3,8,0,no,no,no,,,,"υ
+ὡς τ οῦ κερ αμίου 1 δραχμὰς 12 , τοῦ δὲ πυροῦ ὡς τῆς ἀρτάβης 1 δραχμὰς 16 .
+ἔρρωσο καὶ δὸ",OTHER,,0.0,,
+p.oxy;54;3773v,1,3,1,yes,ab,,,,,,,σιτου,,,500,δηναρια,25.05,3,-1,3,0,no,no,no,,,,"Φαῶφι
+νομισματίου 240
+ἀσήμου 1213 δηνάρια 500
+σίτου 40
+κριθ ῶν 22
+φακοῦ 30",OTHER,,0.0,,
+p.oxy;57;3906,1,2,1,yes,ab,Application for Seed - Corn,Oxyrhynchos,Ende 229,,0229-10,0229-12,πυρου,2.1875,αρταβασ,5,δραχμασ,27.71,6,1,6,0,no,no,no,,,,"έου εἰς Διον Ἀγαθ είνου
+ἀν ὰ πυροῦ ἀρτάβας 2 1/8 1/16 καὶ δραχμὰς 5 2 χ αλκοῦς 3 ἀπὸ ἀρουρῶν 26",OTHER,,0.0,,
+p.oxy;57;3906,1,6,1,yes,ab,Application for Seed - Corn,Oxyrhynchos,Ende 229,,0229-10,0229-12,πυρου,3.296875,αρταβασ,6,δραχμασ,26.25,7,1,7,0,no,no,no,,,,"νος
+το ῦ Α υ ἀν ὰ πυροῦ ἀρτάβας 3 1/4 1/32 1/64 καὶ δραχμὰς 6 ἀ πὸ ἀρουρῶν 7 1/2 τὸ ἥμισυ",OTHER,,0.0,,
+p.paris;;9,1,2,1,yes,ab,Prêt de blé,unbekannt,19. Sept. 107 v.Chr. (Jahr unsicher),-0107-09-19,,,πυρων,,,55,ταλαντα,26.01,1,-1,1,0,no,no,no,,,,"πρώην
+παραδοθέντος αὐτῷ σίτ ου καὶ
+πυρῶν τάλαντα 55 4000
+καὶ ἐν τοῖς ὑπογε γενημ",OTHER,,0.0,,
+p.paris;;9,1,3,1,yes,ab,Prêt de blé,unbekannt,19. Sept. 107 v.Chr. (Jahr unsicher),-0107-09-19,,,κριθ,,,204,ταλαντα,37.71,3,-1,3,0,no,yes,no,,,,"πράσει εἰς τὸ 11 ἔτος
+μ ρ τάλαντα 204 , κριθ ῆς 13 1/2 , ἀράκου 1200 , κέγχρ",PRICE,priceword_ext,0.6,,
+p.petr;3;109,3,3,1,yes,ab,Military Taxes,Arsinoites,nach 1. Nov. 248 v.Chr.,,-0248-11-01,,πυρου,,,18,δραχμαι,25.05,3,-1,3,0,no,no,no,,,,"2 φυ λακι τικὸν πυροῦ 3
+γίνονται δραχμαὶ 18 4 πυροῦ 3
+γίνονται δραχμαὶ 57 2 πυροῦ 9",OTHER,,0.0,,
+p.petr;3;109,3,4,1,yes,ab,Military Taxes,Arsinoites,nach 1. Nov. 248 v.Chr.,,-0248-11-01,,πυρου,,,57,δραχμαι,25.05,3,-1,3,0,no,no,no,,,,"γίνονται δραχμαὶ 18 4 πυροῦ 3
+γίνονται δραχμαὶ 57 2 πυροῦ 9
+εἰς τοῦτο πέ πτ ωκεν",OTHER,,0.0,,
+p.petr;3;47,1,1,1,yes,ab,Stone - cutters’ Supplies,Arsinoites,III v.Chr.,,-0300,-0201,πυρων,15,αρταβασ,180,δραχμαι,39.81,3,1,4,0,no,yes,no,,,,"φ 23 εἰς λατόμους 15 ἀνὰ δραχμὰς 12 δραχμαὶ 180
+πυρῶν ἀρτάβας 15 ἀνὰ δραχμὴν 1 3 δραχμαὶ 22 3",PRICE,rate_construction,0.8,,
+p.petr;3;47,2,1,1,yes,ab,Stone - cutters’ Supplies,Arsinoites,III v.Chr.,,-0300,-0201,πυρων,15,αρταβασ,180,δραχμαι,39.81,3,1,4,0,no,yes,no,,,,"Ἐπεὶφ 23 εἰς λατόμους 15 ἀνὰ δραχμὰς 12 δραχμαὶ 180
+πυρῶν ἀρτάβας 15 ἀνὰ δραχμὴν 1 3 δραχμαὶ 22 3",PRICE,rate_construction,0.8,,
+p.petr;3;53p,1,1,1,yes,ab,Correspondence,Arsinoites,244 - 243 v.Chr. (?),,-0244,-0243,πυρων,146.666667,αρταβασ,1086,δραχμασ,29.29,5,1,6,0,no,no,no,,,,"κομίζεσθαι ἐκ τοῦ
+ἱ εροῦ χ αλκοῦ δραχμὰς 1086 4 καὶ
+πυρῶν ἀρτάβας 146 2/3 καὶ
+μέλιτος ἵνια λεπτοσίνια 7",OTHER,,0.0,,
+p.petr;3;91,1,1,1,yes,ab,Reports on Cultivation,Ptolemais Hormu (Arsinoites),257 - 237 v.Chr.,,-0257,-0237,πυρων,500,αρταβασ,715,δραχμασ,26.25,7,1,7,0,no,no,no,,,,"τραπέζης προσανειληφὼς ὥστε εἰς τὰ σπέρ
+ματα πυρῶν ἀρτάβας 500 πρόδομα ὥστʼ ἔχειν
+δραχμὰς 715 χ αλκοῦ ἑξήκοντα πέντε 65
+ὁμολογεῖ",OTHER,,0.0,,
+p.pintaudi;;30v,1,1,1,yes,ab,"Comptes d’Eirènaios, phrontistès d’Euhèmeria (archives d’Hèroninos)",Euhemeria (Arsinoites),ca. 247 (?),0247,,,κριθ,,,2,δραχμων,45.2,6,-1,6,0,no,yes,no,,,,"συ βουκόλ ῳ μίσθι οι 6 ἐκ δραχμῶν 2
+ἐκτιν άζο ντες κριθ ὴν οἰκ έται καὶ μετρη ματιαῖοι 2",PRICE,rate_construction,0.8,,
+p.prag;2;134,1,3,1,yes,ab,,,,,,,κριθησ,,,3,δηναριων,26.36,3,-1,3,0,no,no,no,,,,"παν τὸς
+ὧν ἕως Ἁθὺρ
+πολ δηναρίων 3
+κριθῆς
+ὧν ἕως Μεχὶρ",OTHER,,0.0,,
+p.prag;3;240,1,1,1,yes,ab,Pay records of employees,Theadelphia (Arsinoites),nach 26. Dez. 250 (Jahr unsicher),,0250-12-26,,πυρ,,,12,οβολ,30.06,8,-1,8,0,no,yes,no,,,,"4 ὀβολ- 8
+εἰς λόγον τοῦ Δρυμοῦ ὀβολ- 12
+Ἁθὺρ 7 Πωλίωνος γεωργ οῦ πυρ οῦ ἀρτ αβ- 1 δρ αχμ- 30",PRICE,sale_verb,0.5,,
+p.princ;2;54,1,8,1,yes,ab,Wage Account,unbekannt,frühes I,,0001,0025,σιτω,94.75,αρταβασ,0.25,χαλκω,26.8,6,3,6,0,no,no,no,,,,"ἐμπορικῷ ἐπωλικῷ
+ὁμοίως ὁμωιω
+διωος σιτω
+πυροῦ ἀρτάβας 94 1/2 1/4 χαλκῷ χαρ κῷ
+μέτρῳ μέδρῳ
+χειρισταῖς",OTHER,,0.0,,
+p.princ;2;54,1,9,1,yes,ab,Wage Account,unbekannt,frühes I,,0001,0025,πυρου,94.75,αρταβασ,0.25,χαλκω,31.01,4,1,4,0,no,no,no,,,,"ἐπωλικῷ
+ὁμοίως ὁμωιω
+διωος σιτω
+πυροῦ ἀρτάβας 94 1/2 1/4 χαλκῷ χαρ κῷ
+μέτρῳ μέδρῳ
+χειρισταῖς",OTHER,,0.0,,
+p.rain.unterricht;;101,1,1,1,yes,ab,keiner,Herakleopolites,V - VI,,0401,0600,πυρ,,,1,δραχμησ,46.78,5,-1,5,0,no,yes,no,,,,τῷ κυρ ίῳ μου κυρίῳ μου ἀδελφ ῷ πυρ ὸς ἀσφρ άγιστος ἐκ δραχμῆς 1 141 1/2 ναύλ ου Ὡριγένης Ἀκάωνος πεδ,PRICE,rate_construction,0.8,TRANSPORT,
+p.ryl;2;186,1,1,1,yes,ab,Official Account of Taxation,unbekannt,Ende II,,0176,0200,πυρου,,,12,ταλαντα,28.92,1,-1,1,0,yes,yes,no,,,,"3 ,
+δραχμαὶ 23 , τιμῆς τειμῆς πυροῦ τάλαντα 12 δραχμαὶ 440 ,
+νομοῦ π ολ",PRICE,priceword_ext,0.6,,
+p.ryl;2;224,1,1,1,yes,ab,Private Account,unbekannt,I,,0001,0100,σιτ,,,40,δραχμαι,30.7,4,-1,4,0,yes,yes,no,,,,"ρο τιμῆ ς καλάμ ων καὶ κοπ ῆς δραχμαὶ 40 ,
+σιτ ι εἰς δαπάνη ν δραχμαὶ 4
+ὥστε",PRICE,priceword_ext,0.6,,
+p.ryl;4;559,1,1,1,yes,ab,Letter from Maron to Zenon,Philadelphia (Arsinoites),vor 14. Juli 257 v.Chr.,,,-0257-07-14,πυρων,,,15,δραχμασ,41.36,3,-1,3,0,no,yes,no,,,,"πολλοὶ δὲ διατρίβου σι
+φυλακίαι λαμβάνουσι ὀψώνιον δραχμὰς 15 καὶ πυρῶν ἀρτάβας",RATION,sale_verb,0.5,RATION,weak_positive(0.5)+negative(RATION)
+p.ryl;4;594,1,2,1,yes,ab,Taxation Totals for Karanis,Arsinoites,145 - 146 (?),,0145,0146,πυρου,,,2,δραχμων,29.9,9,-1,9,0,no,yes,no,,,,"ρ οῦ 107 ἥμισυ 1/2 κω
+82 πυροῦ 4 1/24
+ἀργυρικ ῶν ἐλαιω λο
+2 δραχμῶν δι α Ἡ ρακ Παπνω κ",PRICE,priceword_ext,0.6,,
+p.ryl;4;594,1,3,1,yes,ab,Taxation Totals for Karanis,Arsinoites,145 - 146 (?),,0145,0146,πυρου,,,2,δραχμων,28.93,10,-1,10,0,no,yes,no,,,,"4 1/24
+ἀργυρικ ῶν ἐλαιω λο
+2 δραχμῶν δι α Ἡ ρακ Παπνω κ
+τιμῆς πυροῦ τ
+Εὐθήνιον πρας
+ἀργ υρίου τάλαντα",PRICE,priceword_ext,0.6,,
+p.ryl;4;706v,1,1,1,yes,ab,Petition to the Prefect,Antinoopolis,ca. 318 - 323,,0318,0323,κριθ,1,αρταβη,4,ταλαντα,39.49,3,2,5,0,no,yes,no,,,,"ἀράκου ἀρτάβαι 7 1/2 ἐκ δραχμῶν 3200 τάλαντα 4
+κριθ ῆς ἀρτάβη 1 ἐκ δραχμῶν 2000
+φασήλου ἀρτάβη 1",PRICE,rate_construction,0.8,,
+p.ryl;4;706v,1,2,1,yes,ab,Petition to the Prefect,Antinoopolis,ca. 318 - 323,,0318,0323,κριθ,2.333333,αρταβαι,3500,δραχμων,38.18,4,2,6,0,no,yes,no,,,,"ἐκ δραχμῶν 2000
+φασήλου ἀρτάβη 1 ἐκ δραχμῶν 3500
+γόμου κριθ ῆς ἀρτάβαι 2 1/3 ἐκ δραχμῶν 2100 δραχμαὶ 5000",PRICE,rate_construction,0.8,,
+p.ryl;4;706v,1,3,1,yes,ab,Petition to the Prefect,Antinoopolis,ca. 318 - 323,,0318,0323,κριθ,2,αρταβαι,1000,δραχμαι,39.49,3,2,5,0,no,yes,no,,,,"φακοῦ ἀρτάβαι 5 ἐκ δραχμῶν 3800 τάλαντα 3 δραχμαὶ 1000
+κριθ ῆς ἀρτάβαι 2 ἐκ δραχμῶν 5000",PRICE,rate_construction,0.8,,
+p.sakaon;;19,1,3,1,yes,ab,List of a Donkey Caravan and Receipts for Money in Commutation for Wheat and Barley,Theadelphia (Arsinoites),1. Mai 316,0316-05-01,,,πυρου,,,10,ταλαντα,27.23,12,-1,12,0,no,yes,no,,,,"ἰνδικτίωνο ς Θ εα δελφείας τάλαντα δέκα, γίνονται τάλαντα 10 .
+καὶ Ἁθὺρ 3 διέ γραψαν οἱ αὐτοὶ τιμῆς πυροῦ
+τρίτης ἰνδικτί ονος Θεαδελφίας
+τάλαντα δέκα",PRICE,priceword_ext,0.6,,
+p.sakaon;;19,1,5,1,yes,ab,List of a Donkey Caravan and Receipts for Money in Commutation for Wheat and Barley,Theadelphia (Arsinoites),1. Mai 316,0316-05-01,,,κριθησ,,,100,δηναρια,26.3,8,-1,8,0,yes,yes,no,,,,"ἑπτά, δηνάρια ἑ κατόν, γίνεται τάλαντα 7 , δηνάρια 100 .
+καὶ ὑ πὲρ τιμῆς κριθῆς 23 ἔτους Θεαδελφίας τάλαν τον ἕν, γίνεται τάλαντον",PRICE,priceword_ext,0.6,,
+p.sakaon;;19,2,8,1,yes,ab,List of a Donkey Caravan and Receipts for Money in Commutation for Wheat and Barley,Theadelphia (Arsinoites),1. Mai 316,0316-05-01,,,πυρου,,,2,ταλαντα,26.91,9,-1,9,0,no,yes,no,,,,"καὶ τῇ 7 δ ιέγραψαν οἱ αὐτοὶ τιμῆς πυροῦ 23 ἔτους Θεαδελφίας
+τάλαντα δύο καὶ δηνάρια τάλαντα 2 , δηνάρια .
+κριθῆς 23 ἔτους",PRICE,priceword_ext,0.6,,
+p.sakaon;;19,2,9,1,yes,ab,List of a Donkey Caravan and Receipts for Money in Commutation for Wheat and Barley,Theadelphia (Arsinoites),1. Mai 316,0316-05-01,,,κριθησ,,,2,δηναρια,31.19,5,-1,5,0,no,yes,no,,,,"ἔτους Θεαδελφίας
+τάλαντα δύο καὶ δηνάρια τάλαντα 2 , δηνάρια .
+κριθῆς 23 ἔτους δηνάρια ἑξακόσια π εν τήκοντα, δηνάρια",PRICE,priceword_ext,0.6,,
+p.sarap;;61,1,1,1,yes,ab,Recettes et dépenses,Hermopolites,90 - 133,,0090,0133,πυρου,,,24,δραχμαι,28.28,3,-1,3,0,yes,yes,no,,,,"τῷ παρὰ Κλαυτιανοῦ δραχμαὶ 128
+τιμῆς πυροῦ παλαιοῦ παλαυοῦ δραχμαὶ 24 ὀ β ολοὶ 6
+Φῖβις οἰκοδόμου",PRICE,priceword_ext,0.6,TAX,
+p.sarap;;62,1,1,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,48.333333,αρταβαι,52,δραχμαι,33.16,2,1,3,0,no,no,no,,,,"Φατ ρήο υς εἰς ἀπόδο σιν Παχ
+δραχμαὶ 52 πυροῦ ἀρτάβαι 48 1/3 24
+καὶ ὑ π ὲρ",OTHER,,0.0,,
+p.sarap;;62,1,3,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,8.666667,αρταβαι,116,δραχμαι,26.36,4,1,5,0,no,no,no,,,,"δραχμαὶ 88 ἄλ λαι δραχμαὶ 112 ἄλ λαι δραχμαὶ 116 καὶ
+πυροῦ ἀρτάβαι 8 2/3 ἄλ λαι πυροῦ ἀρτάβαι 5 1/3",OTHER,,0.0,,
+p.sarap;;62,1,6,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,31.166667,αρταβαι,556,δραχμαι,33.16,2,1,3,0,no,no,no,,,,"γίνονται ἐ π ὶ τὸ αὐτὸ ἀργ υρίου δραχμαὶ 556 πυροῦ ἀρτάβαι 31 1/6
+Ἀχιλλᾶς Σαλατ ᾶτος ἀπόδο σις",OTHER,,0.0,,
+p.sarap;;62,1,7,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,42.5,αρταβαι,272,δραχμαι,31.23,3,1,4,0,no,no,no,,,,"165
+υς Ψεναμο ύνιος ἀπόδο σις Παῦνι δραχμαὶ 272
+πυροῦ ἀρτάβαι 42 1/2 χρῆσι ς πυροῦ ἀρτάβη 1",OTHER,,0.0,,
+p.sarap;;62,1,10,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,7.25,αρταβαι,48,δραχμαι,27.71,6,1,6,0,no,no,no,,,,"πυροῦ ἀρτάβαι 13 2/3
+οι Ὀννώφ ρεως πυροῦ ἀρτάβαι 7 1/4 ἀργ υρίου δραχμαὶ 48
+Φα ς Ἀλεξάνδρο υ ὑ π",OTHER,,0.0,,
+p.sarap;;62,1,13,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,κριθ,12,αρταβαι,48,δραχμαι,30.54,4,2,6,0,no,no,no,,,,"ἀρτάβαι 28 καὶ
+κατὰ χειρό γραφον πυροῦ ἀρτάβαι 12 κριθ ῆς ἀρτάβαι 12 δραχμαὶ 48
+Ἀχιλλε ὺς νεώ τερος Περιβλ έπ",OTHER,,0.0,,
+p.sarap;;62,2,3,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,1,αρταβαι,28,δραχμαι,32.88,3,1,4,0,no,no,no,,,,"ι ς Σ τρίγωνο ς ἀπόδο σις Παῦνι δραχμαὶ 28
+πυροῦ ἀρτάβαι 1/3
+Κάστωρ Κολλούθ ου πυροῦ ἀρτάβαι 20",OTHER,,0.0,,
+p.sarap;;62,2,9,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,κριθ,16,αρταβαι,124,δραχμαι,28.77,3,3,6,0,no,no,no,,,,"Φατρήο υς Βελλῆς ἀπ ό δο σις Παῦνι δραχμαὶ 124
+κριθ ῆς πυροῦ ἀρτάβαι 16
+Φ Μ ιρήους ἀπόδο σις Παῦνι",OTHER,,0.0,,
+p.sarap;;62,2,10,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,16,αρταβαι,124,δραχμαι,26.36,5,1,6,0,no,no,no,,,,"Φατρήο υς Βελλῆς ἀπ ό δο σις Παῦνι δραχμαὶ 124
+κριθ ῆς πυροῦ ἀρτάβαι 16
+Φ Μ ιρήους ἀπόδο σις Παῦνι",OTHER,,0.0,,
+p.sarap;;62,2,12,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,12,αρταβαι,48,δραχμαι,31.42,2,1,3,0,no,no,no,,,,"Μ ι ρῆς Α ἀπ όδο σις Παῦνι δραχμαὶ 48 πυροῦ ἀρτάβαι 12
+καὶ ὑ π ὲρ τόκο υ",OTHER,,0.0,,
+p.sarap;;62,2,13,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,26.666667,αρταβαι,272,δραχμαι,33.16,2,1,3,0,no,no,no,,,,"ῦ δραχμαὶ 60
+Μ ι ρῆς Καλήους δραχμαὶ 272 πυροῦ ἀρτάβαι 26 2/3
+κριθ ῆς ἀρτάβαι 6 χόρτ",OTHER,,0.0,,
+p.sarap;;62,2,15,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,1.333333,αρταβη,0.333333,δραχμαι,29.59,3,1,3,0,no,no,no,,,,"ὑ π ὲρ
+παλαιο ῦ λόγο υ πυροῦ ἀρτάβη 1 1/3 δραχμαὶ 5
+θενις πυροῦ ἀρτάβη 1 1/3",OTHER,,0.0,,
+p.sarap;;62,2,16,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,1.333333,αρταβη,5,δραχμαι,27.91,4,1,5,0,no,no,no,,,,"παλαιο ῦ λόγο υ πυροῦ ἀρτάβη 1 1/3 δραχμαὶ 5
+θενις πυροῦ ἀρτάβη 1 1/3
+θ Ἁρμοδίο υ ἀπόδο σις",OTHER,,0.0,,
+p.sarap;;62,2,17,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,12,αρταβαι,44,δραχμαι,27.83,5,1,5,0,no,no,no,,,,"φακ οῦ ἀρτάβαι 2 1/2
+Φατρήο υς πυροῦ ἀρτάβαι 12 ἀργ υρίου δραχμαὶ 44
+τρι Μιρήο υς σὺν υἱοῖς πυροῦ",OTHER,,0.0,,
+p.sarap;;62,2,19,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,κριθ,3,αρταβαι,24,δραχμαι,25.88,6,2,6,0,no,no,no,,,,"υς σὺν υἱοῖς πυροῦ ἀρτάβαι 19 1/4
+κριθ ῆς ἀρτάβαι 3 ἀργ υρίου δραχμαὶ 24",OTHER,,0.0,,
+p.sarap;;62,3,4,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,1.333333,αρταβη,96,δραχμαι,26.25,7,1,8,0,no,no,no,,,,"Ἑρμαῖο ς Ὡρί ωνος ἀπόδο σις Παχ ὼν δραχμαὶ 96
+Τοθ ῆς Ἀννοῦτ ος πυροῦ ἀρτάβη 1 1/3
+Ὡρίω ν Ἑρμαίο υ πυροῦ",OTHER,,0.0,,
+p.sarap;;62,3,6,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,16,αρταβαι,118,δραχμαι,26.32,6,1,6,0,no,no,no,,,,"ἀρτάβη 1 1/3
+Χαιρ ήμων Ἀμμω νίου πυροῦ ἀρτάβαι 16
+ἀργ υρίου δραχμαὶ 118 ἄλ λαι δραχμαὶ 28
+προφήτη ς",OTHER,,0.0,,
+p.sarap;;62,3,9,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,2.5,αρταβαι,24,δραχμαι,31.23,3,1,4,0,no,no,no,,,,"Ὡρίω ν Χαιρή μονος ἀπόδο σις Παῦ νι δραχμαὶ 24
+πυροῦ ἀρτάβαι 2 1/2
+Μιρῆς Δὰξ ἀπόδο σις Παῦ",OTHER,,0.0,,
+p.sarap;;62,3,10,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,14,αρταβαι,48,δραχμαι,33.16,2,1,3,0,no,no,no,,,,"Μιρῆς Δὰξ ἀπόδο σις Παῦ
+ν ι δραχμαὶ 48 πυροῦ ἀρτάβαι 14
+Φι ας Παυσιρί ωνος πυροῦ ἀρτάβης",OTHER,,0.0,,
+p.sarap;;62,3,16,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,1.333333,αρταβη,42,δραχμαι,29.59,3,1,4,0,no,no,no,,,,"1/2
+Ἑρμᾶς Ἀχιλ λέως ἀπόδο σις Παῦνι δραχμαὶ 42
+πυροῦ ἀρτάβη 1 1/3
+Ὀ ννῶφ ρις Τιναρώο υτος",OTHER,,0.0,,
+p.sarap;;62,3,17,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,4,αρταβαι,24,δραχμαι,31.23,3,1,4,0,no,no,no,,,,"ὺς Ὥρο υ ἀπ όδο σις Φαμε νώθ δραχμαὶ 24
+πυροῦ ἀρτάβαι 4",OTHER,,0.0,,
+p.sarap;;62,4,2,1,yes,ab,Comptes de rentrées en espèces et en nature,Hermopolites,vor 17. Juli 128,,,0128-07-17,πυρου,31,αρταβαι,180,δραχμαι,26.25,7,1,8,0,no,no,no,,,,"ως ἀρτάβαι 3
+Ἀνουβ ίων Εὐδαίμο νος δραχμαὶ 180
+Δίδυμο ς Δημητ ρίου πυροῦ ἀρτάβαι 31
+Ἑρμᾶς Ἡρακλ πυροῦ ἀρτάβαι 50",OTHER,,0.0,,
+p.sarap;;68,1,1,1,yes,ab,Dépenses et comptes d’ouvriers,Hermopolites,90 - 133,,0090,0133,πυρου,2,αρταβαι,11,δραχμαι,26.25,7,1,8,0,no,no,no,,,,"ε Πεκύσι ὀβ ολοὶ 10
+α ι δραχμαὶ 11 2
+ι π λ πυροῦ ἀρτάβαι 2 καὶ ο
+ο ὀβ ολοὶ 29",OTHER,,0.0,,
+p.sarap;;71,1,1,1,yes,ab,Comptes concernant des ouvriers,Hermopolites,nach 20. März 128,,0128-03-20,,πυρου,2,αρταβαι,4,δραχμαι,29.29,5,1,5,0,no,no,no,,,,"Φαμε νὼθ
+ἀφʼ ὧν Φαμ εν 24 πυροῦ ἀρτάβαι 2
+ητ δραχμαὶ 4
+α τ νελω ματ
+π",OTHER,,0.0,,
+p.sarap;;74,1,5,1,yes,ab,Comptes d’artabes,Hermopolites,90 - 133,,0090,0133,πυρου,1,αρταβησ,4,δραχμαι,29.46,4,1,5,0,no,no,no,,,,"ἀπὸ Ἄμμω νος δραχμαὶ 4
+Α ρι δραχμαὶ 4
+Μενχή πυροῦ ἀρτάβης 1/3
+6 Πετεχ ῶντι Φατρή ους πυροῦ",OTHER,,0.0,,
+p.sarap;;74,2,1,1,yes,ab,Comptes d’artabes,Hermopolites,90 - 133,,0090,0133,πυρου,1,αρταβησ,3,δραχμαι,26.18,2,1,2,0,no,no,no,,,,"Πετεχῶ ν Φατρή ους
+Ἁθὺρ 15 πυροῦ ἀρτάβης 1/3 δραχμαὶ 4 2 20
+6 πυροῦ ἀρτάβης",OTHER,,0.0,,
+p.sarap;;74,2,8,1,yes,ab,Comptes d’artabes,Hermopolites,90 - 133,,0090,0133,πυρου,1,αρταβησ,3,δραχμαι,26.18,2,1,2,0,no,no,no,,,,"ἀρτάβης 2/3 δραχμαὶ 8 5 κ
+8 πυροῦ ἀρτάβης 1/3 δραχμαὶ 4 2 1",OTHER,,0.0,,
+p.tebt;1;121,2,1,1,yes,ab,Account,"Theogonis (Arsinoites, Ägypten)","nach
+                27. Okt. 94 v.Chr. (Jahr unsicher)",,-0094-10-27,,πυρου,,,4,δραχμαι,30.94,8,-1,8,0,yes,yes,no,,,,"πρὸς Αμ λόγο ς . ἀργυ ρίου δραχμαὶ 4 1600 ,
+εἰς ὧν τιμὴν πυροῦ 1/6 250 ,
+ὁμοίω ς τι μῆς",PRICE,priceword_ext,0.6,,
+p.tebt;1;50,1,3,1,yes,ab,Petition to the Komogrammateus,"Kerkeosiris (Arsinoites, Ägypten)",112 - 111 v.Chr.,,-0112,-0111,πυρου,150,αρταβασ,15,ταλαντα,27.71,6,1,6,0,no,no,no,,,,"ἀπὸ τοῦ 2
+μέχρι τοῦ 6 ἔτους πυροῦ ἀρτάβας 150 καὶ χα λκοῦ τάλαντα 15 .
+διʼ ἣν αἰτίαν ἐξησθενηκὼς",OTHER,,0.0,,
+p.tebt;1;61b,2,16,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρω,225,αρταβαι,13,χαλκου,27.27,1,44,45,0,no,no,no,,,,"ἀνθʼ ὧν σὺν τοῖς μετὰ ταῦτα προσγεγενη μένοις ἀρτάβαι 225 ,
+διάφορον 118 2/3 · διὰ τῶν κατὰ μέρος. γίνοντ αι τῆς ἄν ευ συναλλάξεως
+εἰς πυρῶν 536 1/2 1/4 , ὧν πυρῷ 447 1/2 1/3 1/12 , κ ριθ ῆς αἳ πυρ ῶ ι 72 , ὀλύρας
+αἳ πυρῷ 13 , χαλκοῦ 3 1/2 1/3 · σὺν δὲ",OTHER,,0.0,,
+p.tebt;1;61b,2,20,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,225,αρταβαι,24.5,χαλκου,25.01,1,79,80,0,no,no,no,,,,"ἀνθʼ ὧν σὺν τοῖς μετὰ ταῦτα προσγεγενη μένοις ἀρτάβαι 225 ,
+διάφορον 118 2/3 · διὰ τῶν κατὰ μέρος. γίνοντ αι τῆς ἄν ευ συναλλάξεως
+εἰς πυρῶν 536 1/2 1/4 , ὧν πυρῷ 447 1/2 1/3 1/12 , κ ριθ ῆς αἳ πυρ ῶ ι 72 , ὀλύρας
+αἳ πυρῷ 13 , χαλκοῦ 3 1/2 1/3 · σὺν δὲ τῆι μεμισθωμένηι εἰς πυρῶν 82 3 1/12 ,
+ὧν πυρῷ 648 1/2 1/3 , κρ ιθ ῆς αἳ πυροῦ 136 , ὀ λύρας αἳ πυροῦ 24 1/2 , χαλκοῦ 13 1/2 1/3 .",OTHER,,0.0,,
+p.tebt;1;61b,3,4,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,ολυρασ,290.5,αρταβαι,15,χαλκου,26.68,3,15,18,0,no,no,no,,,,"ὑπολόγωι εἰς τὸ 50 ἔτος ἁλμυρίδος 61 1/2 ἀρτάβαι 290 1/2 ,
+ὧν πυρῷ 2 1/6 , κριθῆς αἳ πυρῶι 270 , ὀλύρας αἳ πυρῷ 15 , χαλκοῦ 3 1/3 .
+τῆς ἐν",OTHER,,0.0,,
+p.tebt;1;61b,3,5,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρω,290.5,αρταβαι,15,χαλκου,30.28,1,17,18,0,no,no,no,,,,"ὑπολόγωι εἰς τὸ 50 ἔτος ἁλμυρίδος 61 1/2 ἀρτάβαι 290 1/2 ,
+ὧν πυρῷ 2 1/6 , κριθῆς αἳ πυρῶι 270 , ὀλύρας αἳ πυρῷ 15 , χαλκοῦ 3 1/3 .
+τῆς ἐν",OTHER,,0.0,,
+p.tebt;1;61b,3,11,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,ολυρασ,179.375,αρταβαι,5,χαλκου,26.46,3,16,16,0,no,no,no,,,,"ῆ ς αἳ πυρῶι 60 1/2 1/3 , ὀλύρας αἳ πυρῶι 5 , χαλκοῦ 2 . υρ
+τ ῆς ἐν τῶι 40 ἔτει 179 1/4 1/8 ἀρτάβαι 9 99 1/2 , ὧν",OTHER,,0.0,,
+p.tebt;1;61b,3,12,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρωι,179.375,αρταβαι,5,χαλκου,30.94,1,14,14,0,no,no,no,,,,"αἳ πυρῶι 60 1/2 1/3 , ὀλύρας αἳ πυρῶι 5 , χαλκοῦ 2 . υρ
+τ ῆς ἐν τῶι 40 ἔτει 179 1/4 1/8 ἀρτάβαι 9 99 1/2 , ὧν",OTHER,,0.0,,
+p.tebt;1;61b,3,19,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,ολυρασ,11.0625,αρταβαι,46.416667,χαλκο,25.69,3,20,20,0,no,no,no,,,,"θῆς αἳ πυροῦ 102 5 1/3 1/12 , ὀλύρας αἳ πυροῦ 46 1/3 1/12 , χαλκο ῦ 13 1/2 1/3 .
+χέρσου τῆς ἐν τῷ 40 ἔτει 11 1/16 ἀρτάβαι 45 1/6 , ὧν πυροῦ 44",OTHER,,0.0,,
+p.tebt;1;61b,3,20,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,11.0625,αρταβαι,46.416667,χαλκο,30.08,1,18,18,0,no,no,no,,,,"πυροῦ 102 5 1/3 1/12 , ὀλύρας αἳ πυροῦ 46 1/3 1/12 , χαλκο ῦ 13 1/2 1/3 .
+χέρσου τῆς ἐν τῷ 40 ἔτει 11 1/16 ἀρτάβαι 45 1/6 , ὧν πυροῦ 44",OTHER,,0.0,,
+p.tebt;1;61b,3,21,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,45.166667,αρταβαι,44.666667,χαλκου,30.08,1,5,6,0,no,no,no,,,,"χέρσου τῆς ἐν τῷ 40 ἔτει 11 1/16 ἀρτάβαι 45 1/6 , ὧν πυροῦ 44 2/3 , χαλκοῦ 1/2 .
+ἀσπόρου τῆς",OTHER,,0.0,,
+p.tebt;1;61b,3,22,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρωι,110.166667,αρταβαι,109.416667,χαλκου,30.08,1,5,6,0,no,no,no,,,,"1/2 1/4 ἀνὰ 4 1/2 1/3 1/12
+ἀρτάβαι 110 1/6 , ὧν πυρῶι 109 1/3 1/12 , χαλκοῦ 1/2 1/4 .",OTHER,,0.0,,
+p.tebt;1;61b,3,27,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρω,2137.583333,αρταβαι,46.416667,χαλκου,27.99,1,21,22,0,no,no,no,,,,"ἀπὸ τοῦ 40 ἔτους 427 1/2 1/8 1/16 ἀρτάβαι 2137 1/2 1/12 ,
+ὧν πυρῷ 100 8 , κρι θῆς αἳ πυροῦ 10 68 1/12 , ὀλύρας αἳ πυρῷ 46 1/3 1/12 , χαλκοῦ 15 1/12 .",OTHER,,0.0,,
+p.tebt;1;61b,3,34,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρωι,78.916667,αρταβαι,1,χαλκου,27.13,1,47,48,0,no,no,no,,,,"ὑδάτων ἄρουραι 16 ἀνὰ 4 1/2 1/3 1/12 ἀρτάβαι 78 1/2 1/3 1/12 , ὧν πυρῶι 77 1/2 1/12 , χα λκοῦ 1 .
+τῆς ἐν τῶι 32 ἔτει διὰ τὴν αὐτὴν αἰτίαν ἄρουραι 25 ἀνὰ 4 1/2 1/3 1/8 1/48 122 1/2 1/12 , ὧν
+πυρῶι 120 1/2 1/12 , ὀλύρας αἳ πυρῶι 1 , χαλκοῦ 1 .
+τῆς ἐν τῶι",OTHER,,0.0,,
+p.tebt;1;61b,4,7,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,114.166667,αρταβαι,112.666667,χαλκου,31.85,1,5,6,0,no,no,no,,,,"ἀπὸ τῆς ὀρεινῆς διώρυγος
+ὑδάτων ἄρουραι 21 ἀρτάβαι 114 1/6 , ὧν πυροῦ 112 2/3 , χαλκοῦ 1 1/2 .
+ὧν",OTHER,,0.0,,
+p.tebt;1;61b,4,14,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,148.083333,αρταβαι,5.5,χαλκου,27.68,1,14,15,0,no,no,no,,,,"π ἄρουραι ἀνὰ 4 1/2 1/3 1/12 1/48 ἀρτάβαι 148 1/12 , ὧν πυροῦ 142 1/12 ,
+ὀλ ύρα ς αἳ πυροῦ 5 1/2 , χαλκοῦ 1/2 .
+τῆς ἀ",OTHER,,0.0,,
+p.tebt;1;61b,4,16,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,148.083333,αρταβαι,8,χαλκου,27.08,1,48,49,0,no,no,no,,,,"π ἄρουραι ἀνὰ 4 1/2 1/3 1/12 1/48 ἀρτάβαι 148 1/12 , ὧν πυροῦ 142 1/12 ,
+ὀλ ύρα ς αἳ πυροῦ 5 1/2 , χαλκοῦ 1/2 .
+τῆς ἀ πὸ τ οῦ 31 ἔτους ὁμοίως 29 ἀνὰ 4 1/2 1/3 1/12 143 ,
+ὧν π υροῦ 13 2 1/2 , ὀλύρας αἳ πυροῦ 8 , χαλκοῦ 2 1/2 ?.
+τῆς ἐν",OTHER,,0.0,,
+p.tebt;1;61b,4,18,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,148.083333,αρταβαι,10,χαλκου,27.83,1,76,77,0,no,no,no,,,,"π ἄρουραι ἀνὰ 4 1/2 1/3 1/12 1/48 ἀρτάβαι 148 1/12 , ὧν πυροῦ 142 1/12 ,
+ὀλ ύρα ς αἳ πυροῦ 5 1/2 , χαλκοῦ 1/2 .
+τῆς ἀ πὸ τ οῦ 31 ἔτους ὁμοίως 29 ἀνὰ 4 1/2 1/3 1/12 143 ,
+ὧν π υροῦ 13 2 1/2 , ὀλύρας αἳ πυροῦ 8 , χαλκοῦ 2 1/2 ?.
+τῆς ἐν τῶι 30 ἔτει 20 ἀνὰ 4 ι 1/2 1/3 1/12 96 1/2 , ὧν πυροῦ ὀλύ ρας αἳ πυροῦ 10 , χαλκοῦ
+τῆς ἐν τῶι 2 ἔτει",OTHER,,0.0,,
+p.tebt;1;61b,4,21,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,,,3,χαλκου,28.39,2,-1,2,0,no,no,no,,,,"1/12 ,
+ὀλύ ρα ς α ἳ πυροῦ , χαλκοῦ 3
+τῆς ἐ ν τῶι 20 ἔτει",OTHER,,0.0,,
+p.tebt;1;61b,4,35,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,ολυρασ,337.25,αρταβαι,44.166667,χαλκου,25.07,3,16,19,0,no,no,no,,,,"ἐν τῶι 35 ἔτει ἄρουραι 67 1/2 1/4 ἀρτάβαι 337 1/4 , ὧν πυροῦ 210 2/3 ,
+κριθῆς αἳ πυροῦ 53 1/2 , ὀλύρας αἳ πυροῦ 44 1/6 , χαλκοῦ 28 1/2 1/3 1/12 .",OTHER,,0.0,,
+p.tebt;1;61b,4,36,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,337.25,αρταβαι,44.166667,χαλκου,28.5,1,18,19,0,no,no,no,,,,"ἐν τῶι 35 ἔτει ἄρουραι 67 1/2 1/4 ἀρτάβαι 337 1/4 , ὧν πυροῦ 210 2/3 ,
+κριθῆς αἳ πυροῦ 53 1/2 , ὀλύρας αἳ πυροῦ 44 1/6 , χαλκοῦ 28 1/2 1/3 1/12 .",OTHER,,0.0,,
+p.tebt;1;61b,5,7,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,ολυρασ,178.666667,αρταβαι,10,χαλκο,28.09,3,15,18,0,no,no,no,,,,"ηθὲν παραδίδοσθαι
+ἕως τοῦ 34 ἔτους 33 ἀρτάβαι 178 2/3 , ὧν πυροῦ 113 2/3 , κριθῆς
+αἳ πυροῦ 48 , ὀλύρας αἳ πυροῦ 10 , χαλκο ῦ 7 .
+τῆς ἐν",OTHER,,0.0,,
+p.tebt;1;61b,5,8,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,178.666667,αρταβαι,10,χαλκο,31.88,1,17,18,0,no,no,no,,,,"ηθὲν παραδίδοσθαι
+ἕως τοῦ 34 ἔτους 33 ἀρτάβαι 178 2/3 , ὧν πυροῦ 113 2/3 , κριθῆς
+αἳ πυροῦ 48 , ὀλύρας αἳ πυροῦ 10 , χαλκο ῦ 7 .
+τῆς ἐν",OTHER,,0.0,,
+p.tebt;1;61b,5,10,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,ολυρασ,157,αρταβαι,15.25,χαλκου,25.56,3,8,11,0,no,no,no,,,,"τίθεμεν ἐ ν τῶι ὑπ ολόγωι, ἄρουραι 27 ἀρτάβαι 157 ,
+ὧν πυροῦ 141 , ὀλύρας αἳ πυροῦ 15 1/4 , χαλκοῦ 1/2 1/4 .
+ἐμβρόχου",OTHER,,0.0,,
+p.tebt;1;61b,5,11,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,157,αρταβαι,15.25,χαλκου,28.62,1,10,11,0,no,no,no,,,,"τίθεμεν ἐ ν τῶι ὑπ ολόγωι, ἄρουραι 27 ἀρτάβαι 157 ,
+ὧν πυροῦ 141 , ὀλύρας αἳ πυροῦ 15 1/4 , χαλκοῦ 1/2 1/4 .
+ἐμβρόχου",OTHER,,0.0,,
+p.tebt;1;61b,5,16,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,916.25,αρταβαι,89.916667,χαλκου,28.15,1,20,21,0,no,no,no,,,,"1/4 .
+ἐμβρόχου ἄρουραι 172 1/2 1/4 ἀρτάβαι 916 1/4 , ὧ ν πυροῦ 641 1/2 1/12 , κριθῆς
+αἳ πυροῦ 141 1/2 , ὀλύρας αἳ πυροῦ 89 1/2 1/3 1/12 , χαλκοῦ 44 1/6 .",OTHER,,0.0,,
+p.tebt;1;61b,5,18,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,ολυρα,,,6,χαλκου,26.97,2,-1,2,0,no,no,no,,,,"1/4 , κριθῆς αἳ π υροῦ 40 , ὀλύρα ς 6 , χαλκοῦ 2 1/2 .
+γίνονται 521",OTHER,,0.0,,
+p.tebt;1;61b,5,20,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 117 v.Chr.,,-0117-03,-0117-04,πυρου,2608.5,αρταβαι,3.916667,χαλκου,26.0,2,21,23,0,no,no,no,,,,"1/2 .
+γίνονται 521 1/4 1/8 1/16 ἀρτάβαι 2608 1/2 , ὧν π υροῦ 2176 κ ρ ιθῆς αἳ π υροῦ 195 1/2 1/3 1/12
+ὀλύρας αἳ πυροῦ 16 3 1/2 1/3 1/12 , χαλκοῦ 72 2/3 .",OTHER,,0.0,,
+p.tebt;1;67,1,3,1,yes,ab,Report of the Crops of Crown Land,Kerkeosiris (Arsinoites),März 117 v.Chr.,-0117-03,,,πυρου,,,91.75,χαλκου,27.54,1,-1,1,0,no,no,no,,,,"πυροῦ 2877 1/4 , ὀλύ ρας
+αἳ πυροῦ 91 1/2 1/4 , χαλκοῦ 39 1/3 1/12 ,",OTHER,,0.0,,
+p.tebt;1;72,2,2,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 113 v.Chr.,,-0113-03,-0113-04,πυρου,167.5,αρταβαι,166,χαλκου,33.26,1,6,7,0,no,no,no,,,,"δάτων 34 ἀν ὰ 4 1/2 1/3 1/12 ἀρτάβαι 167 1/2 ,
+ὧν πυροῦ 166 χαλκοῦ 1 1/2 .
+τῆς ἐν τῶι",OTHER,,0.0,,
+p.tebt;1;72,2,7,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 113 v.Chr.,,-0113-03,-0113-04,πυρου,143,αρταβαι,8,χαλκου,31.7,1,11,12,0,no,no,no,,,,"2 9 ἀν ὰ 4 1/2 1/3 1/12 ἀρτάβαι 143 ,
+ὧν πυροῦ 132 1/2 ὀλ ύρας αἳ πυροῦ 8 χαλκοῦ 2 1/2 .
+τῆς ἐν τῶι",OTHER,,0.0,,
+p.tebt;1;72,2,8,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 113 v.Chr.,,-0113-03,-0113-04,πυρου,96.5,αρταβαι,10,χαλκου,27.19,5,6,11,0,no,no,no,,,,"ἔτει 20 ἀν ὰ 4 1/2 1/3 1/12 ἀρτάβαι 96 1/2 ,
+ὧν πυροῦ ὀλ ύρας αἳ πυροῦ 10 χαλκοῦ
+τῆς ἐν τῶι 20 ἔτει ἀρτάβαι",OTHER,,0.0,,
+p.tebt;1;72,2,9,1,yes,ab,Report on the Crops at Kerkeosiris,Kerkeosiris (Arsinoites),März - Apr. 113 v.Chr.,,-0113-03,-0113-04,πυρου,96.5,αρταβαι,10,χαλκου,33.67,1,10,11,0,no,no,no,,,,"ἔτει 20 ἀν ὰ 4 1/2 1/3 1/12 ἀρτάβαι 96 1/2 ,
+ὧν πυροῦ ὀλ ύρας αἳ πυροῦ 10 χαλκοῦ
+τῆς ἐν τῶι 20 ἔτει ἀρτάβαι",OTHER,,0.0,,
+p.tebt;3.1;796,1,1,1,yes,ab,Notification of Theft,"Tebtynis (Arsinoites, Ägypten)",17. Nov. 185 v.Chr.,-0185-11-17,,,σιτων,,,90,δραχμαι,27.49,10,-1,10,0,yes,yes,no,,,,"οἴχονται ἔ
+χοντες ἐν τῆι προστάδι σφυρίδα σίτων ἐν ἧι ἐνῆν
+κρ ιθῆς ἡμιαρτάβιον, ἧς τιμὴ δραχμαὶ 90 καὶ τῆς σφυρί
+δος δραχμαὶ 20",PRICE,priceword_ext,0.6,,
+p.thomas;;26r,1,1,1,yes,ab,Schedule of Prices and Shipping List,unbekannt,V,,0401,0500,σιτου,8,αρταβων,1,δηναριων,26.25,7,1,8,0,no,no,no,,,,"διατύπωσις ὠνίων
+τοῦ νο μισματίου 1 δηναρίων μυριάδες 4800
+τῶ ν σίτου ἀρταβῶν 8 ν ο μισματίου 1",OTHER,,0.0,,
+p.yale;4;153,1,1,1,yes,ab,Memorandum with a List of Real Estate and a List of Stolen Goods,Oxyrhynchites,I v.Chr.,,-0100,-0001,πυρου,35,αρταβαι,15,ταλαντα,27.94,3,1,3,0,no,no,no,,,,"ἀξ ίαν τάλαντα 8
+ἔστιν τὰ διηρπασμένα· πυροῦ ἀρτάβαι 35 τάλαντα 15",OTHER,,0.0,,
+psi;12;1263,1,2,1,yes,ab,Frammento di testamento,Oxyrhynchos,166 - 167,,0166,0167,πυρου,1,αρταβασ,24,δραχμασ,27.71,6,1,6,0,no,no,no,,,,"Ταυσίρι ἐφʼ
+ὅσον ζῇ κα τὰ μῆνα πυροῦ ἀρτάβας 1/2 καὶ κατʼ ἔτος δραχμὰς 24 καὶ ἐνοίκησι ν ἐνοικησι ἐν τῷ προγεγραμμένῳ",OTHER,,0.0,,
+psi;6;616,1,1,1,yes,ab,Frammento di lettera,Philadelphia (Arsinoites),258 - 256 v.Chr.,,-0258,-0256,σταχυιοσ,,,6,δραχμασ,26.01,1,-1,1,0,no,no,no,,,,"καὶ ἄλλο εὐτελὲς εὐτελὴς ἀγοράσας
+παρὰ Στάχυιος δραχμὰς 6
+ἀπέδοτο τῶν πολυ
+τελη στρωμάτων",OTHER,,0.0,,
+psi;7;801,1,1,1,yes,ab,Appunti di interessi privati,unbekannt,II (?),,0101,0200,πυρου,2,αρταβων,72,δραχμαι,26.32,6,1,7,0,no,no,no,,,,"Φαμενὼθ 1
+Ἥρωνι Ἱππομ α χ δραχμαὶ 72 κ αὶ χρῆσι ς πυροῦ ἀρταβῶν 2 ἀπόδ οσις Παῦνι",OTHER,,0.0,,
+sb;14;11908,1,2,1,yes,ab,Kolumne einer Buchführung,Oxyrhynchites,ca. 260,0260,,,σιτολ,1,αρταβην,7,δραχμασ,27.87,4,9,13,0,no,no,no,,,,"ὁμοί ως
+Πολυτείμῳ ὧν λόγον δώσει πυροῦ ἀρτάβην 1
+τῷ αὐτῷ Πολυτείμῳ εἰς λ όγον σιτολ όγων σειτολ όγων δραχμὰς 7
+Οὐάλεντι ἀμπελουργῷ κτήμα τος Διον ύσου",OTHER,,0.0,,
+sb;14;12128,1,2,1,yes,ab,Abrechnung über Weizenleistungen,Arsinoites (?),II,,0101,0200,πυρου,124,αρταβαι,12,δραχμασ,39.97,5,1,5,0,no,yes,no,,,,"ησαν το ῖ ς πράκ τορσιν
+σιτικοῦ πυροῦ ἀρτάβαι 124
+ἀνὰ δραχμὰς 12 , δραχμαὶ 1488 .
+αιμου πυροῦ",PRICE,rate_construction,0.8,,
+sb;14;12128,1,3,1,yes,ab,Abrechnung über Weizenleistungen,Arsinoites (?),II,,0101,0200,πυρου,13,αρταβαι,1488,δραχμαι,47.96,5,1,6,0,no,yes,no,,,,"πυροῦ ἀρτάβαι 124
+ἀνὰ δραχμὰς 12 , δραχμαὶ 1488 .
+αιμου πυροῦ ἀρτάβαι 13
+γίνονται αἱ προκ είμεναι πυροῦ ἀρτάβαι",PRICE,rate_construction,0.8,,
+sb;14;12128,1,4,1,yes,ab,Abrechnung über Weizenleistungen,Arsinoites (?),II,,0101,0200,πυρου,174.666667,αρταβαι,1488,δραχμαι,31.44,13,1,14,0,no,yes,no,,,,"πυροῦ ἀρτάβαι 124
+ἀνὰ δραχμὰς 12 , δραχμαὶ 1488 .
+αιμου πυροῦ ἀρτάβαι 13
+γίνονται αἱ προκ είμεναι πυροῦ ἀρτάβαι 174 2/3
+η δημ
+ἀρταβ",PRICE,rate_construction,0.8,,
+sb;16;12675,1,1,1,yes,ab,Abrechnung,Tebtynis (Arsinoites),13. Aug. - 11. Sept. 100 v.Chr. (?),,-0100-08-13,-0100-09-11,πυρου,2.833333,αρταβων,3005,χαλκου,29.29,5,1,6,0,no,no,no,,,,"70
+γίνονται 705
+γίνεται τὸ πᾶν χαλκοῦ 3005
+ἀνὰ 1080 πυροῦ ἀρταβῶν 2 1/2 1/3 ιε
+Παρμοῦθις 15 Ὧρος",OTHER,,0.0,,
+sb;16;12695,1,1,1,yes,ab,Jahresabrechnung in Steuersachen nebst Tarif von Marktsteuern,Oxyrhynchos,nach 29. Aug. 143,,0143-08-29,,σιτοκαπη,,,40,δραχμασ,34.72,2,-1,2,0,no,yes,no,,,,",
+ἐρι εμ πόρων δραχμὰς 44 , σιτοκαπή λων δραχμὰς 40 ,
+κασοποιῶ ν δραχμὰς 4 ,",PRICE,sale_verb,0.5,,
+sb;18;13118,1,3,1,yes,ab,Fragmente einer Priesterliste und Tempelabrechnung,Tebtynis (Arsinoites),Ende II,,0176,0200,πυρου,26,αρταβαι,16,δραχμαι,32.88,3,1,3,0,no,no,no,,,,"π
+μι σθοῦ αὐτοῖς τοῖς ἁγνεύουσι
+πυροῦ ἀρτάβαι 26 16 δραχμαὶ καὶ πυροῦ ἀρτάβαι 9 καὶ α",OTHER,,0.0,,
+sb;18;13118,1,4,1,yes,ab,Fragmente einer Priesterliste und Tempelabrechnung,Tebtynis (Arsinoites),Ende II,,0176,0200,πυρου,9,αρταβαι,16,δραχμαι,32.88,3,1,4,0,no,no,no,,,,"σθοῦ αὐτοῖς τοῖς ἁγνεύουσι
+πυροῦ ἀρτάβαι 26 16 δραχμαὶ καὶ πυροῦ ἀρτάβαι 9 καὶ α
+τοῖς ἱερεῦσι τοῖς ἁγν",OTHER,,0.0,,
+sb;18;13145,1,3,1,yes,ab,Auflistung von Zahlungen in Getreide und Geld,Euhemeria (Arsinoites),nach 110 (?),,0110,,πυρο,1,αρταβην,2,δραχμασ,25.93,3,2,3,0,no,no,no,,,,"26
+Πανσ ν εῦς τέκ τω ν πυρο ῦ ἀρτάβην 1/2 δραχμὰς 14 1 καὶ τ ό κ ον",OTHER,,0.0,,
+sb;18;13145,1,4,1,yes,ab,Auflistung von Zahlungen in Getreide und Geld,Euhemeria (Arsinoites),nach 110 (?),,0110,,πυρ,1,αρταβην,2,δραχμασ,25.93,3,2,3,0,no,no,no,,,,"κ ον
+Ψεν α τῦμις οἰκοδόμ ος πυρ οῦ ἀρτάβην 1/2 δραχμὰς 14 καὶ δραχμὰς 2 καὶ τόκ ον",OTHER,,0.0,,
+sb;18;13763,1,4,1,yes,ab,Abrechnung über Tempelausgaben,Arsinoites,21. Sept. 111,0111-09-21,,,πυρου,22.625,αρταβαι,108,δραχμαι,32.88,3,1,4,0,no,no,no,,,,"ύ λαι
+182 1/2 γίνονται ἀργ υρίου δραχμαὶ 108 αἳ πυροῦ ἀρτάβαι 22 1/2 1/8 κ αὶ πυροῦ ἀρτάβη 1",OTHER,,0.0,,
+sb;18;14039,2,3,1,yes,ab,Liste von Steuerschulden,Oxyrhynchites (?),nach 368 - 369,,0368,0369,σιτου,384,αρταβαι,53,ταλαντα,32.88,3,1,4,0,no,no,no,,,,"τὸν χό ρ το ν
+Γαλάτου ἀργυρίου τάλαντα 53
+σίτου ἀρτάβαι 384
+κριθῶν ἀρτάβαι 21
+λαχάνου ἀρτάβη",OTHER,,0.0,,
+sb;18;14039,2,4,1,yes,ab,Liste von Steuerschulden,Oxyrhynchites (?),nach 368 - 369,,0368,0369,κριθων,21,αρταβαι,53,ταλαντα,26.25,7,1,8,0,no,no,no,,,,"τὸν χό ρ το ν
+Γαλάτου ἀργυρίου τάλαντα 53
+σίτου ἀρτάβαι 384
+κριθῶν ἀρτάβαι 21
+λαχάνου ἀρτάβη 1
+σησάμου ἀρτάβαι",OTHER,,0.0,,
+sb;20;15030,1,2,1,yes,ab,Torzoll - Register,unbekannt,II - III,,0101,0300,πυρου,2,αρταβαι,3,δραχμαι,27.42,28,1,28,0,no,yes,no,,,,"ἐ ξ άγων ὄνο ν 1 1 πυροῦ ἀρτάβαι 2
+ἐ ξ άγων πῶλ ον 1 πυροῦ ἀρτάβαι 4 2
+κ αμ ή λ ους 5 π ώλους 2 πυροῦ ἀρτάβαι 38 δραχμαὶ δραχμαὶ 3 1
+Ἡρα Ἡρᾶς ἐ ξ άγων",PRICE,sale_verb,0.5,,
+sb;20;15030,1,3,1,yes,ab,Torzoll - Register,unbekannt,II - III,,0101,0300,πυρου,4,αρταβαι,3,δραχμαι,31.21,18,1,18,0,no,yes,no,,,,"2
+ἐ ξ άγων πῶλ ον 1 πυροῦ ἀρτάβαι 4 2
+κ αμ ή λ ους 5 π ώλους 2 πυροῦ ἀρτάβαι 38 δραχμαὶ δραχμαὶ 3 1
+Ἡρα Ἡρᾶς ἐ ξ άγων",PRICE,sale_verb,0.5,,
+sb;20;15030,1,4,1,yes,ab,Torzoll - Register,unbekannt,II - III,,0101,0300,πυρου,38,αρταβαι,3,δραχμαι,46.01,4,1,4,0,no,yes,no,,,,"αμ ή λ ους 5 π ώλους 2 πυροῦ ἀρτάβαι 38 δραχμαὶ δραχμαὶ 3 1
+Ἡρα Ἡρᾶς ἐ ξ άγων",PRICE,sale_verb,0.5,,
+sb;20;15030,1,5,1,yes,ab,Torzoll - Register,unbekannt,II - III,,0101,0300,πυρου,16,αρταβαι,1,δραχμη,31.23,3,1,3,0,no,no,no,,,,"κ αμ ήλ ους 2 π ῶλον 1 πυροῦ ἀρτάβαι 16 δραχμὴ 1 2
+Εὐτυχίδ ης ὄνο υς 2",OTHER,,0.0,,
+sb;20;15030,1,7,1,yes,ab,Torzoll - Register,unbekannt,II - III,,0101,0300,πυρου,26,αρταβαι,4,δραχμαι,47.88,3,1,3,0,no,yes,no,,,,"κ αμ ήλ ους 3 π ώλους 2 πυροῦ ἀρτάβαι 26 δραχμαὶ 4 2
+Μάξιμ ος ἐ ξ άγων",PRICE,sale_verb,0.5,,
+sb;24;15931,1,1,1,yes,ab,Liste von Zahlungen u.a. für φόρος νομῶν und φόρος σ(),Arsinoites,III,,0201,0300,σιτου,,,8,δραχμαι,28.4,9,-1,9,0,no,yes,no,,,,"Κάστωρ Τούρβων ος φό ρου ς γ ίνονται δραχμαὶ 8
+Λάμπωνι ναύτ ῃ ὑ πὲρ
+σίτου καὶ λαρίου κ αὶ
+τιμῇ τειμ κοπτιτικ",PRICE,priceword_ext,0.6,"ADMIN,TRANSPORT",
+sb;28;17170,1,1,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,6,αρταβασ,24,δραχμασ,27.83,5,1,5,0,no,no,no,,,,"Ὀλυμπιάδος ἄρουραι 2 δίμοιρον
+23 ἔτους ἀνὰ πυροῦ ἀρτάβας 6 καὶ υ δραχμὰς 24 ὡς εἶν αι
+πυροῦ ἀρτάβας 8",OTHER,,0.0,,
+sb;28;17170,1,2,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,8,αρταβασ,24,δραχμασ,26.32,6,1,7,0,no,no,no,,,,"23 ἔτους ἀνὰ πυροῦ ἀρτάβας 6 καὶ υ δραχμὰς 24 ὡς εἶν αι
+πυροῦ ἀρτάβας 8 καὶ ἀργ υρίου δραχμὰς 32 , ὧν",OTHER,,0.0,,
+sb;28;17170,1,3,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,4.166667,αρταβαι,32,δραχμαι,26.36,5,1,5,0,no,no,no,,,,"δο χικῷ 3 1/2 1/3
+λοιπ αὶ πυροῦ ἀρτάβαι 4 1/6 καὶ δραχμαὶ 32
+24 ἔτους ὁμ οίως ἀνὰ πυροῦ",OTHER,,0.0,,
+sb;28;17170,1,4,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,6,αρταβασ,24,δραχμασ,26.36,5,1,5,0,no,no,no,,,,"δραχμαὶ 32
+24 ἔτους ὁμ οίως ἀνὰ πυροῦ ἀρτάβας 6 καὶ υ δραχμὰς 24
+πυροῦ ἀρτάβαι 8 ἀργ υρίου δραχμαὶ",OTHER,,0.0,,
+sb;28;17170,1,5,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,8,αρταβαι,24,δραχμασ,29.59,3,1,4,0,no,no,no,,,,"ὁμ οίως ἀνὰ πυροῦ ἀρτάβας 6 καὶ υ δραχμὰς 24
+πυροῦ ἀρτάβαι 8 ἀργ υρίου δραχμαὶ 32 , ὧν δι",OTHER,,0.0,,
+sb;28;17170,1,6,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,4.166667,αρταβαι,32,δραχμαι,27.83,5,1,5,0,no,no,no,,,,"δο χικῷ 3 1/2 1/3
+λοιπ αὶ πυροῦ ἀρτάβαι 4 1/6 καὶ δραχμαὶ 32
+25 ἔτους ὁμ οίως πυροῦ ἀρτάβαι",OTHER,,0.0,,
+sb;28;17170,1,7,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,8,αρταβαι,32,δραχμαι,26.25,7,1,8,0,no,no,no,,,,"λοιπ αὶ πυροῦ ἀρτάβαι 4 1/6 καὶ δραχμαὶ 32
+25 ἔτους ὁμ οίως πυροῦ ἀρτάβαι 8 ἀρ γυ ρίου δραχμαὶ λβ ὧν δι",OTHER,,0.0,,
+sb;28;17170,1,8,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,4.166667,αρταβαι,32,δραχμαι,27.83,5,1,5,0,no,no,no,,,,"δο χικῷ 3 1/2 1/3
+λοιπ αὶ πυροῦ ἀρτάβαι 4 1/6 καὶ δραχμαὶ 32
+26 ἔτους ὁμ οίως πυροῦ ἀρτάβαι",OTHER,,0.0,,
+sb;28;17170,1,9,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,8,αρταβαι,32,δραχμαι,29.46,4,1,4,0,no,no,no,,,,"καὶ δραχμαὶ 32
+26 ἔτους ὁμ οίως πυροῦ ἀρτάβαι 8 καὶ δραχμαὶ 32 ὧν
+δι ασταλεῖσαι διὰ Ὀλυμπ ιάδος",OTHER,,0.0,,
+sb;28;17170,1,11,1,yes,ab,Aufstellung von Pachtzinszahlungen,Hermopolites,187 - 188,,0187,0188,πυρου,8,αρταβαι,32,δραχμαι,31.01,4,1,4,0,no,no,no,,,,"3 1/2 1/3
+27 ἔτους ὁμ οίως πυροῦ ἀρτάβαι 8 καὶ δραχμαὶ 32
+δι ασταλεῖσαι δι ὰ θη σ",OTHER,,0.0,,
+sb;30;17425,1,1,1,yes,ab,Landregister,"Hermopolites, Ägypten",1. Hälfte IV,,0301,0350,πυρου,1,αρταβησ,1,ταλαντ,26.25,7,1,7,0,no,no,no,,,,"ἐ σ π αρμένης ἀρουρ- 1/4
+ἀνὰ πυροῦ ἀρτάβης 1/6 καὶ ἀ ργ υρίου τάλαντ- 1
+δι ὰ Ἀχιλλέως τοῦ κ α",OTHER,,0.0,,
+sb;6;9017_8,1,2,1,yes,ab,Privatbrief,Wâdi Fawâkhir,I - II,,0001,0200,κριθην,,,16,δραχμων,31.04,10,-1,10,0,no,yes,no,,,,"οἴσῃ οἴσι · ὧδε
+γ ὰ ρ δραχμῶν 16 ἐστιν ἡ ἀρτάβη. ἐὰν ᾖς
+πεπρακὼς τὴν κριθὴν κρειθὴν πέμψεις
+ἐ μοὶ τὸν χαλκὸν διὰ",PRICE,sale_verb,0.5,,
+sb;6;9420,1,1,1,yes,ab,Klageschrift einer ägyptischen Getreidehändlerin wegen einer als Darlehen gestundeten Kaufpreisschuld,unbekannt,ca. 129 v.Chr.,-0129,,,πυρου,,,4000,δραχμασ,35.82,3,-1,3,0,yes,yes,no,,,,"αν δανείου
+χαλ κοῦ τάλ αντα 6 δραχμὰς 4000 τιμὴν πυροῦ 100
+ὧν ἤμην διʼ αὐτῶν π αραμε",PRICE,priceword_ext,0.6,LOAN,
+upz;1;105,1,1,1,yes,ab,Rechnung,Memphis,172 - 152 v.Chr. (?),,-0172,-0152,σιτου,,,1000,δραχμασ,32.51,4,-1,4,0,yes,yes,no,,,,"Πολέμωνος λόγος· ἀπέχει ἀπέχι
+σίτου τιμῆ ς τιμη δραχμὰς 1000 . τούτων
+ἀπέχω δραχμὰς 800 λοιπαὶ",PRICE,priceword_ext,0.6,,
+upz;1;118,1,1,1,yes,ab,Ein Vollstreckungsbefehl an den Gerichtsvollzieher,Memphis,10. Febr. 147 v.Chr. (Jahr unsicher),-0147-02-10,,,ολυρων,60,αρταβασ,72,δραχμασ,26.32,6,1,6,0,no,no,no,,,,"Ἀσκληπιάδι εἰς τὸ χορηγεῖν ταύτηι κατʼ καθʼ ἔτος ὀλυρῶν ἀρτάβας 60 καὶ ἀργ υρίου δραχμὰς 72
+συ νευδοκησάσης τῆς τε τοῦ Ψινταέους",OTHER,,0.0,,
+upz;1;52,1,1,1,yes,ab,Entwürfe des Ptolemaios,Memphis,nach 10. Jan. 161 v.Chr.,,-0161-01-10,,ολυραν,,,300,δραχμων,25.91,16,-1,16,0,no,yes,no,,,,"ἰλήφασι ψωμόν ψομόν . πωλοῦσι πολοῦσι αὐτῶν τὴν ὄλυραν
+διὰ τὴν τιμιώραν τιμιόραν τοῦ σίτου ἐκ τρι ά κοντα μνῶν
+τὴν ἀρτάβην δραχμῶν 300 , αἱ δὲ δίδυμαι τῆι λιμῶι",PRICE,sale_verb,0.5,,
+upz;1;52,1,2,1,yes,ab,Entwürfe des Ptolemaios,Memphis,nach 10. Jan. 161 v.Chr.,,-0161-01-10,,σιτου,,,300,δραχμων,32.17,9,-1,9,0,no,yes,no,,,,"τὴν ὄλυραν
+διὰ τὴν τιμιώραν τιμιόραν τοῦ σίτου ἐκ τρι ά κοντα μνῶν
+τὴν ἀρτάβην δραχμῶν 300 , αἱ δὲ δίδυμαι τῆι λιμῶι",PRICE,sale_verb,0.5,,
+upz;1;93,1,1,1,yes,ab,Brief des Apollonios an Ptolemaios,Memphis,17. Juli 159 v.Chr.,-0159-07-17,,,σιτου,,,2,δραχμων,28.95,3,-1,3,0,no,yes,no,,,,"1 δραχμαὶ 140 .
+τούτων ἠγόρακα ἠγώρακα σίτου ἀρ τάβας 2 δραχμῶν 630 , Ἵππωνι δραχμὰς 1300
+καὶ",PRICE,sale_verb,0.5,,
+upz;1;99,1,1,1,yes,ab,Rechnung,Memphis,27. Aug. 158 v.Chr.,-0158-08-27,,,σιτου,3.5,αρταβασ,2840,δραχμαι,29.02,4,2,6,0,no,no,no,,,,"ἥως Ἐπεὶφ 30 τοῦ παντὸς
+λόγου λογον δραχμαὶ 2840 καὶ τοῦ σίτου
+ἀρτάβας 3 1/2 .",OTHER,,0.0,,
+bgu;16;2577r,2,1,1,yes,ab,Tax List,Herakleopolis,30 v.Chr. - 14 n.Chr.,,-0030,0014,πυρων,,,4,χαλκευσ,26.01,1,-1,1,0,no,no,no,,,,"Διομήδης 4
+Ἀμμῶνις Παυσιμά χου 4
+Πύρων χαλκεὺς 4
+Πετεχ ῶ ν Ὥρου λίνυφος δ",OTHER,,0.0,,
+o.ashm.shelt;;53,1,1,1,yes,ab,List of Payments,unbekannt,II,,0101,0200,πυρωνοσ,,,4,δραχμαι,27.13,1,-1,1,0,no,yes,no,,,,"Κροῦρις Ἀνουβᾶ δραχμαὶ 4 δραχμαὶ 3
+Ὀνῆς Πύρωνος δραχμαὶ 4
+Πετεμοῦ γις Παχου Κερα δραχμαὶ 2",PRICE,sale_verb,0.5,,
+o.stras;1;675,1,1,1,yes,ab,keiner,Ta Memnoneia (Theben) oder Hermonthis,II,,0101,0200,σιτο,,,1,δραχμησ,37.1,4,-1,4,0,no,yes,no,,,,"1
+10 ἄνδ ρες 1 εἰς καθαρει σιτο εριγινα
+ἐκ δραχμῆς 1 1
+παῖδ ες 1 καίειν τὰ",PRICE,rate_construction,0.8,,
+p.berl.zill;;10,1,1,1,yes,ab,Privatbrief,unbekannt,I - II,,0001,0200,πυρον,,,6,δραχμασ,26.38,10,-1,10,0,no,yes,no,,,,"φαίνηταί σοι,
+ὡς εἶπες, πωλῆσαι
+τὸν πυρὸν ἐκ δρα
+χμῶν 6 4 ἔτους
+ἔχεις δραχμὰς 6 .",PRICE,sale_verb,0.5,,
+p.cair.zen;2;59206,3,1,1,yes,ab,Account of tax - payments,Philadelphia? (Arsinoites),nach 24. März 254 v.Chr.,,-0254-03-24,,σιτ,,,30,δραχμαι,35.04,4,-1,4,0,no,yes,no,,,,"μηνῶν 5 ἀν ὰ δραχμὰς 6 γίνονται δραχμαὶ 30
+τετάρτης σιτ ο ποιῶν
+ἀνὰ δραχμὰς 2 γίνονται δραχμαὶ",PRICE,rate_construction,0.8,,
+p.oxy;41;2986,1,1,1,yes,ab,Letter of Chaeremon to Theon,Oxyrhynchos,II - III,,0101,0300,κριθην,,,17,οβολου,27.68,17,-1,17,0,no,yes,no,,,,"ἡμεῖν μού ι
+α 15 ἐκ δραχμῶν 17 ὀβολοῦ . πέμψον μοι ο ὖ ν
+εἰς τὰ ἀναλώματα κερμάτ ιο ν
+καὶ κριθὴν κρειθ ὴ ν εἰ ς τὴν κατασποράν κατασποδάν",PRICE,rate_construction,0.8,,
+p.prag.varcl;NS;8,1,1,1,yes,ab,Rechnungsrollen des Heroneinos,Theadelphia (Arsinoites),ca. 250,0250,,,κριθην,,,16,δραχμων,25.84,8,-1,8,0,no,yes,no,,,,"τίλλοντες ὄροβον τό που
+ἀρουρῶν 4 ἐκ δραχμῶν 16
+καὶ τόπου Ἀρχιλάου
+θερίζοντες κριθὴν τό που
+καὶ τόπου Πάιτος κα ὶ",PRICE,rate_construction,0.4,,
+p.princ;2;56,1,1,1,yes,ab,Account,unbekannt,153 - 154,,0153,0154,κριθη,,,22,δραχμων,35.0,9,-1,9,0,no,yes,no,,,,"ρου καὶ καλλιμόρφ ο υ
+ἐπράθη κριθὴ ἐπὶ τοῦ αὐτ οῦ
+καὶ φακὸς ἐκ δραχμῶν 22
+ἔτους 17 Ἀντωνίνου Καίσαρος τοῦ κυρίου,",PRICE,rate_construction,0.8,,
+sb;24;16060,1,1,1,yes,ab,Brieflicher Auftrag,Mons Claudianus,1. Hälfte II,,0101,0150,σιτον,,,8,δραχμαι,30.51,5,-1,5,0,no,yes,no,,,,"3
+Σανσν ῶ τι Π γ ητι δραχμαὶ 8
+πωλήσατε τὸν σῖτον σεῖτον καὶ πλη
+ρώσατε εἰς ἰς ἀναπλήρωσιν",RATION,sale_verb,0.5,RATION,weak_positive(0.5)+negative(RATION)
+sb;28;17138,1,1,1,yes,ab,Medizinisches Rezept oder Brief medizinischen Inhalts,Lykopolis,V,,0401,0500,πυρεθρου,,,1,δραχμην,26.01,1,-1,1,0,no,no,no,,,,"κους καὶ πρὸς
+πυρέθρου δραχμὴν 1
+μή κωνος, μέλιτος τὸ ἀρκοῦν",OTHER,,0.0,,

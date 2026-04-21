@@ -1,0 +1,69 @@
+﻿Harper_Source,Period,Date_Earliest,Date_Latest,Price_Literal,Nome,DDB_IDs_Matched,In_Candidates,In_RuleBased,In_LLM,Notes
+P. Mich. 2.127,1-3C,45,45,6.83,Arsinoites/ Krokodeilopolites Nomos,p.mich;2;127,True,True,True,"average of six prices: in dr, 4.36, 5.71, 8, 7.27, 7.62, 8; Rathbone and von Reden Table A8.12; Rathbone says following poor inundation"
+P. Mich. 2.123,1-3C,46,46,8.73,Arsinoites/ Krokodeilopolites Nomos,p.mich;2;123,True,True,True,Rathbone and von Reden Table A8.12; Rathbone says following poor inundation
+SB 20.14576.34,1-3C,46,47,6,Arsinoites/ Krokodeilopolites Nomos,sb;20;14576,True,True,True,Rathbone and von Reden Table A8.12; Rathbone says following poor inundation
+SB 8.9699,1-3C,78,79,10.67,Hermopolites Nomos,sb;8;9699,True,True,True,average of three prices in same doc; Rathbone and von Reden Table A8.12
+P. Louvre 2.103,1-3C,75,125,5,Arsinoites/ Krokodeilopolites Nomos,p.louvre;2;103,True,True,True,Rathbone and von Reden Table A8.12
+P. Sarap. 60.10,1-3C,124,124,9,Hermopolites Nomos,p.sarap;;60,True,False,True,Rathbone and von Reden Table A8.12
+P. Sarap. 92.18-19,1-3C,100,130,7,Hermopolites Nomos,p.sarap;;92,True,False,False,Rathbone and von Reden Table A8.12
+P. Sarap. 79b,1-3C,128,128,12,Hermopolites Nomos,p.sarap;;79b,True,False,True,Rathbone and von Reden Table A8.12
+PSI 4.281,1-3C,138,139,5.6,Oxyrhynchites Nomos,psi;4;281,True,False,False,Rathbone and von Reden Table A8.12
+P.Berl.Zill.10,1-3C,100,200,6,Hermopolites Nomos,p.berl.zill;;10,True,True,False,Rathbone and von Reden Table A8.12
+P. Erl. 92.6-9,1-3C,100,200,8,unknown,p.erl;;92,False,False,False,Rathbone and von Reden Table A8.12
+SPP 22.110,1-3C,100,200,8,Arsinoites/ Krokodeilopolites Nomos,stud.pal;22;110,False,False,False,Rathbone and von Reden Table A8.12
+O. Ashm. 91,1-3C,100,200,9,unknown,o.ashm;;91,True,True,True,Rathbone and von Reden Table A8.12
+P. Berl. Leigh. 2.39 recto 64,1-3C,160,160,8.00 or 12.00,Arsinoites/ Krokodeilopolites Nomos,p.berl.leihg;2;39,True,False,True,Rathbone and von Reden Table A8.12
+P. Cair. Goodsp. 30,1-3C,192,192,18.67,Arsinoites/ Krokodeilopolites Nomos,p.cair.goodsp;;30,True,True,True,Rathbone and von Reden Table A8.12
+SB 16.12607,1-3C,175,200,12,Arsinoites/ Krokodeilopolites Nomos,sb;16;12607,True,False,True,Rathbone and von Reden Table A8.12
+P. Iand. 6.94,1-3C,175,200,18,Arsinoites/ Krokodeilopolites Nomos,p.iand;6;94,True,True,True,Rathbone and von Reden Table A8.12
+SB 16.12981,1-3C,175,200,20,Arsinoites/ Krokodeilopolites Nomos,sb;16;12981,False,False,False,Rathbone and von Reden Table A8.12
+P. Lund 4.11,1-3C,202,,20,Arsinoites/ Krokodeilopolites Nomos,p.lund;4;11,True,True,True,Rathbone and von Reden Table A8.12
+P. NYU 2.8,1-3C,202,232,16,Oxyrhynchites Nomos,p.nyu;2;8,False,False,False,Rathbone and von Reden Table A8.12
+P. Louvre 1.51,1-3C,215,217,16.4,Arsinoites/ Krokodeilopolites Nomos,p.louvre;1;51,True,True,True,average of five prices; Rathbone and von Reden Table A8.12
+P. Louvre 1.54,1-3C,217,218,14.57,Arsinoites/ Krokodeilopolites Nomos,p.louvre;1;54,True,True,True,average of seven prices in the same document; Rathbone and von Reden Table A8.12
+P. Laur. 1.11,1-3C,226,242,12,Arsinoites/ Krokodeilopolites Nomos,p.laur;1;11,True,False,False,Rathbone and von Reden Table A8.12
+P. Grenf. 1.51,1-3C,200,300,19.43,Arsinoites/ Krokodeilopolites Nomos,p.grenf;1;51,True,True,True,Rathbone and von Reden Table A8.12
+BGU VII 1717,1-3C,200,300,20,Arsinoites/ Krokodeilopolites Nomos,bgu;7;1717,True,False,True,Rathbone and von Reden Table A8.12
+P. Prince. 3.175,1-3C,200,300,24,unknown,p.princ;3;175,False,False,False,Rathbone and von Reden Table A8.12
+P. Flor. 1.9b,1-3C,249,249,24,Arsinoites/ Krokodeilopolites Nomos,p.flor;1;9b,False,False,False,Rathbone and von Reden Table A8.12
+"P. Prag. Varcl. 2.2, 3.240",1-3C,250,250,20,Arsinoites/ Krokodeilopolites Nomos,"p.prag.varcl;2;2,",False,False,False,Rathbone and von Reden Table A8.12
+SB 20.14645,1-3C,251,251,20,Arsinoites/ Krokodeilopolites Nomos,sb;20;14645,True,True,True,Rathbone and von Reden Table A8.12
+P. Prag. Varcl. 2.4,1-3C,252,252,24,Arsinoites/ Krokodeilopolites Nomos,p.prag.varcl;2;4,False,False,False,Rathbone and von Reden Table A8.12
+SB 20.14197,1-3C,253,253,16,Arsinoites/ Krokodeilopolites Nomos,sb;20;14197,True,True,True,Rathbone and von Reden Table A8.12
+P. Lond. 3.1226,1-3C,254,254,12,Arsinoites/ Krokodeilopolites Nomos,p.lond;3;1226,True,True,True,Rathbone and von Reden Table A8.12
+BGU 1.14,1-3C,255,255,16,Arsinoites/ Krokodeilopolites Nomos,bgu;1;14,True,False,True,Rathbone and von Reden Table A8.12
+P. Flor. 3.321,1-3C,255,259,12,Arsinoites/ Krokodeilopolites Nomos,p.flor;3;321,True,True,True,Rathbone and von Reden Table A8.12
+P. Sorb. Inv. 2186,1-3C,255,260,16,Arsinoites/ Krokodeilopolites Nomos,p.sorb;inv;2186,False,False,False,Rathbone and von Reden Table A8.12
+P. Prag. 3.236,1-3C,259,259,16,Arsinoites/ Krokodeilopolites Nomos,p.prag;3;236,True,True,True,Rathbone and von Reden Table A8.12
+"P. Oxy. 49.3513, 3516, 3518, 3519",1-3C,260,260,16,Oxyrhynchites Nomos,p.oxy;49;3513; p.oxy;49;3516; p.oxy;49;3518; p.oxy;49;3519,True,True,True,Rathbone and von Reden Table A8.12
+P. Prag. Varcl. 2.6,1-3C,260,260,12,Arsinoites/ Krokodeilopolites Nomos,p.prag.varcl;2;6,False,False,False,Rathbone and von Reden Table A8.12
+P. Prag. 3.238,1-3C,263,263,12,Arsinoites/ Krokodeilopolites Nomos,p.prag;3;238,True,False,True,Rathbone and von Reden Table A8.12
+P. Erl. 101,1-3C,270,270,24,Oxyrhynchites Nomos,p.erl;;101,True,True,True,Rathbone and von Reden Table A8.12
+P. Oxy. 75.5063,1-3C,275,290,240?,Oxyrhynchites Nomos,p.oxy;75;5063,True,False,False,Rathbone and von Reden Table A8.12
+CPR 6.75,4C,301,301,640,Hermopolites Nomos,cpr;6;75,True,True,True,Rathbone and von Reden Table A8.15; Bagnall Kellis IV; Rathbone Monetisation 329
+P. Oxy. 36.2798,4C,304,305,1200,Oxyrhynchites Nomos,p.oxy;36;2798,True,False,False,Rathbone and von Reden Table A8.15; based on 1 lb silver = 32000 dr; Bagnall C&I; Rathbone Monetisation 329
+SB 20.14657,4C,300,310,852,Hermopolites Nomos,sb;20;14657,True,True,True,Rathbone and von Reden Table A8.15
+SB 16.12666,4C,305,310,1200,Middle Egypt?,sb;16;12666,False,False,False,Rathbone and von Reden Table A8.15
+P. Cair. Isid. 11,4C,311,311,1200,Arsinoites/ Krokodeilopolites Nomos,p.cair.isid;;11,True,False,False,Rathbone and von Reden Table A8.15
+P. NYU 1.18,4C,312,313,2000,Arsinoites/ Krokodeilopolites Nomos,p.nyu;1;18,True,False,False,Rathbone and von Reden Table A8.15; Bagnall C&I
+P. Oxy. 24.2421,4C,296,300,3936,Oxyrhynchites Nomos,p.oxy;24;2421,True,True,True,Rathbone and von Reden Table A8.15; Bagnall gives later range b/c of prices but some of names attested in 270s. Cannot use for real price because date uncertainty makes conversion to silver impossible. 
+CPR 8.22,4C,314,314,7000,Hermopolites Nomos,cpr;8;22,True,True,True,average of 6000 and 8000; Rathbone and von Reden Table A8.15; Bagnall C&I
+SB 5.7621 = P. Princ. Roll,4C,315,315,3000,Arsinoites/ Krokodeilopolites Nomos,sb;5;7621,False,False,False,Rathbone and von Reden Table A8.15
+P. Ryl. 4.706 v,4C,310,330,2000,Hermopolites Nomos,p.ryl;4;706,True,True,True,Rathbone and von Reden Table A8.15; Bagnall C&I
+P. Cair. Isid. 28,4C,310,330,6000,Arsinoites/ Krokodeilopolites Nomos,p.cair.isid;;28,True,False,True,Rathbone and von Reden Table A8.15
+P. Stras. 6.559,4C,310,330,7000,Arsinoites/ Krokodeilopolites Nomos,p.stras;6;559,True,True,True,Rathbone and von Reden Table A8.15; Bagnall C&I
+P. Worp 25,4C,323,330,1640.5,Hermopolites Nomos,p.worp;;25,True,False,True,Rathbone and von Reden Table A8.15 hypothesize could be  6640.5?; DNU - uncertain
+"PSI 4.309 = Stud. Pap. 21 (1982), p. 89 no. 1",4C,327,327,17333,Oxyrhynchites Nomos,psi;4;309,False,False,False,Rathbone and von Reden Table A8.15
+P. Lond. 6.1914,4C,335,335,84000 (=14T),Letter from Alexandria..,p.lond;6;1914,True,True,True,1 lb silver = 3.4M dr; Rathbone and von Reden Table A8.15; Bagnall C&I; Johnson and West 177
+V. Pachomii 33,4C,325,379,5 artabas/solidus,Tentyrites Nomos,v. pachomii 33,False,False,False,during grain shortage; Rathbone and von Reden Table A8.15
+"SB 16.12648 (P. Oxy. 1.85) = P. Oxy. 54 3772 (Coles, Revel A.) + SB 16 12648 (Rupprecht, Hans-Albert / Hengstl, Joachim)= P. Lond. 3 p. XXXII no. 760 descr. (Kenyon, Frederic G. / Bell, Harold Idris)= P. Oxy. 1 85 (Grenfell, Bernard P. / Hunt, Arthur S.)= Sel. Pap. 2 332 (Hunt, Arthur S. / Edgar, Campbell Cowan)= ZPE 39 (1980), p. 115-123 (Coles, Revel A.)",4C,338,338,"144,000 (=24T)",Oxyrhynchites Nomos,sb;16;12648,True,False,True,Rathbone and von Reden Table A8.15; Bagnall C&I
+P. Oxy. 54.3773,4C,340,340,275K (=~45-46T),Oxyrhynchites Nomos,p.oxy;54;3773,True,True,True,average of seven prices in same doc; Rathbone and von Reden Table A8.15; Bagnall C&I
+SB 14.11593,4C,340,340,156K (=26T),Hermopolites Nomos,sb;14;11593,True,False,False,Rathbone and von Reden Table A8.15
+SPP 20.75,4C,340,340,180K (=30T),Hermopolites Nomos,stud.pal;20;75,True,False,True,Rathbone and von Reden Table A8.15
+P. Abinn. 68,4C,340,350,"300,000 (=50T)",Arsinoites/ Krokodeilopolites Nomos,p.abinn;;68,True,True,True,Rathbone and von Reden Table A8.15; Bagnall C&I
+P. Princ. 3.183,4C,350,355,2004K (=334T),Middle Egypt?,p.princ;3;183,False,False,False,Rathbone and von Reden Table A8.15; Bagnall C&I
+P. Stras. 6.595 = SB 14.12154,4C,357,358,5076K (846T),Middle Egypt?,p.stras;6;595,False,False,False,Rathbone and von Reden Table A8.15; Bagnall C&I
+P. Oxy. 51.3625,4C,359,359,8202K (1367 T),Oxyrhynchites Nomos,p.oxy;51;3625,True,False,True,Rathbone and von Reden Table A8.15; Bagnall C&I
+P. Bingen 120,4C,366,366,5100 K (850T),Dakhla Oasis,p.bingen;;120,True,False,True,average of two prices; Rathbone and von Reden Table A8.15
+V. Pachomii 33,4C,370,379,13 artabas/solidus,Tentyrites Nomos,v. pachomii 33,False,False,False,more normal price Rathbone and von Reden Table A8.15
+P. Kellis 4.96,4C,362,378,8.75 artabas/solidus; average of two prices,Dakhla Oasis,p.kell;4;96,True,False,False,Rathbone and von Reden Table A8.15

@@ -1,0 +1,972 @@
+﻿DDB_ID,Mention_ID,Grain_Form,Context_Type,Signal_Strength,Neg_Signals,Rejection_Reason,Context_Window
+basp;50;89,1,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"χρῆσι ν ἔντοκο ν κ αὶ τειμὴ ν πυροῦ νέου καθαρο ῦ ἀδ όλου ἀρταβῶν
+Μαρωνὶς"
+bgu;20;2840,1,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),καὶ σιτωνίου χα λκοῦ τάλαντα 10 3961 1/2 πυροῦ ἀρταβῶν 1406 ἀντ α ναιρο υμένων δὲ ν
+bgu;20;2840,1,σιτ,RATION,0.0,RATION,no_positive+negative(RATION),τοῦ ὀψων ίου ἀνταξιου μενου καὶ τοῦ σιτ ων ίου τοῖς ἐν τῶι Ἡρακλεοπολί τ ηι
+bgu;3;717,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"κο ν καθʼ ἔτος
+καθαρὰς ἀπὸ δημοσίων πυροῦ ἀρτάβας δέκα δύο 12 καὶ Ἀμμώ
+νιος"
+bgu;3;834,1,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"οχ
+τες δεκα ν ίαν δ ος πυροῦ Ἀθηνίωνι κωμογραμματεῖ κωμογραμματῖ Σο κ νοπαίο υ"
+bgu;3;834,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"Θ ε μί στ ο υ
+μερίδος πυροῦ μέτρῳ δημοσίῳ δημωσίῳ τὸν μὲν Ἀ πῦ γχιν"
+bgu;6;1228,1,πυρων,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","τοῦ Λεοντίσκ ου
+κλήρου τῶν Ἀντιόχ ου πυρῶν 30 κριθῶν 11
+σῖτον σῖτογ καθαρὸν ἄδολον,"
+bgu;6;1228,1,κριθων,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ου
+κλήρου τῶν Ἀντιόχ ου πυρῶν 30 κριθῶν 11
+σῖτον σῖτογ καθαρὸν ἄδολον, ἀπομετρησάτω δὲ"
+bgu;7;1613,1,πυρου,TAX,0.0,"TAX,TRANSPORT","no_positive+negative(TAX,TRANSPORT)","ἀλ λ α φορετρ
+τιμ ῆ ς πυροῦ ἀρταβῶν 13 Νέρ ω νος
+γί νονται"
+p.berl.frisk;;1,9,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Θεμ ίστου
+μ ερίδ ος ὑπὲρ φορέτρων πυροῦ,
+ο ὗ κατή ξα μεν ἀπὸ θησαυρῶ"
+p.berl.frisk;;1,10,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ῶν δύο 2 μερίδων
+ὑπὲρ φορέτρ ων πυροῦ, οὗ ἐδ ηλ ώθ ημεν καταγειοχ έναι"
+p.berl.frisk;;1,11,πυρου,TAX,0.0,"TAX,TRANSPORT","no_positive+negative(TAX,TRANSPORT)","ιμῆς ς ,
+ἧς ἐποιησάμεθα ἀπεργασίας δημοσίου πυροῦ γν
+Ἀντωνίνου Καίσαρος τοῦ κυρίου τῷ Ἁθὺρ"
+p.berl.frisk;;1,11,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"18 ἔτους ἐπὶ τὸ αὐτὸ φορέτρων φολέτρων πυροῦ ἀρτάβας 102 1/2 1/6 1/48 , ὡς τῆς"
+p.berl.frisk;;1,15,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Πολ έμωνος μερίδων
+ὑ πὲρ φορέτρω ν πυροῦ,
+ο ὗ κα τ ῆ ξα ἀπὸ"
+p.berl.frisk;;1,17,πυρ,TAX,0.0,"TAX,TRANSPORT","no_positive+negative(TAX,TRANSPORT)","ντων μοι φορέτρων, οὗ
+κατ ῆξα δημοσίου πυρ ο ῦ ἀπὸ
+θησαυ ρ ῶ ν"
+p.berl.frisk;;1,18,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"χειριστικοῦ χ ι ρ ιστι κοῦ πυροῦ, ὧν ἐδηλ ώθημεν πεποιῆσθαι ἀναβολῶ ν
+ἀπὸ δ"
+p.berl.frisk;;1,21,πυρο,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Πολ έμωνος μερίδω ν ὑ πὲρ
+φορέτρων πυρο ῦ οὗ κα
+τῆξα ἀπὸ θησαυ ρῶ"
+p.berl.frisk;;1,24,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"τηγίαν τῶν δύο 2 μερί δων ὑπὲρ φορέτρων πυροῦ καὶ κ ρ ιθ ῆς
+ὧν ἐδηλ"
+p.berl.frisk;;1,28,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"20 1/2 . Πακῆμ ις Πακήμ εως
+πυροῦ ἀρτάβας 13 1/2 1/3 . ἰδιωτικ οί ·"
+p.bodl;1;143,1,κριθ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"321
+Ἀκυσιλάῳ τρ απεζίτῃ τι μ ῆς κριθ ῆς
+ὑπὲρ ἀρταβῶν 25 τάλαντα 300"
+p.bodl;1;143,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"25 τάλαντα 300
+κ αὶ ὑπὲρ ναύλου κριθῆς τάλαντα 266 δηνάρια 3000
+ὑπ ὲρ ἄνθρακος"
+p.cair.isid;;41,2,σιτολοι,TAX,0.0,TAX,no_positive+negative(TAX),"ος καὶ οἱ κοι νωνοὶ σιτολό γο ι σιτολοι κώμης
+Καρανί δος ἐμετρήθη σαν ἡμῖν ἡμεῖ"
+p.cair.isid;;41,2,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"20 καὶ 12 ὀνόματος Παλήμωνος
+Πτ ολεμαίου πυροῦ καθαροῦ ἀρτάβα ς ἑ βδομήκον
+τα δύο,"
+p.cair.isid;;61,2,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"χαίρειν.
+ἔσχαμεν παρὰ σοῦ ὑπὲρ ναύλων ναῦλα κριθῆς
+ἀποστελλομένης ἀποστελλομενου ἐν Χαιρέου ἀργυρίου
+δραχμὰς"
+p.cair.isid;;61,2,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"τρισχιλίας τρισχιλείας τριακοσίας, δραχμὰς 3300 ,
+καὶ κριθῆς ὁμοίως ἀρτάβας ἕνδεκα τρίτον,
+ἀρτάβας 11 1/3"
+p.cair.zen;3;59325,1,κριθων,TAX,0.0,TAX,no_positive+negative(TAX),"ίλωι πυ ρῶν 8 1/2 1/3 1/8
+κριθῶν ἀρ τάβαι 42
+Ἡγήμονι πυ ρῶν 29"
+p.cair.zen;4;59647,2,σιτου,RATION,0.0,RATION,no_positive+negative(RATION),"τοῦ παρόντος, ἕως
+ἂν Ἀπολλωνίωι ἐντύχωμεν,
+σίτου μὲν κατὰ μῆνα
+πυρῶν ἀρ τάβας 3"
+p.cair.zen;4;59647,2,πυρων,RATION,0.0,RATION,no_positive+negative(RATION),"Ἀπολλωνίωι ἐντύχωμεν,
+σίτου μὲν κατὰ μῆνα
+πυρῶν ἀρ τάβας 3 , πρὸς δὲ
+τὸ"
+p.cair.zen;4;59723,1,σιτωνησωσιν,TAX,0.0,TAX,no_positive+negative(TAX),"ἕως ἂν σιτωνήσωσιν κριθὴν
+καὶ εἰς τὸ ἐκφόριον μετρήσωσιν·"
+p.cair.zen;4;59723,1,κριθην,TAX,0.0,TAX,no_positive+negative(TAX),"ἕως ἂν σιτωνήσωσιν κριθὴν
+καὶ εἰς τὸ ἐκφόριον μετρήσωσιν·
+ἐὰν"
+p.cair.zen;4;59745,2,πυρ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Πετῶι Στρωίσου διʼ ἐγγύου
+Κελεήσιος 450 πυρ οῦ ἀρ τάβαι 20
+Πετεχῶντι Νεβώγχιος διʼ"
+p.cair.zen;5;59825,1,πυρωνι,RATION,0.0,RATION,no_positive+negative(RATION),", Πρωτομάχωι
+δόμα ἀναπόδοτον δραχμὰς 30 , Πύρωνι ἱματισμὸν
+τοῦ 44 ἔτους δραχμὰς 30 ,"
+p.col;2;1r_4col16,1,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"ρίδων ὑπὲρ φ ο ρέ
+τ ρων πυροῦ ἀπεργασίας γενο μ έ
+ν ης ἐπὶ"
+p.col;2;1r_4col19,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"έμωνος μ ε ρίδων ὑπ ὲρ φορέτρω ν πυροῦ καὶ
+κριθῆς ὧν ἐδ ηλώθημε ν κατηχέναι"
+p.col;2;1r_4col19,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ρίδων ὑπ ὲρ φορέτρω ν πυροῦ καὶ
+κριθῆς ὧν ἐδ ηλώθημε ν κατηχέναι καταδιοχέναι ἀπὸ θη"
+p.col;2;1r_4col8,1,πυρου,ADMIN,0.0,"ADMIN,TRANSPORT","no_positive+negative(ADMIN,TRANSPORT)","Θεμ ίστου μερίδο ς ὑπὲρ φορέτρω ν
+πυροῦ ἀπεργασίας ἧς ἐποιήσαμε ν ἀπὸ θησαυρῶ ν"
+p.col;3;54,1,πυρον,SEED,0.0,SEED,no_positive+negative(SEED),"νότον ἀρούρας 100 εἰς ἐνιαυτόν, ἑκάστην ἄρουραν πρὸς πυρὸν ἀν ὰ ἀρ τάβας 7 1/8 ἀκίνδυνον"
+p.col;3;54,1,πυροφορον,SEED,0.0,SEED,no_positive+negative(SEED),"ἀνυπόλογον παντὸς ὑπολόγου. δοθήσεται δὲ εἰς μὲν τὴν πυροφόρον σπέρμα τῆι ἀρούρᾳ ἀρ τάβης 1/2 ,"
+p.col;3;54,1,κριθοφορον,SEED,0.0,SEED,no_positive+negative(SEED),"ἀρ τάβης 1/2 ,
+εἰς δὲ τὴν κριθοφόρον κατὰ λόγον καὶ εἰς ἀνήλωμα ἑκάστηι ἀρούρᾳ κρ"
+p.col;3;54,1,σιτον,TAX,0.0,TAX,no_positive+negative(TAX),"ἀπομετρείτωσαν δὲ Ἡγήσαρχος καὶ Θεόπομπος καὶ Νικόδημος τὸν σῖτον εἰς τὸ
+ἐκφόριον ἐν τῶι ἐν ἐμ"
+p.col;3;54,1,σιτο,TAX,0.0,TAX,no_positive+negative(TAX),"ἐν τῶι ἐν ἐμ Φιλαδελφείαι θησαυρῶι κατὰ τὸ σιτο λ ογικὸν διάγραμμα ἐν ἐμ μηνὶ
+Δαισί"
+p.col;3;54,1,σιτον,LOAN,0.0,"LOAN,SEED","no_positive+negative(LOAN,SEED)","καὶ ὃν ἂν λαμβά ν ωσιν λαμβά ωσιν σῖτον εἰς σπέρμα καὶ
+βοτανισμὸν καὶ ἀνήλωμα καὶ"
+p.col;3;54,1,σιτον,LOAN,0.0,"LOAN,SEED","no_positive+negative(LOAN,SEED)","ὅσον ἂν ἀργύριον εἰς τὴν κοπάδα δανείσωνται ἢ σῖτον
+ἀντὶ τοῦ ἀργυρίου, τῶν τῶμ μὲν πυ"
+p.col;3;54,1,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"Ἑλενεῖοι, Θεόπομπος Ἀριστίωνος Θεσσαλὸς ἰατρός, Διόδωρος Ζ ω πύρου
+Μάγνης τῶν περὶ Ἀπολλώνιον τὸν διοικητήν, Ἀγαθῖνος"
+p.col;4;63,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"δα κτύλου χαλ κοῦ δραχμὰς 2
+κάτεργον σίτου ἀρταβῶν 4 τῶν ἀνενεχθεισῶν ἀνενεγχθεισῶν
+εἰς τὸ"
+p.enteux;;55,1,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),"ἐν τοῖς πρότερον χρόνοις ἐμίσθουν ἐκφόριον ἑκάστης ἀρούρας πυρῶν ἀρτάβας 4 1/2
+ὃ γίνεται πυρῶν ἀρτάβαι"
+p.enteux;;55,1,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),"ἀρούρας πυρῶν ἀρτάβας 4 1/2
+ὃ γίνεται πυρῶν ἀρτάβαι τῶν δύο 2 ἐτῶν, τοῦ μὲν ἑνὸς"
+p.enteux;;55,1,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),"τοῦ μὲν ἑνὸς 1 ἔτους ἐκφόριον τοῦ ἡμικληρίου πυρῶν ἀρτάβαι 185 1/2 1/8 ,
+τοῦ δὲ"
+p.enteux;;55,1,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),"τὸ 25 ἔτος , ἐκφόριον ὅλου τοῦ κλήρου πυρῶν ἀρτάβαι 371 1/4 · οὐκ ἀποδιδό
+ασιν,"
+p.frankf;;3,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"εἰς ἐνιαυ τ ὸν ἕνα 1
+ἐκφορίου πυροῦ ἀρταβῶν 60 ἐν αυ ελ σει"
+p.graux;3;30col2,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Θεμίστ ου καὶ Πολέμ ωνος μερίδων ὑπὲρ φορέτρων πυροῦ
+καὶ κ ρ ι θῆς ὧν κατήξαμεν"
+p.graux;3;30col3,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Πολέμωνος μερίδων, ἃς ᾐτησάμεθα ἐπισταλῆναι,
+ὑπὲρ φορέτρων πυροῦ καὶ κριθῆς ὧν κατήξαμεν ἀπὸ θησαυρῶν Πο"
+p.graux;3;30col3,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ἃς ᾐτησάμεθα ἐπισταλῆναι,
+ὑπὲρ φορέτρων πυροῦ καὶ κριθῆς ὧν κατήξαμεν ἀπὸ θησαυρῶν Πο
+λέμωνος μερίδος"
+p.graux;3;30col8,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"στρα τηγίαν τῶν 2 μερίδων ὑπὲρ φορέτρων πυροῦ οὗ κατή
+ξαμεν ἀπὸ θησ α υρῶν"
+p.hamb;1;27,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"ἀπόστειλον δὲ ἡμῖν
+τὰς ἀρ τάβας τῶν πυρῶν· οὐ γὰρ ἔχομεν ἀλλʼ ἢ ἡμερῶν 2 σπέρμα."
+p.lille;1;53,1,σιτον,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"σοιτυ τοῖς
+ἱππεῦ σι τὸν
+ἀγοραστὸν σῖτον, ὑπολογεῖν ἑκάστωι
+εἰς τὸ φόρετρον τὸ γινόμενον"
+p.lille;1;53,1,σιτο,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"καθότι γράφει ὁ διοικητὴς
+δεῖν τὸν ἀγοραστὸν σῖτο ν ἐπικαθισ
+τάναι ἐπὶ τοὺς ὅρμους τὸ"
+p.lille;1;53,1,σιτου,ADMIN,0.0,"ADMIN,TRANSPORT","no_positive+negative(ADMIN,TRANSPORT)","τοῦ στρατηγοῦ καὶ τῶν ἡγεμόνων
+τοῦ μετρουμένου σίτου ἀπὸ τῆς 23 τοῦ Μεσορὴ προσ
+κομίζεσθαι"
+p.lond;3;1203,1,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ὀφείλειν Πανοβχούνει Τοτοέους χαλκοῦ τάλαντα 8
+καὶ πυροῦ ἀρτάβας 13 1/2 1/4 ἄτοκα. τὸ δὲ ὀφείλημα"
+p.lond;4;1434,1,σιτ,SEED,0.0,SEED,no_positive+negative(SEED),λ ων νο μίσματα 20 ὑπὲρ ἀπαργ υρισμοῦ σίτ ου ἐμβολ ῆς ἰ ν δ ικτίονος 12
+p.lond;7;2002,1,κριθησ,LOAN,0.2,LOAN,weak_positive(0.2)+negative(LOAN),"ἀργυρί ου δραχμὰς 20
+Πόρπακι εἰς τιμὴν κριθῆς ἀρ ταβῶν 95 ἀργυ ρίου 20
+καὶ"
+p.louvre;1;50,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"10 ἔλαβον ἐλαβα δραχμὰς 4 · 15
+πυροῦ ἀρτάβην 1 · 20 δραχμὰς 4 · ἕως"
+p.louvre;1;51,1,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"ὑποκειμένων ὑποκιμενο δραχμὰς 8
+Χοιὰκ Χυὰκ 9 πυροῦ μέτ ρα 12 πυροῦ ἀρτάβα ς ιβ δραχμὰς"
+p.louvre;1;51,1,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),Χοιὰκ Χυὰκ 9 πυροῦ μέτ ρα 12 πυροῦ ἀρτάβα ς ιβ δραχμὰς 32 ὀβολοὺς 12
+p.louvre;1;51,2,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"μηχ ανῆς δραχμὰς 8
+καὶ διὰ Πιηου πυροῦ μέτ ρα 12 δραχμὰς 32 ὀβολοὺς 12"
+p.louvre;1;51,2,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"δραχμὰς 32 ὀβολοὺς 12
+καὶ διʼ ἐμοῦ πυροῦ ἀρτάβης 1/2 δραχμὰς 12 ὀβολοὺς 14
+στεφανικοῦ"
+p.louvre;1;51,2,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"ἕως Παχὼν 13 χοματου δραχμὰς 4
+καὶ πυροῦ ἄλ λα μέτ ρα 7 δραχμὰς 20"
+p.louvre;1;51,5,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"λας δραχμὰς 4
+Π α ῦνι 12 πυροῦ μέτ ρα 7
+ναυ ὑποσχισμὸς ὑποσζισμὸς"
+p.mich;2;121r,5,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),ῦ Ἡρώδο υ εἰς λόγο ν σπερμάτ ων πυροῦ ἀρτάβαις 10 τοῦ παντὸ ς κατʼ καθʼ ἔτο
+p.mich;2;121r,5,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),10 τοῦ παντὸ ς κατʼ καθʼ ἔτο ς πυροῦ ἀρταβῶν 110 μέτρ ῳ δρόμ ου θησαυρο ῦ
+p.mich;2;123,6,σιτω,LOAN,0.0,LOAN,no_positive+negative(LOAN),". δραχμαὶ 4
+ὁμο λογία Τααρυῶτο ς σιτω τροφίμο υ δουλ ικοῦ Θεναμούν εως
+29"
+p.mich;2;123,7,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"χειρογρ αφία χιρογρ αφία ἱερέων εἱαιρέων σπερμάτω ν πυροῦ ἀρταβῶν 150 . δραχμαὶ 4
+7 ὁμο"
+p.mich;2;123,7,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"ς Ἁ ρμ ι ῦσι ν ἀποχῆ ς πυροῦ ἀρταβῶν 20 . ὀβολοὶ 8
+ὁμο λογία"
+p.mich;2;123,7,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"καὶ ἄλλο ν ἀργ υρίου δραχμῶν 540 καὶ πυροῦ ἀρταβῶν 38 1/2 . δραχμαὶ 8
+χειρογραφία"
+p.mich;5;238r,2,κριθ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ν παραθή κης ἀργ υρίου δραχμῶν 20 καὶ κριθ ῆς ἀρταβῶν 4 ὀβολοὶ 8
+δάνει ον"
+p.mich;5;238r,4,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"πρὸ ς Ἥρωνα ἀργ υρίου δραχμῶν 200 καὶ πυροῦ ἀρταβῶν 11 ὀβολοὶ 20
+ὁμο λογία Ταποντῶτ"
+p.mich;5;238r,5,κριθη,LOAN,0.0,LOAN,no_positive+negative(LOAN),"πρὸ ς Ἡρωδίωνα ἀργ υρίου δραχμῶν 24 καὶ κριθῆ ς ἀρταβῶν 3 δραχμαὶ 4
+δάνει ον"
+p.monts.roca;4;77,1,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),"ἔτος ἐκφορίου τὴν ἄρουραν ἑκάστην ἀρούρας μὲν 11 πυρῶν ἀρταβ ῶν 4 , τὰς δὲ λοιπὰς"
+p.monts.roca;4;77,1,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),", τὰς δὲ λοιπὰς
+ἀρούρας 4 1/4 πυρῶν ἀρταβῶν 5 2/3 ἀκι ν δύ ν ων"
+p.monts.roca;4;77,2,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),"η ν ἀρ ο ύρα ς μὲν 11 πυρῶν ἀ ρταβῶν 4 , τὰς δὲ λοιπὰς"
+p.nyu;1;11a,1,σιτου,TAX,0.0,TAX,no_positive+negative(TAX),"διὰ Κεφᾶ Κεφᾶς μερισμοῦ λίνου ὑπὲρ
+λόγου σίτου ἐκτιμήσ εως τάλαντα 3000 δραχμὰς 500 ."
+p.oxy;3;522,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"δραχμῶν 4 δραχμαὶ 12 .
+φορέτρο υ πυροῦ ἀρταβῶν 171 βασταχθ εισῶν ἐξώσει ψυγμ οῦ"
+p.oxy;41;2960,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"πὸ τοῦ ἐπικλασθέντος κώ
+μῃ Νεμερῶν πυροῦ ὡ ς τῆς ἀρτάβης
+δραχμῶν 8 ὁ"
+p.oxy;85;5516,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"λόγον ἄλλας ἐπὶ λ ό
+γ ου πυροῦ ἀρτάβας 10 , μέ νον
+τος ἡμῖν"
+p.prag.varcl;NS;6,2,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"ἐκ ἐγ λόγου τοῦ αὐ τοῦ μηνὸς πυροῦ ἀρτάβαι
+187 μ έτρα 4 χοί νικες"
+p.tebt;1;105,1,πυρων,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","δωδεκάτου ἔτους ἐκφορίου τοῦ παντὸς κατʼ ἔτος ἕκαστον πυρῶν ἀρταβῶν
+ἑκατὸν εἴκοσι 120 ἄνευ σπέρματος ἀκινδύνου"
+p.tebt;1;105,1,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"τοῦ ἐν ἐμ μ ηνὶ
+Παῦνι ἀποδιδοὺς πυρὸν νέον κ α θαρὸν ἄδολον ἀπὸ π άντ"
+p.tebt;1;105,1,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),"γῆν κατʼ ἔτο ς ἐπ ίτιμο ν
+πυρῶν ἀρτάβας δέκα 10 ἐκτὸς τῶν ἐκφορίων καὶ τοῦ"
+p.tebt;1;106,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἔτους ἐκφορίου τοῦ παντὸς κατʼ ἔτος ἕκαστον ἀποτάκτου πυροῦ ἀρταβῶν ὀγδοή
+κοντα 80 ἄνευ σπέρματος ἀκινδύνου"
+p.tebt;3.1;701,1,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","νέων
+ἡμιόλιον ἀκίνδυνον, τάξεται δὲ ἐκφόρια
+πυρὸν κατὰ λόγον το ῦ σπέρματος.
+
+Ἀρχιτίμωι."
+p.tebt;3.1;701,1,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","νέων ἡμιόλιον ἀκίνδ υνον, τάξεται δὲ
+ἐκφόρια πυρὸν κατὰ λόγο ν τοῦ σπέρματος.
+
+Ἀρχιτίμωι."
+p.tebt;3.1;701,1,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"ἐγ νέων ἡμιόλιον ἀκίνδυνον,
+τάξεται δὲ ἐκφόρια πυρὸν κατὰ λόγον τοῦ σπέρ
+ματος. Σώσωι τὸ"
+p.tebt;3.1;701,1,πυρον,SEED,0.0,SEED,no_positive+negative(SEED),"ἡμιόλιον ἀκίνδυνον, τάξεται δὲ τὰ
+ἐ κφόρια πυρὸν κατὰ λόγον τοῦ σπέρματος.
+Σώσωι τὸ αὐτό."
+p.tebt;3.1;701,2,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἡ μιόλιον ἀκίνδυνον, τάξε
+ται δὲ ἐκφόρια πυρὸν κατὰ λόγον τοῦ σπέρματος.
+Σώσωι τὸ αὐτό."
+p.tebt;3.1;701,2,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἡμιόλιον ἀκίν δυνον, τάξεται δὲ ἐκφόρια
+πυρὸν κατὰ λό γον τοῦ σπέρματος.
+Σώσωι τὸ"
+p.tebt;3.1;701,3,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"ἡμιόλιον ἀκίνδυνον, τάξ εται
+δὲ τὰ ἐκφόρια πυρὸν κατὰ λόγον τοῦ σπέ ρμ ατος.
+Μένωνι"
+p.tebt;3.1;701,3,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἡμιόλιον ἀκίν
+δυνον, τά ξεται δὲ ἐκφόρια πυρὸν κατ ὰ λόγ ον
+τοῦ σπέρμ ατος."
+p.tebt;3.1;701,3,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἡμιόλιο ν ἀκίνδυ
+νον, τάξονται δὲ ἐκφόρια πυρὸν κατὰ λόγ ον
+τοῦ σπέρματος ω ν"
+p.tebt;3.1;701,3,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἡμιόλιον ἀκίνδυνον,
+τάξεται δὲ τ ὰ ἐκφόρια πυρὸν κατὰ λόγον
+τοῦ σπέρματος. Μ ένωνι τὸ"
+p.tebt;3.1;701,4,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἀ κίνδ υνον,
+τάξεται δὲ τὰ ἐκφόρια πυρὸν κατὰ λό γον
+τοῦ σπέρματος. Μένωνι τ"
+p.tebt;3.1;701,4,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"νέων ἡμιόλιο ν
+ἀκίνδυνον, τάξεται δὲ τοῦ πυροῦ τὰ
+ἐκφόρια πυρὸν κατὰ λόγον τοῦ σπέρ"
+p.tebt;3.1;701,4,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"ἀκίνδυνον, τάξεται δὲ τοῦ πυροῦ τὰ
+ἐκφόρια πυρὸν κατὰ λόγον τοῦ σπέρ ματος.
+Μένωνι τὸ"
+p.tebt;3.1;701,4,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"ἡμιόλιον ἀκίνδυ νον ,
+τάξεται δὲ τοῦ πυροῦ κατὰ λόγον τ οῦ σπέρ
+ματος. Μένωνι"
+p.tebt;3.1;701,7,πυρ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ἐποιήσατο Ἰκαδίων σύμβολ ο ν
+δανείου πυρ ῶν ἀρτ αβῶν 37 1/2
+τοῦ Φαρμοῦθι"
+p.tebt;3.1;815,7,πυρων,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἐκφορίου τοῦ παντὸς
+ἀπὸ μηνὸς Ἀρτεμισίου 1 πυρῶν ἀρταβῶν 300 ἄνευ σπέρματος ἀκίνδυνον καὶ ἀνυπόλογον ε"
+p.tebt;3.1;815,8,πυρων,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ι δραχμὰς 10 , ἐκφορίου ἑκάστην ἄρουραν
+πυρῶν ἀρταβῶν 5 6 1/2 ἄνευ σπέρματος,
+κόψουσιν"
+p.tebt;3.1;815,8,πυρον,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἄνευ σπέρματος,
+κόψουσιν δ ὲ τὸ ν πυρὸν καὶ δ ώ σουσιν καθʼ ὥραν καθʼ ἣν"
+p.thmouis;1;1,9,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"1/8 , τῶν
+ἐπὶ τὸ α ὐτὸ πυροῦ ἀρτάβαι 22 1/2 1/3 ἀργ υρίου δραχμαὶ 9"
+p.thmouis;1;1,43,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"μ ὴ συνοψιζο μένου παρα ναύλ ου πυροῦ
+ἀρτάβαι ἀργ υρίου δραχμαὶ 19 χ αλκοῖ"
+p.trier;1;5,1,πυρων,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ὀγδ ό
+ηι δανεισάµ ενος παρ’ ἐµοῦ πυρῶν ἀρτάβας 120 κα τὰ συγγραφὴν ἧς συγγρα φ"
+p.trier;1;6,1,πυρ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ραφ ὴν τῆς τ ιµ ῆς τῶν
+πυρ ῶν τ ούτων ἑκάστης ἀρτάβης δραχμὰς 375 ,"
+p.trier;2;15,2,πυρων,RATION,0.0,RATION,no_positive+negative(RATION),"προσθέματα Μυσοῖς ἀπὸ σημεῶν, ἑκάστω ι δραχμή 500 πυρῶν 10 ,
+καὶ φέρειν ἐν τοῖ ς"
+psi;4;400,1,πυρ,TAX,0.0,TAX,no_positive+negative(TAX),"σοι, ὅσην ἂν σιτοφορήσω ἀνα
+πληρώσω ἀκίνδυνον πυρ ῶν ἀρτάβας 10 · εἰ δὲ μή, 10"
+sb;16;12824,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),5 ἰ νδικτίωνος σίτου ἀρτάβας 3 · κριθῆς ἀρτάβην 1 1/3 ·
+sb;16;12824,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),5 ἰ νδικτίωνος σίτου ἀρτάβας 3 · κριθῆς ἀρτάβην 1 1/3 · ε ἀρτάβης 1/2 1/3
+sb;16;12824,1,σιτ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ων τάλαντα 3 1/2 , γί νονται ὁμοῦ σίτ ου 3 1/2 1/3 .
+ναύλου σίτου"
+sb;16;12824,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"σίτ ου 3 1/2 1/3 .
+ναύλου σίτου ὁμοίως τάλαντον 1 1/2 · ναύλου κρι θ"
+sb;16;12824,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"7 δραχμαὶ 3000 .
+6 ἰ νδικτίωνος σίτου ὁμοίως ἀρτάβας 3 · κριθῆς ἀρτάβην 1 2/3"
+sb;16;12824,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),6 ἰ νδικτίωνος σίτου ὁμοίως ἀρτάβας 3 · κριθῆς ἀρτάβην 1 2/3 · ε ἀρτάβην 1 1/8
+sb;16;12824,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ίων θαλασί ων τάλαντα 3 1/2 · ναύλου σίτου εἰ ς Ἀλεξ άνδρειαν
+τάλαντον 1 1/2"
+sb;16;12824,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Ἀλεξ άνδρειαν
+τάλαντον 1 1/2 · ναύλου κριθῆς ὁμοίως δραχμὰς 4000 · κρέως ὁμοίως λί τρας"
+sb;16;12824,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"τάλαντα 9 3000 .
+7 ἰ νδικτίωνος σίτου ὁμοίως ἀρτάβας 3 · κριθῆς ὁμοίως ἀρτάβην 1"
+sb;16;12824,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"7 ἰ νδικτίωνος σίτου ὁμοίως ἀρτάβας 3 · κριθῆς ὁμοίως ἀρτάβην 1 2/3 ·
+ε ἀρτάβην"
+sb;16;12824,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"τάλαντα 3 1/2 ·
+ναύλ ο υ σίτου εἰς Ἀλεξ άνδρειαν τάλαντον 1 δραχμὰς 3000 ·"
+sb;16;12824,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"1 δραχμὰς 3000 · ναύ λ ο υ κριθῆς ὁμ ο ίως δραχμὰς 4000 ·
+κρέως"
+sb;16;12824,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"τάλαντα 9 .
+8 ἰ ν δικτίωνος σίτου ἀρτάβας 3 1/2 1/3 1/24 · κ ριθῆς"
+sb;16;12824,1,σιτ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ι κῶν τίτλων τίδλων τάλαντα
+ν αύλου σίτ ου εἰς Ἀλεξ άνδρειαν τάλαντον 1 δραχμὰς 3200"
+sb;20;14197,4,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"ὧν ἀναλ ώματος · ὀψωνίων·
+ἐμοὶ Ἡρωνίνῳ πυροῦ ἀρτάβη 1
+Ποντικῷ πυροῦ ἀρτάβη 1"
+sb;20;14197,4,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"ἐμοὶ Ἡρωνίνῳ πυροῦ ἀρτάβη 1
+Ποντικῷ πυροῦ ἀρτάβη 1
+Ἀκιῆς ὀνηλ άτης πυροῦ ἀρτάβη"
+sb;20;14197,4,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"Ἀσῆσι κατʼ ἐκδόσεως ἐ γ δόσεως χω μάτων πυροῦ ἀρτάβη 1
+θυρουρῷ θιλουρῷ ξ ενίας μ"
+sb;24;15920,7,πυρο,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"19 φόρετρα ὄνων κοβαλ ευόντων πυρὸ ν ἐκ τῶ ν ἁλών ων
+Ναγώγεως"
+sb;24;15920,8,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"τη χρης
+τ ας ἐκ το ῦ πυροῦ το ῦ κυρίο υ εἰ ς
+27"
+sb;6;9366,1,πυρων,LOAN,0.0,LOAN,no_positive+negative(LOAN),"κατοίκων ἱππέων Πατῆτι Καλίου
+Πέρσηι τῆς ἐπιγονῆς πυρῶν ἀρ τάβας 36 καὶ χα λκοῦ τάλαντον 1"
+sb;6;9366,1,πυρον,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ἐν μη νὶ Φαρμοῦθι
+τοῦ 46 ἔτους πυρὸν νέον καθαρὸν καθαραρὸν ἄδολον ἀπο
+καθεσταμένον εἰς"
+sb;8;9699,9,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),2 Ἡδύλ ου ἀντλο ῦσιν εἰς τὸν πυροῦ σπόρο ν Φῖβ ις ἄλ λοι 2 δραχμαὶ
+sb;8;9699,11,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"υρίου δραχμαὶ 43
+1 θερίζ ουσι τὸν πυροῦ σπόρο ν Ἡδύλ ου ἐργ άται 2 τ"
+stud.pal;20;5,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"οἶκον ὑπὲρ τοῦ τοῦ ἐνεστῶτος ἔτους χρό νου πυροῦ
+ἀρτάβας μέτρ ῳ δρόμῳ δρόμων τετραχοινίκῳ τετραχοι"
+upz;1;91,1,σιτου,RATION,0.0,RATION,no_positive+negative(RATION),".
+τ ῶ ν ἀναλωμάτων ἀνηλομάτων πάντων σίτου καὶ ὀψωνίων ὀψονίον τοῦ Φαρμοῦθι
+γίνονται 2670"
+bgu;15;2552,1,πυρ,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","κ αιδ εκάτου ἔ
+τους ἐπὶ λόγου πυρ οῦ ἀρτάβας τριά
+κοντα τέσσαρας τέσσαρες ,"
+bgu;15;2552,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ο ι τῶν αὐτῶν
+ἐκφορί ου ων πυροῦ ἀ ρ ταβῶν δέκα 10
+καὶ ἀργυρι"
+bgu;1;249,1,κριθη,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"να μ ο ι εὐθέως πεμφθῶσι
+καὶ κριθὴ κρειθὴ ειδ ου Σαραπᾶς εἰς λόγον
+ναύλου"
+bgu;1;269,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"Σωτᾶς καὶ Κολλοῦθος καὶ μέτοχοι μισθωταὶ κλή
+πυροῦ ἀρτάβαι 61 1/6 χωρὶς τῶν ἐν σιτικο ῖς"
+bgu;1;269,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"καὶ Παπεῖρις καὶ μέτοχοι ὁμοίως μισθωταὶ κλήρου
+πυροῦ ἀρτάβαι 53 1/3 χωρὶς τῶν ἐν σιτικ οῖς"
+bgu;1;290,1,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"χρῆσιν ἔντοκον
+ἀργυρίου κεφαλαίου δραχμὰς 84 καὶ πυροῦ ἐν γενε ι ν νέου καθαροῦ
+ἀδόλου"
+bgu;1;61,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"διὰ Τὶξ καὶ Μέλας διατιξ καὶ μελας πυροῦ 2 1/2
+ἔτους 8 Λουκίου Σεπτιμίου Σεουήρ"
+bgu;20;2869,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ὐτοῦ ἔτους ἐν τα ῖ ς κώμαις
+πυροῦ ἀρτάβας κοσίας , τὰς δ ὲ λοιπὰς πυροῦ"
+bgu;20;2869,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"πυροῦ ἀρτάβας κοσίας , τὰς δ ὲ λοιπὰς πυροῦ ἀρ τά βας
+καθαρὰς ἀ πὸ φορέτρων"
+bgu;20;2869,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"πὸ φορέτρων καταγωγῆς δημο σί- δημο σίου
+πυροῦ τ α ξόμεθα ἐν ταῖς κώμαις π ρὸς"
+bgu;2;644,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","τοῦ παντὸς
+κατʼ ἑκάστην ἄρουραν σὺν σπέρμασι πυροῦ ἀρτάβην
+1 , πυροῦ ἀρταβῶν 1/50 καὶ"
+bgu;2;644,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἄρουραν σὺν σπέρμασι πυροῦ ἀρτάβην
+1 , πυροῦ ἀρταβῶν 1/50 καὶ ων
+κατʼ ἔτος ἀρτάβας"
+bgu;4;1018,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","σύν ἐφʼ
+αἷς λήμψομαι σπερμάτ ων
+πυροῦ ποιροῦ ἀρτάβαι ἀρτάβας 2 , καὶ χ λωρο"
+bgu;4;1194,1,πυργου,TAX,0.0,TAX,no_positive+negative(TAX),"τοῦ
+ἐπὶ τῶν προσόδων
+τοῦ ἱεροῦ πύργου τιμ ὴν 10
+κα πτ έ ρ"
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"κατὰ διαδοχὴν τῶν
+γον έ ων ἡμῶν πυροῦ ἀρτάβας 100 . τῶι δὲ ἔτει ἀνειλημμένων"
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"δημ ό σιον τῶν ἐδαφῶν διετα σύνταξιν
+πυροῦ ἀρτάβας 100 καὶ ἀπὸ τῶν της προσόδου"
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἀρτάβας 100 καὶ ἀπὸ τῶν της προσόδου
+πυροῦ ἀρτάβας 100 , ὥστε εἶνα ι τὰ ς"
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"εστέρησαν
+ἡμᾶς ὧν ἔχομεν ἐκ τῆς προσόδου πυροῦ ἀρταβῶν αρταβας 100 μέχρι
+τοῦ 19 ἔτους"
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἀπὸ Λινῆ
+μηδέπω ἐσχηκότες ἐκ τῆς προσόδου πυροῦ πλ ω τας ἡμῶν εἰς πλήρωσιν τ ῶν"
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),ω τας ἡμῶν εἰς πλήρωσιν τ ῶν 175 πυροῦ 100 τὰς ἡμῶν πυροῦ ἀρτάβας 100 καὶ μέχρι
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),πλήρωσιν τ ῶν 175 πυροῦ 100 τὰς ἡμῶν πυροῦ ἀρτάβας 100 καὶ μέχρι τοῦ νῦν διεμώ λυσαν
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"διεγβαλλομένας εἰς τὸ ἡμῶν ἱερὸν τὰς προκειμένας πυροῦ ἀ ρτάβας 100 καὶ
+αὐτῶν τῶν ἀπὸ"
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"η μων
+μ έχρι τοῦ 28 ἔτους πυροῦ ἀρταβῶν 900 καὶ τοῦ δε τοῦ 29 ἔτους"
+bgu;4;1200,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"καὶ τοῦ δε τοῦ 29 ἔτους Καί σαρος πυροῦ ἀ ρτάβας 100
+καὶ τὴν πρόσοδον ἀποδοῦναι"
+bgu;4;1200,1,πυρ,TAX,0.0,TAX,no_positive+negative(TAX),"πρόσοδον ἀποδοῦναι ἡμῖν ἡμεῖν τὰς κατʼ ἔτος ὑποκειμένας πυρ οῦ ἀρ τάβας 100 ,
+ἵνʼ ὦ"
+bgu;4;1207,1,ολυριου,TAX,0.0,TAX,no_positive+negative(TAX),"καὶ εἰσάγεσθε
+τ ιμὴν φ ακ οῦ ὀλυρίου ὀλυρίω . καὶ τὰ ἄλλα τἆλλα σεαυτοῦ σατοῦ"
+bgu;4;1207,1,ολυριω,TAX,0.0,TAX,no_positive+negative(TAX),"εἰσάγεσθε
+τ ιμὴν φ ακ οῦ ὀλυρίου ὀλυρίω . καὶ τὰ ἄλλα τἆλλα σεαυτοῦ σατοῦ δὲ"
+bgu;6;1226,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"Σπαρτάκου αι π ραμ 8 ἀράκο υ 10 πυρῶν 1/2
+σῖτον καθαρὸν ἄδολον ἀπὸ πάντων μετρήσει"
+bgu;6;1226,1,σιτον,SEED,0.0,SEED,no_positive+negative(SEED),"ραμ 8 ἀράκο υ 10 πυρῶν 1/2
+σῖτον καθαρὸν ἄδολον ἀπὸ πάντων μετρήσει δικαίαι μέτρωι"
+chiron;47;292,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),δημοσίω ν ἐδαφῶν εἰς λ ό γ ον πυροῦ ἀρτάβας 800 κα ὶ εἰς αρ λόγον ἀργυ
+chiron;47;297,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),ν δημοσίων ἐδαφῶν αἰεὶ κατʼ ἔτος εἰς λόγον πυροῦ ἀρτάβας 800 καὶ ἀρ γ υρίου δραχμὰς 1500
+chr.wilck;;370,1,κριθ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"λατικοῦ ὠνη λατικοῦ κ αὶ vestiges νη τῆς κριθ ῆς ὡς τῶν 100 ἀρταβῆς 1 2/3 ,"
+chr.wilck;;370,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"2/3 , αἷς προσάγομεν ὑπὲρ ἐπιθέ
+ματος πυροῦ δη μοσίῳ δοχ ικῷ ἀρτάβας πέντε 5 τὰ"
+chr.wilck;;370,1,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"αὶ
+Ἐπεὶφ μησὶ ἐξ ἀλληλεγγύης, τὸν μὲν πυρὸν εἰς τοὺς δημοσίους θησαυρούς, τὸ δὲ ἀργύ"
+chr.wilck;;370,1,κριθην,TAX,0.0,TAX,no_positive+negative(TAX),"θησαυρούς, τὸ δὲ ἀργύ
+ριον καὶ τὴν κριθὴν τοῖς τῆς οὐσίας οἰκονόμοις κ αὶ δώσ ομεν"
+cpr;15;50,1,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"άναις
+δεκάτο υ ἔτους κα τασπο ρᾶς πυροῦ ἀρτάβαι 4
+καὶ εἰς διατροφὴν τοῖς παιδίο"
+cpr;15;50,1,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"δεκάτο υ ἔτους μηνῶν δέκα 10
+πυροῦ ἀρτάβαι 142 1/2 1/3 1/12 λοιπαὶ πυροῦ ἀρτάβαι"
+cpr;35;29,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"Φιλοκράτους
+κλήρου ἀρούρας 6 εἰς σ πορὰν πυροῦ καὶ ἀναπαυ
+ματικῶν γενῶν κατʼ ἔ τ"
+cpr;35;29,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἔτος ἀποτά κ του τῶν ὅλων
+ἀρουρῶν πυροῦ ἀρταβῶ ν 18 καὶ ἀ ργυ
+ρίου"
+o.ont.mus;2;153,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ὑπ ὲρ
+μερισμοῦ διπλῶ ν τι μὴν πυροῦ
+δραχ μὰς τέσσαρας τέσσαρες γίνονται δραχμαὶ 4"
+p.berl.salmen;;5,1,ολυρασ,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),ὐ το ῖ ς τῆι 11 τοῦ Ἁθὺρ ὀλύρας ἀρταβῶν 125 τὸν κατὰ λόγον φακὸν διὰ ὧν
+p.berl.salmen;;6,1,σιτολ,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"ὑπόκειται, ὅπως εἰδὼς συντάξης ἐ π ιστεῖλαι τῶι σιτολ ό γῳ προέσθ αι ὡς καθήκει τὰς δηλουμένας"
+p.berl.salmen;;7,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ικῆς 694 1/4 , ὧν καθη κ όντων πυροῦ 1311 1/4 καὶ ν αυ βίου χα λκοῦ"
+p.berl.salmen;;7,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"καὶ εἰς τὸ τοῦ 32 ἔτος
+σπόρου πυροῦ ἀρτάβας 269 ἢ τὸν κατὰ λόγον φακὸν ἐκ"
+p.berl.salmen;;9,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"χαλκοῦ 2775 31 ἔτους χαλκοῦ 2775 γ ίνονται πυροῦ ἀρτάβαι τάλαντα
+μεμετρίασται δοθῆναι παρόντος κα ὶ"
+p.cair.isid;;71,1,σιτου,TAX,0.0,TAX,no_positive+negative(TAX),"μερισμὸς τάλαντα 23 δραχμαὶ 2000
+4 μερισμὸς σίτου ἀρτάβαι 7
+5 μερισμὸς τάλαντα 46 δραχμαὶ"
+p.cair.zen;3;59320,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ναῦλον τῆς Ἴσιος κυβαίας
+τοῦ καταχθέντος σίτου
+ἐκ τοῦ Ἀρσινοίτου
+δραχμὰς 966 4"
+p.cair.zen;4;59648,1,πυρων,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"κάτεργον αὐτῶ ν
+δραχμὰς 2 κα ὶ πυρῶν ἀρ τάβας 2 . ἐγὼ οὖν δώσω"
+p.cair.zen;4;59669,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"εἰς τὸ γι νόμενόν μοι ναῦλον τοῦ
+σίτου τοῦ καταχθέντος Ἀπολ λωνίωι ὥστε Ἀμύντα ι"
+p.cair.zen;4;59724,1,πυρ,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","εἰσίμ μοι γῆς ἄρουραι 100
+ἐκφορίου ἀνὰ πυρ ῶν ἀρ τάβας 2
+καὶ ἄλλαι πυρῶν"
+p.cair.zen;4;59724,1,πυρων,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","πυρ ῶν ἀρ τάβας 2
+καὶ ἄλλαι πυρῶν ἀρ τάβαι 37 1/2
+αἱ εἰς τὸ"
+p.cair.zen;4;59724,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"εἰς ταύτας ἔχω κ ατὰ
+σύμβολον εἰς πυρῶν λόγον
+ἀρτά βας 67 1/2
+καὶ"
+p.cair.zen;4;59724,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"ἀργυ ρίου δραχμὰς 20 ,
+ὃ γίνονται πυρ οῦ ἀρτ άβαι 20 .
+ἃς ὑπολογῶ"
+p.cair.zen;4;59724,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),".
+γίνονται ἃς ἔχω παρὰ σοῦ
+πυρῶν ἀρτά βαι 114 1/2 .
+λοιπαὶ ἐν"
+p.cair.zen;4;59753,1,πυρων,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"τὸ ναῦλον εἰς Ἡρακλέους
+πόλιν πυρῶν ἀρ ταβῶν 900 ἀν ὰ δραχμὰς 4 2"
+p.col;2;1r_4col13,1,πυρου,TAX,0.0,"TAX,TRANSPORT","no_positive+negative(TAX,TRANSPORT)","μοι φορέτρων οὗ κατ ῆ
+ξα δημοσίου πυροῦ ἀπὸ θη σαυ
+ρῶν Πολέμωνος μερ ίδ"
+p.col;2;1r_4col4,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"1/2 1/3 1/24 . Ὀρσενοῦπ ις Τιθείο υς πυροῦ ἀρτάβην 1 2/3 1/8 .
+Κερ κεσο"
+p.col;2;1r_4col4,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"χ ων δημοσίω ν . Αὐλῆρις ἀπάτ ωρ πυροῦ ἀρτάβην 1 1/6 1/24
+Ἄρη ς εως"
+p.col;2;1r_4col4,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἀρτάβην 1 1/6 1/24
+Ἄρη ς εως πυροῦ ἀρτάβας 6 1/2 1/3 1/24 κριθ ῆς ἀρτάβης"
+p.col;2;1r_4col4,1,κριθ,TAX,0.0,TAX,no_positive+negative(TAX),"ς εως πυροῦ ἀρτάβας 6 1/2 1/3 1/24 κριθ ῆς ἀρτάβης 1/3 1/24 κ .
+Πα"
+p.col;2;1r_4col7,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"2 μ ερίδ ων
+ὑπὲρ φορέτρο υ πυροῦ οὗ ἐδ ηλ ώθημεν κατηχέ
+ναι κ"
+p.coll.youtie;1;24,1,κριθησ,SEED,0.0,SEED,no_positive+negative(SEED),"δραχμ
+βωλοκοποῦσι ἐργάταις 3 δραχμὰς 3
+κριθῆς κρειθῆς εἰς σπορὰ ν ἀρτάβας 2
+βοτανισμοῦ"
+p.erl.diosp;;1,10,πυριδε,TAX,0.0,TAX,no_positive+negative(TAX),"ὑπ ὲρ μερισμο ῦ οὐσίας ἀρ γυρίου
+πυριδε
+Ἡρ ακλάμμωνι ἀργυρ ίου τάλαντ
+τῷ"
+p.fay;;101,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"καὶ κνῆκος 1/6 ἀρτάβαι 50 ,
+αἳ πυροῦ ἀρτάβαι 60 , γίνονται το ἐκφόριον ἐκφώριων"
+p.fay;;101,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἀρτάβαι 60 , γίνονται το ἐκφόριον ἐκφώριων
+πυροῦ ἀρτάβαι 229 , καὶ κηπωρῷ πυροῦ ἀρτάβη 1"
+p.fay;;101,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἐκφώριων
+πυροῦ ἀρτάβαι 229 , καὶ κηπωρῷ πυροῦ ἀρτάβη 1 , γίνονται ἀρτάβαι 230 ."
+p.fay;;101,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),", γίνονται ἀρτάβαι 230 .
+ἀνθʼ ὧν πυροῦ ἀρτάβαι 247 1/2 ,
+καταλείπεται καταλίπεται καταλιπταται"
+p.fay;;110,1,κριθ,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"καὶ Διδᾶν δ ο υ ν τιμ ὴν κριθ ῆς δραχμὰς 240 καὶ τόκ ους ,"
+p.flor;1;72,1,κριθησ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"δρα
+χμὰς δε κ αὲξ κ αὶ κριθῆς ἀρτά
+βη ν μ ί αν τρίτον,"
+p.flor;2;231,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ὀφειλόμενα ὑπὸ
+αὐτοῦ εἰς πλήρω
+σιν πυροῦ ἀρταβῶν 400
+παραλαβεῖν ἵ να
+ὅταν"
+p.freib;3;34,1,πυρων,TAX,0.1,TAX,weak_positive(0.1)+negative(TAX),"οντα 30
+ς ἐκφορίου τὴν ἄρουραν ἑκάστην πυρῶν ἀ ρταβῶν
+ἄσπερμον καὶ ἀκίνδ υνον καὶ"
+p.fuad.i.univ;;35,1,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"ὰ δι Ζωιδο ῦ σω α τιμ ῆς πυροῦ
+τρίτου ἔτους Θ εαδ ελφείας κληρουχ ικῆς"
+p.gen;2;97,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἐπιβολ ῆς ἀρουρῶν 2 1/2 1/8 1/32 πυροῦ ἀρτάβαι 12 1/2 1/8
+Μᾶρκος Οὐαλέριος Λόγγος"
+p.gen;2;97,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"1/8
+Μᾶρκος Οὐαλέριος Λόγγος
+προσ μετρουμένων πυροῦ ἀρτάβαι 1/3 1/24 , ναυβίου
+Μᾶρκος Ἄττιος"
+p.graux;3;30col10,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Θεμίστου καὶ Πολ έμωνος μερίδων ὑπὲρ φορέτρων κριθῆς ἧς ἐδηλώθη
+μεν ἐδηλώθη
+σαν καταγειοχέναι"
+p.graux;3;30col4,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"φορέτρων οὗ κα
+τήξα μεν δη μοσίου πυροῦ ἀπὸ θησαυρῶν
+τῆς Πολ έμωνος μερίδ ος"
+p.graux;3;30col6,1,πυρου,TAX,0.0,"TAX,TRANSPORT","no_positive+negative(TAX,TRANSPORT)","μένων μοι φορέτρων οὗ κατῆ
+ξα δημοσίου πυροῦ ἀπὸ θησαυ
+ρ ῶν Πολέμωνος μερίδος"
+p.graux;3;30col9,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"μερίδων ὑ
+πὲρ φορέτρων φο
+λέτρων πυροῦ οὗ ἐδηλώθημεν ἐδηλόθησαν καταγειοχέναι καταγειοχαίναι ἀπὸ θησαυρῶν"
+p.heid;4;336,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","τ ο ῦ κυρίου εἰ ς
+σπορὰν πυροῦ ἐκφορίου ἑκάστης ἀρούρης πυροῦ ἀρταβῶν 10 1/2 ,"
+p.heid;4;336,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","εἰ ς
+σπορὰν πυροῦ ἐκφορίου ἑκάστης ἀρούρης πυροῦ ἀρταβῶν 10 1/2 , τ ῷ δ ὲ"
+p.hib;1;110,1,πυρων,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"εἶχον δὲ καὶ Κρίτωνι τῶν 20 ἀρταβῶν τῶν πυρῶν δραχμὰς 40 ,
+καὶ ναῦλον των τῶν"
+p.hib;1;110,1,πυρων,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"δραχμὰς 40 ,
+καὶ ναῦλον των τῶν πυρῶν καὶ κριθῶν ἔχω δραχμὰς 15 .
+εἰς"
+p.hib;1;110,1,κριθων,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),",
+καὶ ναῦλον των τῶν πυρῶν καὶ κριθῶν ἔχω δραχμὰς 15 .
+εἰς ταῦτα ἔχει"
+p.hib;1;110,1,σιτ,TAX,0.0,TAX,no_positive+negative(TAX),"ἀργυρίου δραχμὰς 448 .
+ἀνήλωμα τοῦ σίτ ο υ ἐφʼ Ἱερᾶι Νήσωι σάκκους 2 4"
+p.hib;1;110,2,κριθων,TAX,0.0,TAX,no_positive+negative(TAX),"καὶ Ἀριστάρχου τὸ πᾶν δραχμὰς 3 καὶ
+κριθῶν ἀρτάβας 15 .
+ἔτους 12 ἐφʼ ἱερέως"
+p.iand.zen;;1,1,πυρον,SEED,0.0,SEED,no_positive+negative(SEED),"ρας 100 εἰς ἐνιαυτόν, ἑκάστην ἄρου ραν πρὸς πυρὸν ἀν ὰ ἀρ τάβας
+7 ἀκίνδυνον καὶ"
+p.iand.zen;;1,1,πυρο,SEED,0.0,SEED,no_positive+negative(SEED),"ἀνυπόλογον παντὸς ὑπολόγου. δοθήσεται δὲ εἰς μὲν τὴν πυρο
+φόρον σπέρμα τῆι ἀρού ρηι ἀρ τάβης"
+p.iand.zen;;1,1,κριθοφορον,SEED,0.0,SEED,no_positive+negative(SEED),"ρηι ἀρ τάβης 1/2 , εἰς δὲ τὴν κριθοφόρον κατὰ λόγον καὶ εἰς ἀνήλωμα ἑκάστηι
+ἀρού"
+p.iand.zen;;1,1,σιτον,TAX,0.0,TAX,no_positive+negative(TAX),καὶ Πᾶσις καὶ Κε λ εκ ς τὸν σῖτον εἰς τὸ ἐκφόριον ἐν τῶι ἐν Φιλαδελφείαι
+p.iand.zen;;1,1,σιτολο,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἐν Φιλαδελφείαι
+θησαυρῶι κ α τὰ τὸ σιτολο γ ικὸν διάγραμμα ἐμ μηνὶ τῶι ἐν τῶι"
+p.iand.zen;;1,1,σιτον,SEED,0.0,SEED,no_positive+negative(SEED),καὶ ὃ ν ἂν λαβ ηι ωσι σῖτον εἰ ς σπέρμα καὶ βοτανισμὸν καὶ ἀνήλωμα καὶ
+p.iand.zen;;1,1,σιτον,SEED,0.0,SEED,no_positive+negative(SEED),"ν κοπάδα δ ανείσ η ων ται ἢ σῖτον ἀντὶ τοῦ ἀργυρίου, τῶν μὲν πυ ρῶν"
+p.kron;;34,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ας σπιρ ομέν ας εἰς σ πορὰν πορὰν πυροῦ, ἐκφορί
+ου ἐπὶ τὴν τριετίαν κ ατʼ"
+p.lille;1;30,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"100
+ἀφʼ ὧν γράφει Ἀχοᾶ πις ἐσπάρθαι πυρῶν 55 1/2 1/8 1/16 , κριθ ῆς 4"
+p.lille;1;30,1,κριθ,SEED,0.0,SEED,no_positive+negative(SEED),"πις ἐσπάρθαι πυρῶν 55 1/2 1/8 1/16 , κριθ ῆς 4 , ἀράκ ου 38 γίνονται 97"
+p.lille;1;30,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"καὶ τὰ δεδομένα σπέρματα Παψῶστι Σ εμθέως πυρῶν 72 ,
+ἀράκ ου 38 1/3 αἳ"
+p.lille;1;30,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"72 ,
+ἀράκ ου 38 1/3 αἳ πυρῶν 23 γίνονται 95 γίνονται 395
+Φ αμε"
+p.lille;1;30,1,κριθ,SEED,0.0,SEED,no_positive+negative(SEED),"95 γίνονται 395
+Φ αμε νὼθ , κριθ ῆς 53 1/3 , σπέρμα πυρ οῦ 50"
+p.lille;1;30,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"νὼθ , κριθ ῆς 53 1/3 , σπέρμα πυρ οῦ 50 , πυρ ῶν 54 γίνονται πυρῶν"
+p.lille;1;30,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"53 1/3 , σπέρμα πυρ οῦ 50 , πυρ ῶν 54 γίνονται πυρῶν 104 , κρ ιθῆς"
+p.lille;1;30,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"πυρ οῦ 50 , πυρ ῶν 54 γίνονται πυρῶν 104 , κρ ιθῆς 53 1/3
+Φαρμοῦθι"
+p.lille;1;30,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"κρ ιθῆς 53 1/3
+Φαρμοῦθι 10 , πυρ ῶν 40 · 29 , πυρ ῶν 70"
+p.lille;1;30,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"10 , πυρ ῶν 40 · 29 , πυρ ῶν 70 , σπέρμα π υ ρ οῦ"
+p.lille;1;30,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),", σπέρμα π υ ρ οῦ 10 γίνονται πυρῶν 120
+Ἐπεὶφ 23 , χλ ωρῶν πυροῦ"
+p.lille;1;30,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"πυρῶν 120
+Ἐπεὶφ 23 , χλ ωρῶν πυροῦ 20 · 25 29 , χλ ωρῶν πυροῦ"
+p.lille;1;30,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"πυροῦ 20 · 25 29 , χλ ωρῶν πυροῦ 22 1/2 γίνονται 42 1/2
+γίνονται πυρῶν"
+p.lille;1;33,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"1/8 1/16
+ἀφʼ ὧν γράφει Ἀχοᾶπις ἐσπάρθαι πυρῶν 193 1/2 1/4 , ἀράκ ου 91 1/8"
+p.lille;1;33,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"καὶ τὰ δεδομένα σπέρματα Πάσιτι Ἁ ρ υώτου πυρ ῶν 230 , ἀράκ ου 80 1/3"
+p.lille;1;33,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"230 , ἀράκ ου 80 1/3
+αἳ πυρῶν 50 γίνονται 280 εἰς τὴν σκοληκόβρωτ ον σκ"
+p.lille;1;33,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"· 30 , σ π έ ρμ α πυρ οῦ 272 1/2
+Φαρ μοῦθι 7 ,"
+p.lille;1;33,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"οῦ 272 1/2
+Φαρ μοῦθι 7 , πυρ ῶν 213 · 10 , πυρ ῶν 348"
+p.lille;1;33,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"7 , πυρ ῶν 213 · 10 , πυρ ῶν 348 1/4 · 20 , σπέρμα πυρ"
+p.lille;1;33,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"πυρ ῶν 348 1/4 · 20 , σπέρμα πυρ οῦ 140 μρ · 29 , πυρ ῶν"
+p.lille;1;33,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"σπέρμα πυρ οῦ 140 μρ · 29 , πυρ ῶν 91 1/2
+30 , πυρ ῶν"
+p.lille;1;33,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),", πυρ ῶν 91 1/2
+30 , πυρ ῶν 254 1/2 γίνονται 1047 1/4
+Παχὼνς"
+p.lille;1;33,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"γίνονται 1047 1/4
+Παχὼνς 10 , σπέρμα πυρ οῦ 70 , πυρῶν 22 βμ 1/4 1/4"
+p.lille;1;33,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"Παχὼνς 10 , σπέρμα πυρ οῦ 70 , πυρῶν 22 βμ 1/4 1/4 1/8
+γίνονται πυρῶν"
+p.lille;1;33,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"πυρῶν 22 βμ 1/4 1/4 1/8
+γίνονται πυρῶν 1772
+καὶ ἀπὸ χωλρῶν πέπτωκεν· ἔτους 2"
+p.lille;1;35,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"γίνονται 121
+υ
+ν ιγ ν πυροῦ ι
+18 καὶ το 23 1/2 1/4"
+p.lille;1;35,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"Πα χὼνς 62 1/3 . 2 , σπέρμα πυρ οῦ 100 γίνονται πυροῦ 690 1/2
+Παῦνι"
+p.lille;1;35,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),". 2 , σπέρμα πυρ οῦ 100 γίνονται πυροῦ 690 1/2
+Παῦνι π πυρ οῦ γίνονται"
+p.lille;1;35,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"100 γίνονται πυροῦ 690 1/2
+Παῦνι π πυρ οῦ γίνονται 30
+Ἐπεὶφ 11 , χ"
+p.lond;2;370,1,σιτου,RATION,0.0,RATION,no_positive+negative(RATION),"ω ὀψωνίῳ ὀψονίῳ δραχμὰς 8 καὶ
+μέτρα σίτου 8
+καὶ ἐν τό πῳ Χεσονόμων"
+p.lond;7;1940,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ἀπὸ τούτου ἀνήλω ται εἰς τὰ ναῦλα
+σίτου τοῦ ἐμβληθέν τ ος ἐκ τοῦ Κολχονουφίτου"
+p.lond;7;1940,1,πυρων,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"τ ος ἐκ τοῦ Κολχονουφίτου
+μέτρωι ἀποδοχικῶι πυρῶν ἀρτ αβῶν 3017 3006 1/2 1/4 ὡ ς"
+p.lond;7;1940,2,σιτον,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"παρὰ Ἀριστέως διὰ τραπέζης
+εἰς τὸν καταχθέντα σῖτον ἐκ τοῦ
+Γυναικοπολίτου ἐξ Σύρων κώμης"
+p.lond;7;2074,1,σιτομε,RATION,0.0,RATION,no_positive+negative(RATION),"ἀρχιτεκτονικοῖς οὔτε ὀψώνιον
+δέδοται ἡμῖν οὔτε σιτομε
+τρία ἀπὸ ἔτους 36 , οἱ δὲ"
+p.lond;7;2153,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),ὄξος ἐπ ὶ τρά πεζαν χ οίνικες 2 σίτου κάτεργον ἀρ τάβαι 2 ὀβολοὶ 3 3
+p.mich;12;644,1,πυρου,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"27 77 Σαραπάμμωνος
+Φι λαδελφίας τι μῆς πυροῦ
+18 ἔτους καὶ 17 ἔτους καὶ 10"
+p.mich;2;121v,3,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ν Σώτο υ πρὸς Πετεσῦν δραχμῶν 40 καὶ πυροῦ ἀρταβῶν 5
+ὁμο λογία Πατύνιο ς πρὸ"
+p.mich;2;128col1b,1,κριθη,LOAN,0.0,LOAN,no_positive+negative(LOAN),"α ὶ εἰς τὴ ν Θερ μοῦθ ιν κριθῆ ς ἀρτάβης 1
+μίσ θωσις Μάρωνο ς"
+p.mich;5;240,1,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"γυ ναικὸς πρὸ ς Ἡρακλῆ ν Διδύμο υ πυροῦ ἀρταβῶν 6 ὀβολοὶ
+ἀναφόρια Ὀρσενούφιο ς καὶ"
+p.mich;5;240,2,κριθησ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"δραχμῶν 6
+καὶ εἰς τὸ θέρο ς κριθῆς ἀρτάβη 1
+μίσ θωσις Μάρ ωνος πρὸ"
+p.mich;5;315,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἐκφορίου κατʼ καθʼ ἔτος
+σὺν σπέρμασι πυροῦ ἀρταβῶν 2 1/2 τοῦ
+παντὸς κατʼ καθʼ"
+p.mich;5;315,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","2 1/2 τοῦ
+παντὸς κατʼ καθʼ ἔτος πυροῦ ἀρταβῶν 15
+μέτρῳ μετρ ο τετρα χ"
+p.mich;5;346c,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"σπερμάτω ν πυροῦ ἀρτάβας 6 , τοῦ παντὸ ς πυροῦ ἀρτάβας"
+p.mich;5;346c,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"ν πυροῦ ἀρτάβας 6 , τοῦ παντὸ ς πυροῦ ἀρτάβας 78 , τι
+μῆς τ ει"
+p.mich;5;348,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"αἷς χορηγήσει ὁ Χαιρήμ ων σπερμά
+των πυροῦ ἀρτάβ αι ς τριάκοντα πέντε 35 καὶ"
+p.mich;5;348,1,κριθησ,SEED,0.0,SEED,no_positive+negative(SEED),"ἀρτάβ αι ς τριάκοντα πέντε 35 καὶ
+κριθῆς ἀρτάβαις πέντε 5 , τοῦ παντὸς πυροῦ ἀρ"
+p.mich;5;348,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"κριθῆς ἀρτάβαις πέντε 5 , τοῦ παντὸς πυροῦ ἀρ
+τάβαις ἑκατὸν ἐνενήκοντα ἑπτὰ ἡμίσους 197"
+p.mich;5;348,1,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"μελήσ ειν ὧν ὀφείλ ει
+κατὰ δάνειον πυροῦ ἀρταβῶν εἴκοσι τριῶν 23
+καὶ ἐπάναγκες κατακολουθήσῃ"
+p.michael;;13,1,πυρω,TAX,0.0,TAX,no_positive+negative(TAX),"τῶι μὲν ἐνεστῶτι 23 ἔτει
+σπεροῦμε ν πυρῷ ἀρο ύ ρας δέ κα 10 καὶ δώσω"
+p.michael;;13,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἑβδομήκοντα πέντε χοί νικας 8 ,
+γίνονται πυροῦ ἀρτάβαι 75 χοί νικες 8 · καὶ σ"
+p.michael;;13,1,κριθησ,TAX,0.0,TAX,no_positive+negative(TAX),"ρίου ὁμοίως κ ρι θῆς ἀρτάβας ἑπτὰ, γίνονται κριθῆς ἀρτάβαι 7 .
+τὰς δὲ λοιπὰς ἀρούρας"
+p.mil.congr.xiv;;pg64,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἑκάστης ἀρούρης, σὺν ᾗ λήμψεται
+ὁ μεμισθωμένος πυροῦ ἀρτάβης μιᾶς 1 , πυροῦ ἀρταβῶν
+πέντε"
+p.mil.congr.xiv;;pg64,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ὁ μεμισθωμένος πυροῦ ἀρτάβης μιᾶς 1 , πυροῦ ἀρταβῶν
+πέντε 5 , ἐπὶ δὲ τὰ"
+p.mil.congr.xiv;;pg64,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"σπερ
+μάτων πυροῦ ἀρτάβης μιᾶς 1 , πυροῦ ἀρταβῶν ἕξ 6 , καὶ
+θαλλῶν κατʼ"
+p.mil.congr.xiv;;pg64,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἑκάστης ἀρούρης σὺν ᾗ λ
+ή μψομαι πυροῦ ἀρτάβης μιᾶς 1 πυροῦ ἀρταβῶν πέντε 5 ,"
+p.mil.congr.xiv;;pg64,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"λ
+ή μψομαι πυροῦ ἀρτάβης μιᾶς 1 πυροῦ ἀρταβῶν πέντε 5 , ἐπὶ δὲ τὰ λοιπ"
+p.mil.vogl;1;28,1,κριθ,SEED,0.0,SEED,no_positive+negative(SEED),".
+σπέρμ ατα κλήρου παραδ είσου Σαμαρείας κριθ ῆς 4 χο ἀρτάβαι 2 1/2 πέμπτον δέκατον"
+p.mil.vogl;3;130,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἀρούρας μὲν δέκα 10 εἰς σ πορὰν πορὰν πυροῦ, ἐκφορίου
+σὺν αἷς λημ ψόμεθα σπερμάτων πυροῦ"
+p.mil.vogl;3;130,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","πυροῦ, ἐκφορίου
+σὺν αἷς λημ ψόμεθα σπερμάτων πυροῦ ἀρτάβαις
+δέκα 10 πυρ οῦ ἀρταβῶν ἑκατὸν"
+p.mil.vogl;3;130,1,πυρ,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","λημ ψόμεθα σπερμάτων πυροῦ ἀρτάβαις
+δέκα 10 πυρ οῦ ἀρταβῶν ἑκατὸν δέκα 110 , διὰ τὸ"
+p.mil.vogl;3;130,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","τὰς μὲν ἀρούρας δέκα 10 εἰς σ πορὰν πυροῦ ,
+τῆς μισθ ώσεως τ ὰς μὲν"
+p.mil.vogl;3;130,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ρὰν ἐκφορίου σὺν ταῖς τῶν σπερμάτων ἀρτά
+πυροῦ, ἐκφ ορίου σ ὺν αἷς λ η μψ"
+p.mil.vogl;3;130,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"μψ ό μεθα σπερμάτ ων βαις δέκα 10 πυροῦ ἀρταβῶν ἑκατὸν τριάκοντα 130 ,
+πυροῦ ἀρτά"
+p.mil.vogl;3;130,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"10 πυροῦ ἀρταβῶν ἑκατὸν τριάκοντα 130 ,
+πυροῦ ἀρτά βαις ἕ νδεκα 11 , πυροῦ ἀρταβῶν"
+p.mil.vogl;3;130,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"πυροῦ ἀρτά βαις ἕ νδεκα 11 , πυροῦ ἀρταβῶν ἑκατὸ ν τεσ καὶ τὰς ἀρούρας ἕνδεκα"
+p.mil.vogl;3;130,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","μὲν ἀρούρας ἕνδεκα 11 εἰς σ πορὰν πορὰν πυροῦ, ἐκφορίου σὺν
+ταῖς τῶν σπερμάτων ἀρτάβαις ἕνδεκα"
+p.mil.vogl;3;130,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","σὺν
+ταῖς τῶν σπερμάτων ἀρτάβαις ἕνδεκα 11 πυροῦ
+ἀρταβῶν ἑκατὸν τεσσεράκοντα τριῶν 143 , τὰς"
+p.mil.vogl;6;288,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"σ ὺν αἷ ς λ ημψό μεθα σπέρμασι πυροῦ ἀρτάβαις 5
+τοῦ π αν τ ὸς"
+p.mil.vogl;6;288,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"ἀρτάβαις 5
+τοῦ π αν τ ὸς πυροῦ ἀρταβῶν 60 καὶ φόρου δραχμῶν 160 · τὸ"
+p.mil.vogl;6;288,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"μὲν 8 εἰ ς σ π π ορὰν πυροῦ , τὰς δὲ
+λ οι π ὰς"
+p.mil.vogl;6;288,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),σὺν α ἷς λη μψόμεθα σπέρ μασι πυροῦ ἀρτάβαις 8 τοῦ παντὸ ς κατʼ ἔτο ς
+p.mil.vogl;6;288,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἀρτάβαις 8 τοῦ παντὸ ς κατʼ ἔτο ς πυροῦ ἀρταβῶν
+96 κ αὶ φό ρου δραχμῶν"
+p.oxy;12;1419,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ὀπινάτορι ὀπεινάτορι Ὀπεινάτορι ἀπαι τητῇ τι μῆς πυροῦ
+δραχμὰς 1500 , ἀλλὰ καὶ ἄλλας εἰς"
+p.oxy;12;1473,1,πυρου,TAX,0.0,"TAX,RATION","no_positive+negative(TAX,RATION)","χορηγῶν χωρηγῶν τῇ Ἀπολλωναρίῳ εἰς διατροφὴν κατʼ ἔτος πυροῦ ἀρτάβας πεντήκοντα 50 μέτρῳ
+τῷ προκειμένῳ καὶ"
+p.oxy;12;1474,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"τῷ Ἐπεὶφ μηνὶ τοῦ ἐνεστῶτος 23 ἔτους
+πυροῦ νέου ναίου καθαροῦ ἀδόλου ἀδώλου ἀβώλου ἀκρίθου κεκοσκινευμένου"
+p.oxy;17;2121,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"παραφυλακῆς τ οῦ μετρου μένου
+δημ οσίου πυροῦ τε καὶ γεν ῶν·
+Πα Ἥρωνος τοῦ"
+p.oxy;17;2121,2,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"προνοεῖν τῆς παραφυλακῆς τοῦ μετρου μένου
+δημοσίου πυροῦ τε καὶ γενῶν.
+Νεῶς Ἡρακλᾶ ὡς ἐτῶν"
+p.oxy;19;2240,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),τ ρη θ είσας εἰς τὸ δη μόσιον πυροῦ ἀρτάβας 43 1/2 λοιπ ὴ ἀρτάβης 1/2 διαφό
+p.oxy;3;533,1,πυρου,TAX,0.0,"TAX,ADMIN","no_positive+negative(TAX,ADMIN)",οκιμᾷς. Ἡρακλείδης Ἑρμαίσκ ο υ ἀποδότω τὰς τοῦ πυροῦ ἀρτάβας 6 ἐν θέματι. ε ἴ πατε Διο
+p.oxy;42;3058,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"καὶ παρὰ Εὐανγέλ λ ου ενχειρ παθε
+πυροῦ ἀρτάβαι 250 καὶ ἐν δημοσίοις θησαυροῖς
+τὸ"
+p.oxy;56;3874,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"1600
+Π τολεμαίῳ ὑ πὲρ κομοδίου ναύλου σίτου τάλαντα 25
+ε ἰ ς συμπλήρωσιν νομισματίων"
+p.oxy;57;3906,1,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),πέρμ ατα περμ δάνεια δάν ι α ἀπὸ πυροῦ γενήμ ατος τοῦ διελ θόντος 8 ἔτους
+p.oxy;62;4336,2,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"Καίσαρος τοῦ κυρίου,
+Μεσορὴ 26 . φορέτρου πυροῦ δραχμὰς ὀκτώ, γίνονται δραχμαὶ 8 .
+10"
+p.oxy;62;4336,2,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"δεκάτου ἔτους Αὐρηλίου Ἀντωνίνου
+Καίσαρος τοῦ κυρίου πυροῦ γενή ματος τοῦ α ὐτοῦ δεκάτου ἔτους"
+p.oxy;63;4356,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"κώμην
+Σενῦριν ἐκ τ οῦ Ἀπολλωνίου
+πυροῦ χο ίνικας ἓξ 6 1/2 ἀν ὰ πυροῦ"
+p.oxy;63;4356,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),πυροῦ χο ίνικας ἓξ 6 1/2 ἀν ὰ πυροῦ ἀρτάβας 5 καὶ δραχμὰς 40 ἀρουρῶν 4
+p.oxy;63;4356,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"40 ἀρουρῶν 4
+προετελοῦντο δὲ ἐκφο ρίων πυροῦ ἐν θ έματι δημοσίῳ
+ἀνυπάρκτων ὁμοίως καὶ"
+p.petr.kleon;;68,1,πυρων,ADMIN,0.0,"ADMIN,RATION","no_positive+negative(ADMIN,RATION)","ἔτους δραχμὰς 90 καὶ
+τοῦ 31 ἔτους πυρῶν 24 1/3 . ' 24 1/3 ἀρτάβαι καὶ"
+p.petr;3;109,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"γίνονται δραχμαὶ πυροῦ 2 1/2 1/4
+τοῦ 37 ἔτους χω"
+p.petr;3;109,2,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"λακιτικὸν πυροῦ 3
+γίνονται δραχμαὶ 23 2 πυροῦ 3
+τοῦ 37 ἔτους χωματι κὸν"
+p.petr;3;109,3,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"3
+τοῦ 38 ἔτους χω ματι κὸν πυροῦ 16 4
+ἁλικ ῆς 2 φυ λακι"
+p.petr;3;109,5,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"1/2 1/4 1/8
+γίνονται δραχμαὶ 19 2 πυροῦ 2 1/2 1/4 1/8
+τοῦ 37 ἔτους"
+p.petr;3;109,5,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"φυλακι τικὸν πυροῦ 3
+γίνονται δραχμαὶ 19 πυροῦ 3
+γίνονται 56 2 πυροῦ 8 1/2"
+p.petr;3;109,11,κριθ,TAX,0.0,TAX,no_positive+negative(TAX),"1/3
+εἰς τὸ αὐτὸ ταυτὸ δραχμαὶ 20 κριθ ῆς 7 1/2 1/3
+αἳ πυροῦ 4"
+p.petr;3;141,1,σιτου,RATION,0.0,RATION,no_positive+negative(RATION),"τὸν Θαὺτ μηνῶν 4 δραχμὰς 16
+καὶ σίτου εἰς τοῦ εἰς τὸν Θαὺτ 1 1/2"
+p.rain.unterricht;;101,1,σιτοκριθου,SEED,0.0,SEED,no_positive+negative(SEED),"1/70 οὕτως οὕτως νο μισμάτια 4
+τοῦ σιτοκρίθου τῆς 5 ἰνδικ τίωνος ὥστε εξαργυρισ μ ἐν"
+p.ryl;2;166,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ύρης σὺ ν ᾗ λήμψομαι σπερμάτω ν
+πυροῦ δρ ό μου ἀρτάβῃ ἀρταβην μιᾷ μια ν"
+p.ryl;2;166,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"δρ ό μου ἀρτάβῃ ἀρταβην μιᾷ μια ν πυροῦ ἀρτάβας
+ἓξ ἡμίσ ει αν ἡμ ύ"
+p.ryl;2;90,2,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"ἄδωλον τὸν του μετρούμενον μετρουμενου δημόσιον δημοσιου
+πυρὸν πυρου Ἀνουβᾶς Νεφερῶτος ὡς ἐτῶν 40 ἔχω ν"
+p.ryl;2;90,2,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"τὸν του μετρούμενον μετρουμενου δημόσιον δημοσιου
+πυρὸν πυρου Ἀνουβᾶς Νεφερῶτος ὡς ἐτῶν 40 ἔχω ν πό"
+p.tebt;1;50,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"μενον
+β λάβος τὰς 150 ἀρτάβας τοῦ πυροῦ καὶ τὰ 15 τάλαντα τοῦ χα λκοῦ"
+p.tebt;1;61b,1,πυρωι,SEED,0.0,SEED,no_positive+negative(SEED),"1/12 ,
+διάφορον 19 1/12 , ὧν πυρῶι 17 1/12 , χαλκοῦ 2 · σπόρος πυρῶι"
+p.tebt;1;61b,1,πυρωι,SEED,0.0,SEED,no_positive+negative(SEED),"πυρῶι 17 1/12 , χαλκοῦ 2 · σπόρος πυρῶι διὰ τῶν
+κατὰ μέρος γεωργῶν ἐκ εγ"
+p.tebt;1;61b,2,πυρωι,SEED,0.0,SEED,no_positive+negative(SEED),"ἀρτάβαι 100 · διάφορον 96 2/3 , ὧν πυρῶι 75 1/3 ,
+κριθῆς αἳ πυρῶι 12"
+p.tebt;1;61b,2,κριθησ,SEED,0.0,SEED,no_positive+negative(SEED),"2/3 , ὧν πυρῶι 75 1/3 ,
+κριθῆς αἳ πυρῶι 12 , ὀλύρας α ἳ πυρῶι"
+p.tebt;1;61b,2,πυρωι,SEED,0.0,SEED,no_positive+negative(SEED),"ὧν πυρῶι 75 1/3 ,
+κριθῆς αἳ πυρῶι 12 , ὀλύρας α ἳ πυρῶι 8 ,"
+p.tebt;1;61b,2,ολυρασ,SEED,0.0,SEED,no_positive+negative(SEED),"1/3 ,
+κριθῆς αἳ πυρῶι 12 , ὀλύρας α ἳ πυρῶι 8 , χαλκοῦ 1 1/3"
+p.tebt;1;61b,2,πυρωι,SEED,0.0,SEED,no_positive+negative(SEED),"κριθῆς αἳ πυρῶι 12 , ὀλύρας α ἳ πυρῶι 8 , χαλκοῦ 1 1/3 · σπόρος πυρῶι"
+p.tebt;1;61b,2,πυρωι,SEED,0.0,SEED,no_positive+negative(SEED),"πυρῶι 8 , χαλκοῦ 1 1/3 · σπόρος πυρῶι καὶ φακῶι.
+κ αὶ τῆς ἀνενεχθείσης μετὰ"
+p.tebt;1;67,3,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"σῖ τος 39 1/3 1/12 , γίνονται εἰς πυροῦ 4658 1/12 .
+καὶ ἃ δεῖ ν"
+p.tebt;1;67,3,πυρου,TAX,0.0,"TAX,LOAN,SEED","no_positive+negative(TAX,LOAN,SEED)","εἰς δάνεια εἰς τὸν σπόρον τοῦ αὐτοῦ ἔτους πυροῦ 120 φα κοῦ 100
+ἄρουραι 17 ὧν"
+p.tebt;1;67,3,πυρωι,TAX,0.0,TAX,no_positive+negative(TAX),"τοῦ πλείω πλείωι
+συναγομένου ἐξ εἰκα σίας πυρῶι 83 1/2 1/4 ,
+ὧν ἄρουραι 3"
+p.tebt;1;68,2,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"αἳ πυροῦ 2877 1/4 , ὀλ ύρας αἳ πυροῦ 97 1/2 1/4 ,
+χ α λκοῦ"
+p.tebt;1;68,2,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"σ ῖ τος 39 1/3 1/12 , εἰς πυροῦ 4609 1/12 .
+ἐκ δὲ τοῦ σπόρου"
+p.tebt;1;68,2,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"4609 1/12 .
+ἐκ δὲ τοῦ σπόρου πυροῦ 3475 1/2 1/12 ,
+πυρο ῦ ἀντʼ"
+p.tebt;1;68,2,πυρο,SEED,0.0,SEED,no_positive+negative(SEED),"τοῦ σπόρου πυροῦ 3475 1/2 1/12 ,
+πυρο ῦ ἀντʼ ὀσπρίων 94 1/12 , γίνονται πυροῦ"
+p.tebt;1;68,2,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"πυρο ῦ ἀντʼ ὀσπρίων 94 1/12 , γίνονται πυροῦ 3569 2/3 ,
+κρι θῆς 83 3"
+p.tebt;1;70,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ὧν γενισμὸς ἐκ ἐγ μὲν τῆς ὑποθή κης πυροῦ 1663 2/3 38 2/3 vestiges ,
+κ"
+p.tebt;1;70,2,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"ι ς ἄλλ ο ι γένεσι τοῖς πρὸς πυρὸν διοικουμένοις·
+φασήλωι 9 ὧν ἐκφόριον ἀρτάβαι 34"
+p.tebt;1;72,5,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"1 ἔτους
+ἐκφόριον
+ωι ἐν ὧι πυροῦ 50
+ἄρουραι 24 ὧν ἐκφόριο ν 120"
+p.tebt;2;420,1,κριθαρ,RATION,0.0,RATION,no_positive+negative(RATION),"πρὸς σὲ σαὶ ἐλθεῖν ἐλθῖν ἕνεκα τῶν κριθαρ
+ίων καὶ μετάδος μετάδες Διογένι ἵνα καὶ"
+p.tebt;2;420,1,κριθησ,RATION,0.0,RATION,no_positive+negative(RATION),"Διογένι ἵνα καὶ
+αὐτὸς δοῖ δῦ ἀρτάβην κριθῆς εἰς λό
+γον ὀψωνίων. δὸς οὖν τὴν"
+p.tebt;3.1;805,1,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"τῆς γῆς τοῦ ὑπολειφθη
+σομένου χα λκοῦ πυρὸν ἑ κάσ της ἀρτάβης
+χαλκοῦ δραχμῶν 700"
+psi;10;1176,1,κριθ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"κριθ ῆς 169
+vestiges πυροῦ ἀρτάβαι 169 κριθ ῆς ἀρτάβαι 169
+ουν ι ος κ"
+psi;4;388,1,κριθ,TAX,0.0,"TAX,TRANSPORT","no_positive+negative(TAX,TRANSPORT)","στεφάνου 3 3
+ἔτους 39 ναῦλον κριθ ῶ ν 1 ὀβολοὺς 2 1/2 τέ ταρτον"
+psi;7;788,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"ρας ἕ ν δεκα 11 καὶ σπορὰν πυρ οῦ ἀρούρας ὀκτὼ 8
+ἀ ν ὰ"
+psi;7;788,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"οῦ ἀρούρας ὀκτὼ 8
+ἀ ν ὰ πυροῦ ἀρτάβα ς ἐννέα 9 κ αὶ εἰς σπορὰν"
+psi;7;788,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"Ἐ π εὶπ μη ν ὶ ἐν πυροῦ ἀρτά βαις ἑβδομ η
+κονταδύο 72 ἐπὶ"
+sb;10;10754,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ι λᾶτι ναυ
+τικῷ ὑπ ὲρ ναύλου πυροῦ ἀρταβῶν 600 δραχμῶν 60 , μεθʼ ἃς ἔσχ"
+sb;18;13619,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ταις τοῖς ἐν τῆι Θαλλοῦ φόρετρον
+σίτου τοῦ ἐμβαλλομένου
+ζαμου εἰς Ἀλεξάνδρειαν
+εἰς"
+sb;18;13763,1,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"αἳ πυροῦ ἀρτάβαι 22 1/2 1/8 κ αὶ πυροῦ ἀρτάβη 1 1/4
+ἡ κα ρουσα τοῖς"
+sb;20;14315,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","τοῦ μὲν 1 καὶ
+3 ἔτοῦς εἰς πυροῦ σπορὰν
+ἐκφορίου σὺν σπέρμασι πυροῦ ἀρταβῶν"
+sb;20;14315,1,πυρου,TAX,0.0,"TAX,SEED","no_positive+negative(TAX,SEED)","ἔτοῦς εἰς πυροῦ σπορὰν
+ἐκφορίου σὺν σπέρμασι πυροῦ ἀρταβῶν
+20 τοῦ παντὸς κατʼ καθʼ ἔτο"
+sb;20;14708,1,πυρο,SEED,0.0,SEED,no_positive+negative(SEED),"κώμῃ Σαραπιήωι ἐξ ἧς συνήχθη
+σαν εἰς πυρο ῦ ἀρτάβας φ καὶ εἰσελ θ ὼν εἰς"
+sb;22;15332,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"ὑπὲρ φολέτρων αυτ ανασπ ζ
+το κλῆρων πυροῦ ἀρτάβαι αρια. ταῦτα μετα ιας
+δυναμης αὐτῶν"
+sb;22;15333,1,πυρικων,SEED,0.0,SEED,no_positive+negative(SEED),"τρισὶ 3 γεωργοῖς εἰς τιμ ὴν
+σπερμάτων πυρικῶν
+ἀργυρίου δραχμ ὰς ἑκατόν,
+γ ίνονται"
+sb;26;16551,1,κριθη,TAX,0.0,TAX,no_positive+negative(TAX),"α 12
+τούτων ἔλαβε αἴλαβη μέτρα 2 κριθῆ ς
+χαλκοῦ δραχμὰς 8 ὁμοί ως κρι"
+sb;28;17170,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ὑπ ὲρ
+Τέρτον Σ αμ οο ῦ πυροῦ δο χικῷ ἀρτάβαι 3 1/2 1/3
+χωρὶς"
+sb;28;17170,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"27 ἔτους ὡς εἶν αι 5 ἐτῶν
+πυροῦ ἀρτάβας 28 1/2 κ αὶ ἀργ υρίου δραχμὰς"
+sb;30;17425,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"φόρ ου ἀπο τάκτου μετὰ τὰ δημόσια πυροῦ ἀρτάβ 1 1/2 δραχμ- 3000
+δι ὰ"
+sb;30;17425,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"φόρου ἀπο τ άκτου μετὰ τὰ δημόσια πυροῦ ἀρτάβ 10 τάλαντ- 3 δραχμ- 2000
+δι"
+upz;2;206,1,σιτω,RATION,0.0,RATION,no_positive+negative(RATION),"αἰτήσεως τοῦ καθή κοντος
+ὀψωνίου κα ὶ σιτω νίου τοῖς μ ε τακειμένοις ἐξ Ἑρμώνθεως εἰς"
+upz;2;207,1,πυρου,RATION,0.0,RATION,no_positive+negative(RATION),"Μεγάλην τὸ γινόμενον τοῦ μηνὸς ὀψώνιον 1200 , πυροῦ 24 , ὧν τ ι μὴ ἀνὰ 1"
+zpe;200;339,1,πυρω,TAX,0.0,"TAX,ADMIN,SEED","no_positive+negative(TAX,ADMIN,SEED)","εἰσι ἄρουραι 11 , ὥστε τοὺς μεμισθωμένους σπεῖραι πυρῷ
+σὺν τοῖς μεμισθωκόσι τὰς ὅλας ἀρούρας 22"
+zpe;200;339,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"τὸ 1/2 , ἐκφορίου
+ἑκάστης ἀρούρης ἀνὰ πυροῦ ἀρτάβας 11 , ἀχύ ρ ου
+τ"
+zpe;200;339,1,πυρον,TAX,0.0,TAX,no_positive+negative(TAX),"ῷ γεούχῳ τὰ ἐκφόρια ἐφʼ ἅλῳ
+Ὤφεως, πυρὸν νέον καθαρὸν ἄδολον ἄβωλον
+ἄκριθον κεκοσκινευμένον ὡς"
+bgu;14;2395,1,πυργον,LOAN,0.0,LOAN,no_positive+negative(LOAN),"Δημη τ ρίαι τὸν αὑτοῦ πα τρικὸν
+πύργον τὸν ὄντα ἐν ἐγ κώμηι Τακόναι τοῦ Ὀξυρυγχίτου"
+bgu;14;2395,2,πυρ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ἐμίσθωσεν Ἀπολλώνιος Δημητρία ι τὸν αὑτοῦ πατρικὸν πύρ
+γ ον τὸν ὄντα ἐν κώμηι Τακόναι"
+bgu;2;567,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ρησκέντ ιον λοιπογρ αφίας λυπογρ αφίας ἐκφορί ου πυροῦ 18 2
+ὁμολ ογίας Ἀντωνείο υ Ἀουιλλιανο"
+bgu;2;567,1,κριθ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"τεσούχ ου καὶ τὸν ἀδε λ φ ὸν κριθ ῆς 6 2
+17 ἕως 20 οὐδὲν"
+bgu;2;567,1,κριθ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ς Παν υἱὸν Φάσιτο ς δραχμῶν 50 , κριθ ῆς 8 2
+22 ἕως 25 οὐδὲν"
+bgu;2;567,1,κριθ,LOAN,0.0,LOAN,no_positive+negative(LOAN),"ν Δ ι ογένη ν δραχμῶν 200 , κριθ ῆς
+7 ἕως 9 οὐδὲν περιε γέ"
+bgu;2;624,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ἱ ερᾶς μὴ ἀμέλει ὀφειλῆς ὀφιλῆ ς
+πυροῦ 6 καὶ δραχμὰς 44 3 π αρὰ Κ"
+cpr;6;82,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"240 .
+περὶ δὲ τῆς ἐκβολῆς τοῦ σίτου
+τῆς Τετρ ακωμ ίας ἐποίησα Ἑρ"
+o.stras;1;170,1,κριθησ,TAX,0.0,TAX,no_positive+negative(TAX),"εἰ ς τὴν δημοσίαν τράπεζαν
+ὑπὲρ καὶ κριθῆς 5 ἰνδικτ ί ωνος
+τάλαντα τρ ία"
+p.cair.zen;3;59346,1,κριθαι,TAX,0.0,TAX,no_positive+negative(TAX),"ἠγοράσθη ἠγοραθη τοῖς χοιριδίοις ἐν ἐμ Φαρβαίθωι
+κριθαὶ ὀβολοῦ 1 1/2 τὸ δὲ λοιπὸν ε"
+p.cair.zen;4;59691,1,σιτου,RATION,0.0,RATION,no_positive+negative(RATION),"ὀψώνιον
+καὶ ἐμοὶ εἰς τ
+τοῦ σίτου σείτου λόγωι
+ἐκ τῶν ἐπωκε
+γίνονται"
+p.cair.zen;4;59747,1,πυρωι,RATION,0.0,RATION,no_positive+negative(RATION),"ὀψώνιον τοῦ Παῦνι
+Ἰναρῶι δραχμὰς 2
+Πύρωι εἰς τὸν Παῦνι δραχμὰς 2 3
+Ἐφέσωι"
+p.enteux;;50,1,κριθησομενον,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"κίτηι τῆς κώμης ἀποστεῖλαι ἀποστῖλαι Ὧρον ἐπὶ Διοφάνην κριθησόμενόν μοι καί, ἂν
+φαίνωμαι μὴ συγγεγραμμένος τὴν"
+p.lille;1;31,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"ὧν
+Φαμ ενὼθ
+Φαρμοῦθι 9 , πυρῶν 286 1/2 · 10 , πυρῶν σ πέρμα"
+p.lille;1;31,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"9 , πυρῶν 286 1/2 · 10 , πυρῶν σ πέρμα πυρ ῶν 100 γίνονται 12 1/2"
+p.lille;1;31,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"286 1/2 · 10 , πυρῶν σ πέρμα πυρ ῶν 100 γίνονται 12 1/2 1/3 ,"
+p.lille;1;31,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"100 γίνονται 12 1/2 1/3 ,
+σπέρμα πυρ ῶν 6 γίνονται πυρῶν
+Παῦνι 22 ,"
+p.lille;1;31,1,πυρων,SEED,0.0,SEED,no_positive+negative(SEED),"1/3 ,
+σπέρμα πυρ ῶν 6 γίνονται πυρῶν
+Παῦνι 22 , σπέρμα ἀράκου 32"
+p.lille;1;31,1,πυρ,SEED,0.0,SEED,no_positive+negative(SEED),"11 , λί νου πυ ροῦ λι νο πυρ ῶν 3 1/2 · 12 , λί νου"
+p.lille;1;31,2,πυρ,TAX,0.0,TAX,no_positive+negative(TAX),"Με χεὶρ
+καὶ σῖτος μεμέτρηται
+Ἐπεὶφ, πυρ ῶν 1/2 1/4
+λοιπὸν ἀργυρίου κ"
+p.oxy;10;1254,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"τὴν λαμπροτάτην Ἀλεξ ά ν
+δρειαν δημοσίου πυροῦ ἴσον
+δημοσίᾳ πρόκιται, ἵνα πάντες
+εἰδῶσι"
+p.oxy;10;1254,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"ἔτους .
+εἰς δειγματοκαταγωγίαν διγματοκαταγωγίαν δημοσίου
+πυροῦ καταγομένου εἰς τὴν λαμ
+προτάτην Ἀλεξάνδριαν"
+p.oxy;14;1652A,1,κριθ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ἐρήμ ων δραχμαὶ 21 ,
+ναύλ ου κριθ ῆς Ἀλ ε ξ ανδρείας δραχμαὶ 518 ,"
+p.oxy;14;1652B,1,κριθ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ἐρήμ ων δραχμαὶ 66 ,
+ναύλ ου κριθ ῆς δραχμαὶ 1631 ,
+ἐρήμ ων δραχμαὶ"
+p.petr;3;108,1,πυρου,SEED,0.0,SEED,no_positive+negative(SEED),"ἄρουραι 61 δραχμαὶ 10 1
+σπέρμα πυροῦ
+πέπτωκε πάντα
+Κρ ατ ή σιππος"
+p.petr;3;111,1,πυρων,TAX,0.0,TAX,no_positive+negative(TAX),"τὰ ἐ πάνω
+γίνονται δραχμαὶ 36 5 πυρῶν
+πέπτωκεν ἔτους 10 Μεχὶρ 9
+τ"
+p.petr;3;111,1,σιτου,TAX,0.0,TAX,no_positive+negative(TAX),"δραχμαὶ 3 2 γίνονται δραχμαὶ 23 4
+σίτου φυλακι τικὸν 3 ἰατρι κὸν 2 στεφαν ικὸν"
+p.petr;3;26,1,κριθηι,ADMIN,0.0,ADMIN,no_positive+negative(ADMIN),"ἐὰν δέ τις
+παρὰ ταῦτα κρινῆι ἢ κριθῆι ἄκυρα ἔστω.
+ἐὰν ἐμβῆι βοῦς ἢ ὑποζύγιον"
+p.rev;;2nded,1,κριθηι,TAX,0.0,TAX,no_positive+negative(TAX),"τ ῆς διοικήσ εως
+τε ταγμένο υ κριθῆι, κατὰ τ ὰ
+α ὐτὰ γινέσ θω."
+p.ryl;2;119,1,πυρου,TAX,0.0,TAX,no_positive+negative(TAX),"πλῆθος τῶν κατʼ ἔτος γενημάτων, δεκαρ
+τάβου πυροῦ ὄντος κατʼ ἔτος τοῦ ἐκφορίου, ἀλλὰ καὶ τὰ"
+p.ryl;4;558,1,σιτωι,RATION,0.0,RATION,no_positive+negative(RATION),", καὶ δὸς τοῖς 8 ἑκάστωι σὺν τῶι σίτωι εἰς τὸ ν πλοῦν ὀψώνιον
+χαλκ ο"
+p.ryl;4;602,1,πυρου,LOAN,0.0,LOAN,no_positive+negative(LOAN),"τόκου τ οῦ
+π μ ῆ να πυροῦ ἑκατὸν 100 καὶ ἀποδ
+ώσω ἀ ποδ"
+p.stras;1;73,1,κριθην,RATION,0.0,RATION,no_positive+negative(RATION),"ἧς συνκομι
+σας ἧς οὖν ἐκομισας κομισας κριθὴν πέμψον μοι διατροφὴν
+ἡμ ῖν ἧ ς"
+p.tebt;3.2;847,1,ολυρασ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"πυροῦ 491 1/2 , κ ριθῆς 1/2 , ὀλύρας
+υπ υ πυρ ο ῦ 416 1/6"
+p.tebt;3.2;847,1,πυρ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"κ ριθῆς 1/2 , ὀλύρας
+υπ υ πυρ ο ῦ 416 1/6 1/24 1/2 1/12 ,"
+p.tebt;3.2;847,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"φόρετρον, καθάρσεως καὶ κ οσκινευ τικοῦ
+πυροῦ 119 1/6 , κριθῆς , ὀ λύρας 201"
+p.tebt;3.2;847,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"κ οσκινευ τικοῦ
+πυροῦ 119 1/6 , κριθῆς , ὀ λύρας 201 1/2 ,
+χειριστικὸν"
+p.tebt;3.2;847,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"δʼ ἐ κ τῶν π λοίων Ψεν πυροῦ 100 , συ ν 1 , κο σκινευτικοῦ"
+p.tebt;3.2;847,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"γωγῆς 1/2 1/4 , φόρετρον 6 , γίνονται πυροῦ 8 1/2 1/3 ."
+sb;20;14450,1,σιτου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ὰ Ἑρμείου τραπεζίτου τραπαιζείτου ὑ πὲρ ναύλου
+σίτου δι ὰ Ἑρμοδώρου βοηθοῦ τάλαντα 6 δραχμαὶ 4000"
+sb;6;9458,1,πυρου,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ἐ
+φʼ ὅρμον κατακομιζομένου τῆς κώμης
+πυροῦ καὶ ἀντὶ τοῦ διδομένου ὑπʼ αὐτοῦ ναύ"
+stud.pal;2;pg34,1,κριθησ,TRANSPORT,0.0,TRANSPORT,no_positive+negative(TRANSPORT),"ἀπεσχηκέναι
+παρὰ σοῦ ὑπὲρ λόγου
+ναύλου κριθῆς ἧς ἐνε
+βαλόμην εἰς τὸ ἡμέτερον"
