@@ -6,7 +6,7 @@
 - **英題**: Comparing Rule-Based and LLM Methods for Extracting Economic Information from Ancient Documents: Grain Prices in Roman Imperial Egypt
 - **著者**: 藤本 俊哉（京都大学）・阿部 忠道（千葉大学）・小川 潤（東京大学）
 - **学会**: 情報処理学会 人文科学とコンピュータ研究会 第141回研究発表会（CH141）
-- **年**: 2025
+- **年**: 2026
 - **DOI**: （公開後に追記）
 
 ## 概要
